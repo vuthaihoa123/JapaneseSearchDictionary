@@ -1,0 +1,7 @@
+#Thu May 18 06:50:09 ICT 2017
+base.0=/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_870a015a3d7b4b77853f5af8e1c7f826ad55ee92
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eee2616c6caef82b78fbfd2f2661821247151b6b/classes.dex
+base.1=/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eee2616c6caef82b78fbfd2f2661821247151b6b
+file.0=/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_870a015a3d7b4b77853f5af8e1c7f826ad55ee92/classes.dex

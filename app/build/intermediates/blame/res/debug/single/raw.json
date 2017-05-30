@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/res/merged/debug/raw/definitions.txt",
+        "source": "/Volumes/Dev/workspace/SearchableDictionary/app/src/main/res/raw/definitions.txt"
+    },
+    {
+        "merged": "/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/res/merged/debug/raw/grammars",
+        "source": "/Volumes/Dev/workspace/SearchableDictionary/app/src/main/res/raw/grammars"
+    }
+]

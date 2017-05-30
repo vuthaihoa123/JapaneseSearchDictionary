@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Volumes/Dev/workspace/SearchableDictionary/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/res/merged/debug/layout/word.xml",
+        "source": "/Volumes/Dev/workspace/SearchableDictionary/app/src/main/res/layout/word.xml"
+    },
+    {
+        "merged": "/Volumes/Dev/workspace/SearchableDictionary/app/build/intermediates/res/merged/debug/layout/result.xml",
+        "source": "/Volumes/Dev/workspace/SearchableDictionary/app/src/main/res/layout/result.xml"
+    }
+]

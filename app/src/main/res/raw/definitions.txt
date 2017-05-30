@@ -1,0 +1,3636 @@
+Bài 1
+わたし - pn. tôi
+わたしたち - pn. chúng tôi, chúng ta
+あなた - pn. anh/chị, ông/bà, bạn (ngôi thứ II số ít)
+あのひと - pn. người kia, người đó
+あのかた - pn. là cách nói lịch sự của 「あのひと」, vị kia
+みなさん - pn. các anh chị, các ông bà, các bạn, quý vị
+〜さん - su. anh, chị, ông, bà (cách gọi người khác một cách lịch sự bằng cách thêm từ này vào sau tên của người đó)
+〜ちゃん - su. (hậu tố thêm vào sau tên của em gái thay cho 「〜さん」)
+〜くん - su. (hậu tố thêm vào sau tên của em trai)
+〜じん - su. (hậu tố mang nghĩa "người(nước)~"; ví dụ 「アメリカじん」: người Mỹ)
+せんせい - n. thầy/cô (dùng khi gọi giáo viên của mình, không dùng khi nói về nghề nghiệp giáo viên của mình)
+きょうし - n. giáo viên (nghề nghiệp)
+がくせい - n. học sinh, sinh viên
+かいしゃいん - n. nhân viên công ty
+しゃいん - n. nhân viên công ty ~ (dùng kèm theo tên công ty; ví dụ 「IMCのしゃいん」)
+ぎんこういん - n. nhân viên ngân hàng
+いしゃ - n. bác sĩ
+けんきゅうしゃ - n. nhà nghiên cứu
+エンジニア - n. kỹ sư
+けんきゅうせい - n. nghiên cứu sinh
+だいがく - n. đại học, trường đại học
+びょういん - n. bệnh viện
+でんき - n. điện, đèn điện
+だれ - . ai
+どなた - . là cách nói lịch sự của 「だれ」, vị nào
+-さい - su. - tuổi
+なんさい - q. mấy tuổi, bao nhiêu tuổi
+おいくつ - q. là cách nói lịch sự của 「なんさい」
+はい - . vâng, dạ
+いいえ - . không
+しつれいですが - . xin lỗi,...
+おなまえは - q. Tên anh/chị là gì?
+はじめまして - . Rất hân hạnh được gặp anh/chị (Đây là lời chào với người lần đầu tiên gặp, là câu nói đầu tiên trước khi giới thiệu về mình)
+どうぞよろしくおねがいします - . Rất mong được sự giúp đỡ của anh/chị, rất vui được làm quen với anh/chị (Dùng làm câu kết thúc sau khi giới thiệu về mình)
+こちらは〜さんです - . Đây là anh/chị/ông/bà ~.
+〜からきました - . (Tôi) đến từ ~.
+アメリカ - n. Mỹ
+イギリス - n. Anh
+インド - n. Ấn Độ
+インドネシア - n. Indonesia
+かんこく - n. Hàn Quốc
+タイ - n. Thái Lan
+ちゅうごく - n. Trung Quốc
+ドイツ - n. Đức
+にほん - n. Nhật Bản
+フランス - n. Pháp
+ブラジル - n. Braxin
+さくらだいがく　/　ふじだいがく - n. tên các trường đại học (giả tưởng)
+IMC / パワーでんき / ブラジルエアー - n. tên các công ty (giả tưởng)
+AKC - n. tên một tổ chức (giả tưởng)
+こうべびょういん - n. tên một bệnh viện (giả tưởng)
+イタリア - n. Ý
+イラン - n. Iran
+エジプト - n. Ai Cập
+オーストラリア - n. Úc
+カナダ - n. Canada
+サウジアラビア - n. Ả-rập Xê-út
+シンガポール - n. Singapore
+スぺイン - n. Tây Ban Nha
+フィリピン - n. Philippine
+ベトナム - n. Việt Nam
+マレージア - n. Malaysia
+メキシコ - n. Mexico
+ロシア - n. Nga
+
+Bài 2
+これ - . cái này, đây (vật ở gần người nói)
+それ - . cái đó, đó (vật ở gần người nghe)
+あれ - . cái kia, kia (vật ở xa cả người nói và người nghe)
+この〜 - . này
+その〜 - . đó
+あの〜 - . kia
+ほん - n. sách
+じしょ - n. từ điển
+ざっし - n. tạp chí
+しんぶん - n. báo
+ノート - n. vở
+てちょう - n. sổ tay
+めいし - n. danh thiếp
+カード - n. thẻ, các, cạc
+テレホンカード - n. thẻ điện thoại
+えんぴつ - n. bút chì gỗ
+ボールペン - n. bút bi
+シャープペンシル - n. bút chì kim, bút chì bấm
+かぎ - n. chìa khoá
+とけい - n. đồng hồ
+かさ - n. ô, dù
+かばん - n. cặp sách, túi sách
+「カセット」テープ - n. băng [cát-xét]
+テープレコーダー - n. máy ghi âm
+テレビ - n. tivi
+ラジア - n. radio
+カメラ - n. máy ảnh
+コンビューター - n. máy vi tính
+じどうしゃ - n. ô tô, xe hơi
+つくえ - n. bàn
+いす - n. ghế
+チョコレート - n. sôcôla
+コーヒー - n. cà phê
+えいご - n. tiếng Anh
+にほんご - n. tiếng Nhật
+〜ご - . tiếng ~
+なん - . cái gì, gì
+そう - . đúng, phải, đúng vậy
+ちがいます - . Không phải./ Không đúng./ Sai rồi
+そうですか - . Thế à./Vậy à.
+あのう - . à, ờ...(dùng để biểu thị sự ngập ngừng do dự)
+ほんのきもちです - . Chỉ là chút lòng thành thôi.
+どうぞ - . Xin mời (dùng khi mời ai đó cái )
+どうも - . Cám ơn
+どうもありがとうございます - . [ Xin ][ chân thành ]cám ơn. / Xin cám ơn [rất nhiều].
+これからおせわになります - . Từ nay tôi rất mong được sự giúp đỡ của anh/chị.
+こちらこそよろしく - . Chính tôi cũng mong được sự giúp đỡ của anh/chị (đáp lại câu 「どうぞよろしく」)
+
+Bài 3
+ここ - . chỗ này, đây
+そこ - . chỗ đó, đó
+あそこ - . chỗ kia, kia
+どこ - . chỗ nào, đâu
+こちら - . phía này, đằng này, chỗ này, đây (cách nói lịch sự của「ここ」)
+そちら - . phía đó, đằng đó, chỗ đó, đó (cách nói lịch sự của「そこ」)
+あちら - . phía kia, đằng kia, chỗ kia, kia (cách nói lịch sự của「あそこ」)
+どちら - . phía nào, đằng nào, chỗ nào, đâu (cách nói lịch sự của「どこ」)
+きょうしつ - n. lớp học, phòng học
+しょくどう - n. nhà ăn
+じむしょ - n. văn phòng
+かいぎしつ - n. phòng họp
+うけつけ - n. bộ phận tiếp tân, phòng thường trực
+ロビー - n. hành lang, đại sảnh
+へや - n. căn phòng
+トイレ（おてあらい） - n. nhà vệ sinh, phòng vệ sinh, toa-lét
+かいだん - n. cầu thang
+エレベーター - n. thang máy
+エスカレーター - n. thang cuốn
+「お」くに - n. đất nước (của anh/chị)
+かいしゃ - n. công ty
+うち - n. nhà
+でんわ - n. máy điện thoại, điện thoại
+くつ - n. giầy
+ネクタイ - n. cà-vạt
+ワイン - n. rượu vang
+たばこ - n. thuốc lá
+うりば - n. quầy bán (trong một bách hóa)
+ちか - n. tầng hầm, dưới mặt đất
+ーかい（ーがい） - . tầng thứ -
+なんがい - . tầng mấy
+ｰえん - . - yên
+いくら - . bao nhiêu tiền
+ひゃく - . trăm
+せん - . nghìn
+まん - . mười nghìn, vạn
+みすません - . Xin lỗi.
+～でございます。 - . (cách nói lịch sự của [です])
+「～を」みせてください。 - . Cho tôi xem [~]
+じゃ - . thế thì, vậy thì
+「～を」ください。 - . Cho tôi [~]
+しんおおさか - n. tên một nhà ga ở Osaka.
+スイス - n. Thụy Sĩ
+ＭＴ/ヨーネン/アキックス - n. tên các công ty giả tưởng
+デパート- n. cửa hàng bách hóa
+ゆうえんち - n. công viên giải trí
+もよおものかいじょう - n. phòng tổ chức sự kiện
+めがね - n. kính mắt
+スポーツようひん - n. dụng cụ thể thao
+りょこうようひん - n. đồ du lịch
+こどもふく - n. quần áo trẻ em
+おもちゃ - n. đồ chơi
+ぶんぼうぐ - n. văn phòng phẩm
+かぐ - n. dùng cụ gia đình
+しょっき - n. bát đũa
+でんきせいひん - n. đồ điện
+しんしふく - n. quần áo nam
+ふじんふく - n. quần áo nữ
+アクセサリ - n. đồ trang sức
+けしょうひん - n. mỹ phẩm
+しょくりょうひん - n. lương thực-thực phẩm
+ちゅうしゃじょう - n. bãi đỗ xe
+
+Bài 4
+おきます - v. dậy, thức dậy
+ねます - v. ngủ, đi ngủ
+はたらきます - v. làm việc
+やすみます - v. nghỉ, nghỉ ngơi
+べんきょうします - v. học
+おわります - v. hết, kết thúc, xong
+ぎんこう - n. ngân hàng
+ゆうびんきょく - n. bưu điện
+としょかん - n. thư viện
+びじゅつかん - n. bảo tàng mỹ thuật
+いま - . bây giờ
+ーじ - . - giờ
+ーふん（ーぷん）　 - . - phút
+はん - . rưỡi, nửa
+なんじ - . mấy giờ
+なんぷん - . mấy phút
+ごぜん - . trước mười hai giờ trưa, sáng
+ごご - . sau mười hai giờ trưa, chiều
+あさ - . buổi sáng, sáng
+ひる - . buổi trưa, trưa
+ばん（よる） - . buổi tối, tối
+おととい - . hôm kia
+きのう - . hôm qua
+きょう - . hôm nay
+あした - . ngày mai
+あさって - . ngày kia
+けさ - . sáng nay
+こんばん - . tối nay
+やすみ - . nghỉ, nghỉ phép, ngày nghỉ
+ひるやすみ - . nghỉ trưa
+まいあさ - . hàng sáng, mỗi sáng
+まいばん - . hàng tối, mỗi tối
+まいにち - . hàng ngày, mỗi ngày
+げつようび - n. thứ hai
+かようび - n. thứ ba
+すいようび - n. thứ tư
+もくようび - n. thứ năm
+きんようび - n. thứ sáu
+どようび - n. thứ bảy
+にちようび - n. chủ nhật
+なにょうび - . thứ mấy
+ばんごう - . số (số điện thoại, số phòng)
+なんばん - . số bao nhiêu, số mấy
+～から - . ~ từ
+～まで - . ~ đến
+～と～ - . ~ và (dùng để nói hai danh từ)
+そちら - . ông/bà, phía ông/phía bà
+たいへんですね - . Anh/Chị vất vả quá. (dùng để bày tỏ sự thông cảm)
+えーと - . ừ, à (từ đệm trong hội thoại khi đang nghĩ điều muốn nói)
+104 - . số điện thoại của dịch vụ hướng dẫn số điện thoại
+おねがいします。 - . Nhờ anh/chị. Phiền anh/chị. Xin vui lòng giúp đỡ
+かしこまりました。 - . Tôi hiểu rồi ạ/ Vâng, được rồi ạ
+おといあわせのばんごう - . số điện thoại mà ông/bà muốn hỏi
+「どうも」ありがとうございました。 - . Xin cám ơn ông/bà
+ニューヨーク - n. New York
+ペキン - n. Bắc Kinh
+ロンドン - n. Luân Đôn
+ベンコク - n. Băng Cốc
+ロサンゼルス - n. Los Angeles
+やまとびじゅつかん - n. tên một bảo tàng mỹ thuật (giả tưởng)
+おおさかデパート - n. tên một bách hóa (giả tưởng)
+みどりとしょかん - n. tên một thư viện (giả tưởng)
+アップルぎんこう - n. tên một ngân hàng (giả tưởng)
+けいさつしょ - n. cục cảnh sát
+しょうぼうしょ - n. cục phòng cháy chữa cháy
+じほう - n. dịch vụ hỏi giờ / sự hỏi giờ
+てんきよほう - n. dự báo thời tiết
+でんわばんごうあんない - n. (dịch vụ) hướng dẫn số điện thoại
+けん「県」- n. tỉnh
+し「市」- n. thành phố
+く「区」- n. quận
+ごう「号」- n.　thứ, số
+ページ - n. trang sách
+
+Bài 5
+いきます - v. đi
+きます - v. đến
+かえります - v. về
+がっこう - n. trường học
+スーパ - n. siêu thị
+えき - n. ga, nhà ga
+ひこうき - n. máy bay
+ふね - n. thuyền, tàu thuỷ
+でんしゃ - n. tàu điện
+ちかてつ - n. tàu điện ngầm
+しんかんせん - n. tàu Shinkansen (tàu điện siêu tốc của Nhật)
+バス - n. xe buýt
+タクシー - n. tắc-xi
+じてんしゃ - n. xe đạp
+あるいて - n. đi bộ
+ひと - n. người
+ともだち - n. bạn, bạn bè
+かれ - n. anh ấy, bạn trai
+かのじょ - n. chị ấy, bạn gái
+かぞく「家族」- n. gia đình
+ひとりで - n. một mình
+せんしゅう - n. tuần trước
+こんしゅう - n. tuần này
+らいしゅう - n. tuần sau
+せんげつ - n. tháng trước
+こんげつ - n. tháng này
+らいげつ - n. tháng sau
+きょねん - n. năm ngoái
+ことし - n. năm nay
+らいねん - n. sang năm
+ーがつ - . tháng -
+なんがつ - . tháng mấy
+ついたち - . ngày mồng 1
+ふつか - . ngày mồng 2, 2 ngày
+みっか - . ngày mồng 3, 3 ngày
+よっか - . ngày mồng 4, 4 ngày
+いつか - . ngày mồng 5, 5 ngày
+むいか - . ngày mồng 6, 6 ngày
+なのか - . ngày mồng 7, 7 ngày
+ようか - . ngày mồng 8, 8 ngày
+ここのか - . ngày mồng 9, 9 ngày
+とおか - . ngày mồng 10, 10 ngày
+じゅうよっか - . ngày 14, 14 ngày
+はつか - . ngày 20, 20 ngày
+にじゅうよっか - . ngày 24, 24 ngày
+ーにち - . ngày - , - ngày
+なんにち - . ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày
+いつ - . bao giờ, khi nào
+たんじょうび - n. sinh nhật
+ふつう - n. tàu thường (dừng cả ở các ga lẻ)
+きゅうこう - n. tàu tốc hành
+とっきゅう - n. tàu tốc hành đặc biệt
+つぎの - . tiếp theo
+どう いたしまして。 - . Không có gì
+ーばんせん - . sân ga số -
+はかた - n. tên một khu phố ở Kyushu
+ふしみ - n. tên một khu phố ở Kyoto
+こうしえん - n. tên một khu phố ở gần Osaka
+おおさかじょう - n. lâu đài Osaka, một lâu đài nổi tiếng ở Osaka.
+しゅくさいじつ 「祝祭日」- n. ngày nghỉ quốc gia　
+がんじつ 「元日」- n. ngày mùng một Tết (1月1日)
+せいじんのひ 「成人の日」- n. ngày trưởng thành (１月第２月曜日)_Thay đổi theo năm
+けんこくきねんのひ 「建国記念の日」- n. ngày Quốc khánh, kỷ niệm kiến quốc (２月１１日)
+しゅんぶんのひ 「春分の日」- n. ngày Xuân phân (３月20日)＿Thứ hai của tuần thứ hai
+しょうわのひ 「昭和の日」- n. ngày Kỷ niệm Thiên Hoàng Showa (４月２９日)
+けんぽうきねんび 「憲法記念日」- n. ngày Kỷ niệm Hiến pháp (５月3日)
+みどりのひ「みどりの日」- n. ngày Màu xanh (５月4日)
+こどものひ「こどもの日」- n. ngày Trẻ em (５月5日)
+うみのひ「海の日」- n. ngày Biển (７月第３月曜日)＿Thứ hai của tuần thứ ba
+けいろうのひ「敬老の日」 - n. ngày Kính lão (９月第３月曜日)＿Thứ hai của tuần thứ ba
+しゅうぶんのひ「秋分の日」 - n. ngày Thu phân (９月２３日)＿Thứ hai của tuần thứ hai
+たいいくのひ「体育の日」 - n. ngày thể thao (１０月第２月曜日)_Thay đổi theo năm
+ぶんかのひ「文化の日」 - n. ngày văn hoá (１１月3日)
+きんろうかんしゃのひ「勤労感謝の日」 - n. ngày Cảm tạ lao động (１１月２３日)
+てんのうたんじょうび「天皇誕生日」 - n. sinh nhật của Thiên hoàng (１２月２３日)
+ゴールデンウィーク - n. Tuần lễ vàng
+げつようび「月曜日」- . Ngày thứ hai / Thứ hai
+
+Bài 6
+たべます「食べます」 - v. ăn
+のみます「飲みます」 - v. uống
+すいます「吸います」 - v. hút [thuốc lá]
+たばこを〜 - n. thuốc lá
+みます「見ます」 - v. xem, nhìn, trông
+ききます「聞きます」 - v. nghe
+よみます「読もます」 - v. đọc
+かきます「書きます」 - v. viết, vẽ
+かいます「買います」 - v. mua
+とります「撮ります」 - v. chụp [ảnh]
+しゃしんを〜「写真を〜」 - n. bức ảnh
+します - v. làm
+あいます「会います」 - v. gặp [bạn]
+ともだちに〜「友達に〜」 - n. bạn
+ごはん - n. cơm, bữa ăn
+あさごはん「朝ごはん」 - n. cơm sáng
+ひるごはん「昼ごはん」 - n. cơm trưa
+ばんごはん「晩ごはん」 - n. cơm tối
+パン - n. bánh mì
+たまご「卵」 - n. trứng
+にく「肉」 - n. thịt
+さかな「魚」 - n. cá
+やさい「野菜」 - n. rau
+くだもの「果物」 - n. hoa quả, trái cây
+みず「水」 - n. nước
+おちゃ「お茶」 - n. trà (nói chung)
+こうちゃ「紅茶」 - n. trà đen
+ぎゅうにゅう「牛乳」 - n. sữa bò
+ミルク - n. sữa bò
+ジュース - n. nước hoa quả
+ビール - n. bia
+おさけ「お酒」 - n. rượu, rượu sake
+ビデオ - n. video, băng video, đầu video
+えいが「映画」 - n. phim, điện ảnh
+CD - n. đĩa CD
+てがみ「手紙」 - n. thư
+レポート - n. báo cáo
+しゃしん「写真」 - n. ảnh
+みせ「店」 - n. cửa hàng, tiệm
+レストラン - n. nhà hàng
+にわ「庭」 - n. vườn
+しゅくだい「宿題」 - n. bài tập về nhà (～をします: làm bài tập)
+テニス - n. quần vợt (～をします:đánh quần vợt)
+サッカー - n. bóng đá (～をします:chơi bóng đá)
+おはなみ「お花見」 - n. việc ngắm hoa anh đào (～をします:ngắm hoa anh đào)
+なに「何」 - . cái gì, gì
+いっしょに - . cùng, cùng nhau
+ちょっと - . một chút
+いつも - . luôn luôn, lúc nào cũng
+ときどき「時々」 - . thỉnh thoảng
+それから - . sau đó, tiếp theo
+ええ - . vâng/được (cách nói thân mật của 「はい」)
+いいですね。 - . Được đấy nhỉ./Hay quá.
+わかりました。 - . Tôi hiểu rồi./Vâng ạ.
+なんですか。 - . Có gì đấy ạ? /Cái gì vậy? /Vâng có tôi. (câu trả lời khi ai đó gọi tên mình)
+じゃ、またあした。 - . Hẹn gặp lại [ngày mai]
+おおさかじょうこうえん「大阪城公園」 - n. Công viên lâu đài Osaka
+たべもの「食べ物」 - n. thức ăn
+やさい「野菜」 - n. rau
+きゅうり - n. dưa chuột
+トマト - n. cà chua
+なす - n. cà
+まめ - n. đậu
+キャベツ - n. bắp cải
+ねぎ - n. hành
+はくさい - n. rau cải bẹ trắng
+ほうれんそう - n. rau bina
+レタス - n. rau diếp
+じゃがいも - n. khoai tây
+だいこん - n. củ cải
+たまねぎ - n. củ hành
+にんじん - n. cà rốt
+くだもの「果物」 - n. hoa quả
+いちご - n. dâu tây
+もも - n. đào
+すいか - n. dưa hấu
+ぶどう - n. nho
+なし - n. lê
+かき - n. hồng
+みかん - n. quýt
+りんご - n. táo
+バナナ - n. chuối
+ぎゅうにく「牛肉」 - n. thịt bò
+とりにく「鳥肉」 - n. thịt gà
+ぶたにく「豚肉」 - n. thịt lợn
+ソーセージ - n. xúc xích
+ハム - n. giò, giăm bông
+こめ「米」 - n. gạo
+あじ - n. cá sòng
+いわし - n. cá trích, cá xác-đin
+さば - n. cá thu
+さんま - n. cá thu đao
+さけ - n. cá hồi
+まぐろ - n. cá ngừ
+たい - n. cá tráp
+たら - n. cá tuyết
+えび - n. tôm
+かに - n. cua
+いか - n. mực
+たこ - n. bạch tuộc, mực phủ
+かい - n. sò, ngao
+
+Bài 7
+きります「切ります」 - v. cắt
+おくります「送ります」 - v. gửi
+あげます - v. cho, tặng
+もらいます - v. nhận
+かします「貸します」 - v. cho mượn, cho vay
+かります「借ります」 - v. mượn, vay
+おしえます「教えます」 - v. dậy
+ならいます「習います」 - v. học tập
+かけます - v. gọi [điện thoại]
+でんわを～「電話を～」 - n. điện thoại
+て「手」 - n. tay
+はし - n. đũa
+スプーン - n. thìa
+ナイフ - n. dao
+フォーク - n. dĩa
+はさみ - n. kéo
+ファクス - n. fax
+ワープロ - n. máy đánh chữ
+パソコン - n. máy vi tính cá nhân
+パンチ - n. cái đục lỗ
+ホッチキス - n. cái dập ghim
+セロテープ - n. băng dính
+けしゴム「消しゴム」- n. cái tẩy
+かみ「紙」- n. giấy
+はな「花」- n. hoa
+シャツ - n. áo sơ mi
+プレゼント - n. quà tặng, tặng phẩm
+にもつ「荷物」- n. đồ đạc, hành lý
+おかね「お金」- n. tiền
+きっぷ「切符」- n. vé
+クリスマス - n. Giáng sinh
+ちち「父」- n. bố (dùng khi nói về bố mình)
+はは「母」 - n. mẹ (dùng khi nói về mẹ mình)
+そぼ「祖母」- n. bà (dùng khi nói về bà mình)
+そふ「祖父」- n. ông (dùng khi nói về ông mình)
+そふぼ「祖父母」- n. ông bà (dùng khi nói về ông bà mình)
+りょうしん「両親」- n. bố mẹ (dùng khi nói về bố mẹ mình)
+いもうと「妹」- n. em gái (dùng khi nói về em gái mình)
+おとうと「弟」- n. em trai (dùng khi nói về em trai mình)
+あね「姉」- n. chị gái (dùng khi nói về chị gái mình)
+あに「兄」- n. anh trai (dùng khi nói về anh trai mình)
+きょうだい「兄弟」- n. anh em (dùng khi nói về anh em mình)
+つま「妻」- n. vợ (dùng khi nói về vợ mình)
+おっと「夫」- n. chồng (dùng khi nói về chồng mình)
+ふうふ「夫婦」- n. vợ chồng (dùng khi nói về vợ chồng mình)
+むすめ「娘」- n. con gái (dùng khi nói về con gái mình)
+むすこ「息子」- n. con trai (dùng khi nói về con trai mình)
+こども「子ども」- n. con cái (dùng khi nói về con cái mình)
+おとうさん「お父さん」- n. bố (dùng khi nói về bố người khác và dùng khi xưng hô với bố mình)
+おかあさん「お母さん」- n. mẹ (dùng khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)
+おばあさん - n. bà (dùng khi nói về bà người khác và dùng khi xưng hô với bà mình)
+おじいさん - n. ông (dùng khi nói về ông người khác và dùng khi xưng hô với ông mình)
+ごりょうしん「ご両親」- n. bố mẹ (dùng khi nói về bố mẹ người khác và dùng khi xưng hô với bố mẹ mình)
+いもうとさん「妹さん」- n. em gái (dùng khi nói về em gái người khác và dùng khi xưng hô với em gái mình)
+おとうとさん「弟さん」- n. em trai (dùng khi nói về em trai người khác và dùng khi xưng hô với em trai mình)
+おねえさん「お姉さん」- n. chị gái (dùng khi nói về chị gái người khác và dùng khi xưng hô với chị gái mình)
+おにいさん「お兄さん」- n. anh trai (dùng khi nói về anh trai người khác và dùng khi xưng hô với anh trai mình)
+ごきょうだい「ご兄弟」- n. anh em (dùng khi nói về anh em người khác và dùng khi xưng hô với anh em mình)
+おくさん「奥さん」- n. vợ (dùng khi nói về vợ người khác và dùng khi xưng hô với vợ mình)
+ごしゅじん「ご主人」- n. chồng (dùng khi nói về chồng người khác và dùng khi xưng hô với chồng mình)
+ごふうふ「ご夫婦」- n. vợ chồng (dùng khi nói về vợ chồng người khác và dùng khi xưng hô với vợ chồng mình)
+むすめさん「娘さん」- n. con gái (dùng khi nói về con gái người khác và dùng khi xưng hô với con gái mình)
+むすこさん「息子さん」- n. con trai (dùng khi nói về con trai người khác và dùng khi xưng hô với con trai mình)
+おこさん「お子さん」- n. con cái (dùng khi nói về con cái người khác và dùng khi xưng hô với con cái mình)
+もう - . đã, rồi
+まだ - . chưa
+これから - . từ bây giờ, sau đây
+「～、」すてきですね。- . [~] hay nhỉ. /đẹp nhỉ.
+ごめんください。- . Xin lỗi, có ai ở nhà không? / Tôi có thể vào được nhà chứ? (câu nói của khách dùng khi đến thăm nhà ai đó)
+いらっしゃい。- . Rất hoan nghênh anh/chị đã đến chơi. / Chào mừng anh/chị đã đến chơi.
+どうぞ　おあがり　ください。「どうぞ　お上がり　ください」- . Mời anh/chị vào.
+しつれいします。「失礼します」- . Xin phép tôi vào./ Xin phép ~. (dùng khi bước vào nhà của người khác)
+「～は」いかがですか。- . Anh/chị dùng [~], có được không? (dùng khi mời ai đó cái gì)
+いただきます。- . Mời anh/chị dùng ~. (cách nói dùng trước khi ăn hoặc uống)
+りょこう「旅行」- n. du lịch, chuyến du lịch (～をします: đi du lịch)
+おみやげ「お土産」- n. quà (mua khi đi xa về hoặc mang đi khi thăm nhà người nào đó)
+ヨーロッパ - . châu Âu
+
+Bài 8
+ハンサム（な）- adj. đẹp trai
+きれい（な）- adj. đẹp, sạch
+しずか（な）「静か（な）」- adj. yên tĩnh
+にぎやか（な）- adj. náo nhiệt
+ゆうめい（な）「有名（な）」- adj. nổi tiếng
+しんせつ（な）「親切（な）」- adj. tốt bụng, thân thiện
+げんき（な）「元気（な）」- adj. khoẻ
+ひま（な）「暇（な）」- adj. rảnh rỗi
+べんり（な）「便利（な）」- adj. tiện lợi
+すてき（な）- adj. đẹp, hay
+おおきい「大きい」- adj. lớn, to
+ちいさい「小さい」- adj. bé, nhỏ
+あたらしい「新しい」- adj. mới
+ふるい「古い」- adj. cũ
+いい - adj. tốt
+よい - adj. tốt
+わるい「悪い」- adj. xấu
+あつい「暑い / 熱い」- adj. nóng
+さむい「寒い」- adj. lạnh, rét (dùng cho thời tiết)
+つめたい「冷たい」- adj. lạnh, buốt (dùng cho cảm giác)
+むずかしい「難しい」- adj. khó
+やさしい「易しい」- adj. dễ
+たかい「高い」- adj. đắt, cao
+やすい「安い」- adj. rẻ
+ひくい「低い」- adj. thấp
+おもしろい - adj. thú vị, hay
+おいしい - adj. ngon
+いそがしい「忙しい」- adj. bận
+たのしい「楽しい」- adj. vui
+しろい「白い」- adj. trắng
+くろい「黒い」- adj. đen
+あかい「赤い」- adj. đỏ
+あおい「青い」- adj. xanh da trời
+さくら「桜」- n. anh đào (hoa, cây)
+やま「山」- n. núi
+まち「町」- n. thị trấn, thị xã, thành phố
+たべもの「食べ物」- n. đồ ăn
+くるま「車」- n. xe ô-tô
+ところ「所」- n. nơi, chỗ
+りょう「寮」- n. ký túc xá
+べんきょう「勉強」- adj. học
+せいかつ「生活」- n. cuộc sống, sinh hoạt
+(お)しごと「(お)仕事」- n. công việc (〜をします: làm việc)
+どう - . thế nào
+どんな～ - . ~ như thế nào
+どれ - . cái nào
+とても - . rất, lắm
+あまり - . không ~ lắm
+そして　- . và, thêm nữa (dùng đế nói hai câu)
+～が、～ - . ~, nhưng ~
+おげんきですか。「お元気ですか。」- q. Anh / Chị có khoẻ không?
+そうですね。- . Thế à./Để tôi xem. (cách nói trong lúc suy nghĩ câu trả lời)
+にほんのせいかつになれましたか。「日本の生活に慣れましたか。」- q. Anh / Chị đã quen với cuộc sống ở Nhật chưa?
+（～、）もう　いっぱい　いかがですか。「（～、）もう　一杯　いかがですか。」- q. Anh / Chị dùng thêm một chén [~] nữa được không ạ?
+いいえ、けっこうです。- . Không, đủ rồi ạ.
+もう　～です(ね)。- . Đã ~ rồi nhỉ./ Đã ~ rồi, đúng không ạ?
+そろそろ　しつれいします。「そうそう　失礼します。」- . Sắp đến lúc tôi phải xin phép rồi./ Đã đến lúc tôi phải về.
+また　いらっしゃって　ください。- . Lần sau anh/chị lại đến chơi nhé.
+ふじさん「富士山」- n. Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)
+びわこ「琵琶湖」- n. Hồ Biwa
+シャンハイ「上海」- . Thượng Hải
+しちにんのさむらい「七人の侍」- . "Bảy chàng võ sĩ Samurai" (tên một bộ phim kinh điển của đạo diễn Kurosawa Akira)
+きんかくじ「金閣寺」- n. Chùa Kinkaku-ji (Chùa Vàng)
+しろ「白」- n. trắng
+くろ「黒」- n. đen
+あか「赤」- n. đỏ
+あお「青」- n. màu xanh da trời
+みどり「緑」- n. màu xanh lá cây
+むらさき「紫」- n. màu tím
+きいろ「黄色」- n. màu vàng
+ちゃいろ「茶色」- n. màu nâu
+ピンク - n. màu hồng
+オレンジ - n. màu da cam
+グルー - n. màu xám
+ベージュ - n. màu be (màu xám ánh vàng nhạt)
+きいろい「黄色い」- adj. vàng
+ちゃいろい「茶色い」- adj. nâu
+いろ「色」- n. màu
+あじ「味」- n. vị
+あまい「甘い」- adj. ngọt
+からい「辛い」- adj. cay
+にがい「苦い」- adj. đắng
+しおからい「塩辛い」- adj. mặn
+すっぱい「酸っぱい」- adj. chua
+こい「濃い」- adj. đậm
+うすい「薄い」- adj. nhạt
+はる「春」- n. xuân
+なつ「夏」- n. hạ
+なつやすみ「夏休み」- n. Kỳ nghỉ hè
+あき「秋」- n. thu
+ふゆ「冬」- n. đông
+
+Bài 9
+わかります - v. hiểu, nắm được
+あります - v. có (sở hữu)
+すき（な）「好き（な）」 - v. thích
+きらい（な）「嫌い（な）」 - v. ghét, không thích
+じょうず（な）「上手（な）」 - v. giỏi, khéo
+へた（な）「下手（な）」 - v. kém
+りょうり「料理」 - n. món ăn, việc nấu ăn
+のみもの「飲み物」 - n. đồ uống
+スポーツ - n. thể thao (〜をします: chơi thể thao)
+やきゅう（野球） - n. bóng chày (〜をします: chơi bóng chày)
+ダンス - n. nhảy, khiêu vũ (〜をします: nhảy, khiêu vũ)
+おんがく「音楽」 - n. âm nhạc
+うた「歌」 - n. bài hát
+クラシック - n. nhạc cổ điển
+ジャズ - n. nhạc jazz
+コンサート - n. buổi hoà nhạc
+カラオケ - n. karaoke
+かぶき「歌舞伎」 - n. Kabuki (một thể loại ca kịch truyền thống của Nhật)
+え「絵」 - n. tranh, hội hoạ
+じ「字」 - n. chữ
+かんじ「漢字」 - n. chữ Hán
+ひらがな - n. chữ Hỉagana
+かたかな - n. chữ Katakana
+ローマじ「ローマ字」 - n. chữ La Mã
+こまかいおかね「細かいお金」 - n. tiền lẻ
+チケット - n. vé (xem hoà nhạc, xem phim)
+じかん「時間」 - n. thời gian
+ようじ「用事」 - n. việc bận, công chuyện
+やくそく「約束」 - n. cuộc hẹn, lời hứa
+ごしゅじん「ご主人」 - n. chồng (dùng khi nói về chồng người khác)
+おっと「夫」 - n. chồng (dùng khi nói về chồng mình)
+しゅじん「主人」 - n. chồng (dùng khi nói về chồng mình)
+おくさん「奥さん」 - n. vợ (dùng khi nói về vợ người khác)
+つま「妻」 - n. vợ (dùng khi nói về vợ mình)
+かない「家内」 - n. vợ (dùng khi nói về vợ mình)
+こども「子ども」 - n. con cái
+よく - . tốt, rõ (chỉ mức độ)
+だいたい - . đại khái, cụ thể
+たくさん - . nhiều
+すこし「少し」 - . ít, một ít
+ぜんぜん「全然」 - . hoàn toàn ~ không
+はやく「早く／速く」 - . sớm, nhanh
+〜から - . vì ~
+どうして - . tại sao
+ざんねんです（ね）。「残念です（ね）。」- . Thật đáng tiếc nhỉ./ Buồn nhỉ.
+すみません。 - . Xin lỗi.
+もしもし - v. a-lô
+ああ - . a (cách nói khi đã gặp được đúng người trên điện )
+いっしょthoạiに　いかがですか。 - q. Anh/Chị cùng ~ (làm cái gì đó) với chúng tôi có được không?
+（〜は）ちょっと...。 - . (~thì) có lẽ không được rồi. (cách từ chối khéo khi nhận được một lời mời nào đó)
+だめですか。 - q. Không được à?
+また　こんど　おねがいします。「また　今度　お願いします。」- . Hẹn anh/chị lần sau vậy. (cách từ chối khéo một lời mời mà không muốn làm phật lòng người đưa ra lời mời)
+おざわ　せいじ「小沢　征爾」 - . Ozawa Seiji (1935~), một nhạc trưởng nổi tiếng của Nhật.
+おんがく「音楽」 - n. âm nhạc
+スポーツ - n. thể thao
+えいが「映画」 - n. điện ảnh
+ポップス - n. nhạc pop
+ロック - n. nhạc rốc
+ジャズ - n. nhạc jazz
+ラテン - n. nhạc châu Mỹ Latin
+クラシック - n. nhạc cổ điển
+みにょう「民謡」 - n. dân ca
+えんか「演歌」 - n. enka (một thể loại ba-lát của Nhật)
+ミュージカル - n. Ca kịch
+オペラ - n. Ô-pê-ra
+SF - n. phim khoa học viễn tưởng (SF: science fiction)
+ホラー - n. phim kinh dị
+アニメ - n. phim hoạt hình
+ドキュメンタリー - n. phim tài liệu
+れんあい「恋愛」 - n. phim tình yêu
+ミステリー - n. phim ly kỳ, bí ẩn
+ぶんげい「文芸」 - n. phim văn nghệ
+せんそう「戦争」 - n. phim chiến tranh
+アクション - n. phim hành động
+きげき「喜劇」 - n. phim hài
+ソフトボール - n. soft-ball (một môn thể thao tựa như bóng chày)
+サッカー - n. bóng đá
+ラグビー - n. bóng bầu dục
+バレーボール - n. bóng chuyền
+パスケットボール - n. bóng rổ
+テニス - n. quần vợt
+ボーリング - n. bowling
+スキー - n. trượt tuyết
+スケート - n. trượt băng
+やきゅう「野球」 - n. bóng chày
+たっきゅう「卓球」 - n. bóng bàn
+ピンポン - n. bóng bàn
+すもう「相撲」 - n. vật Sumo
+じゅうどう「柔道」 - n. võ Judo
+けんどう「剣道」 - n. đấu kiếm
+すいえい「水泳」 - n. bơi lội
+
+Bài 10:
+います - . có, ở (tồn tại, dùng cho người và động vật)
+あります - . có (tồn tại, dùng cho đồ vật)
+いろいろ（な） - . nhiều, đa dạng
+おとこの　ひと「男の　人」 - n. người đàn ông
+おんあの　ひと「女の　人」 - n. người đàn bà
+おとこの　こ「男の　子」 - n. cậu con trai
+おんなの　こ「女の　子」 - n. cô con gái
+いぬ「犬」 - n. chó
+ねこ「猫」 - n. mèo
+き「木」 - n. cây, gỗ
+もの「物」 - n. vật, đồ vật
+フィルム - n. phim
+でんち「電池」 - n. pin
+はこ「箱」 - n. hộp
+スイッチ - n. công tắc
+れいぞうこ「冷蔵庫」 - n. tủ lạnh
+テーブル - n. bàn
+ベッド - n. giường
+たな「棚」 - n. giá sách
+ドア - n. cửa
+まど「窓」 - n. cửa sổ
+ポスト - n. hộp thư, hòm thư
+ビル - n. toà nhà
+こうえん「公園」 - n. công viên
+きっさてん「喫茶店」 - n. quán giải khát, quán cà-phê
+ほんや「本屋」 - n. hiệu sách
+〜や「〜屋」 - n. hiệu ~, cửa hàng ~
+のりば「乗り場」 - n. bến xe, điểm lên xuống xe
+けん「県」 - n. tỉnh
+うえ「上」 - . trên
+した「下」 - . dưới
+まえ「前」 - . trước
+うしろ - . sau
+みぎ「右」 - . phải
+ひだり「左」 - . trái
+なか「中」 - . trong, giữa
+そと「外」 - . ngoài
+となり「隣」 - . bên cạnh
+ちかく「近く」 - . gần
+あいだ「間」 - . giữa
+〜や〜（など） - . ~ và ~ ,[v.v.]
+いちばん〜 - . ~ nhất (いちばん　うえ: vị trí cao nhất)
+ーだんめ「ー段目」 - . giá thứ - , tầng thứ - (「だん」được dùng cho giá sách v.v.)
+どうもすみません。 - . cám ơn
+チリソース - n. tương ớt (chili sauce)
+おく「奥」 - . bên trong cùng, phía sâu bên trong
+スパイス.コーナー - . góc gia vị (spice corner)
+とうきょう　ディズニーランド「東京　ディズニーランド」 - n. Công viên Tokyo
+ユニューヤ.ストア - . tên một siêu thị (giả tưởng)
+うちのなか「うちの中」 - n. trong nhà
+げんかん「玄関」 - n. cửa ra vào
+トイレ - n. toa-lét, phòng vệ sinh
+ふろば「風呂場」 - n. phòng tắm
+せんめんじょ「洗面所」 - n. bồn rửa
+だいどころ「台所」 - n. bếp
+しょくどう「食堂」 - n. nhà ăn, phòng ăn
+いま「居間」 - n. phòng khách, phòng sinh hoạt chung
+しんしつ「寝室」 - n. phòng ngủ
+ろうか「廊下」 - n. hành lang
+ベランダ - n. ban-công
+
+Bài 11:
+こどもが　います「子どもが　います」 - v. có (con)
+にほんに　います「日本に　います」 - v. ở (Nhật)
+かかります - v. mất, tốn (thời gian, tiền bạc)
+かいしゃを　やすみます「会社を　休みます」 - v. nghỉ (làm việc)
+ひとつ「１つ」 - . một cái (dùng để đếm đồ vật)
+ふたつ「２つ」 - . hai cái
+みっつ「３つ」 - . ba cái
+よっつ「４つ」 - . bốn cái
+いつつ「５つ」 - . năm cái
+むっつ「６つ」 - . sáu cái
+ななつ「７つ」 - . bảy cái
+やっつ「８つ」 - . tám cái
+ここのつ「９つ」 - . chín cái
+とお「１０」 - . mười cái
+いくつ - . mấy cái, bao nhiêu cái
+ひとり「1人」 - . một người
+ふたり「2人」 - . hai người
+ーにん「ー人」 - . - người
+ーだい「ー台」 - . - cái (dùng để đếm máy móc, xe cộ, v.v.)
+ーまい「ー枚」 - . - tờ, tấm (dùng để đếm những vật mỏng như tờ giấy, con tem v.v.)
+ーかい「ー回」 - . - lần
+りんご - n. táo
+みかん - n. quýt
+サンドイッチ - n. bánh san-uých
+カレー（ライス） - n. món (cơm) ca-ri
+アイスクリーム - n. kem
+きって「切手」 - n. tem
+はがき - n. bưu thiếp
+ふうとう「封筒」 - n. phong bì
+そくたつ「速達」 - n. (bưu phẩm) gửi nhanh
+かきとめ「書留」 - n. (bưu phẩm) gửi đảm bảo
+エアメール - n. gửi bằng đường hàng không
+こうくうびん「航空便」 - n. gửi bằng đường hàng không
+ふなびん「船便」 - n. gửi bằng đường biển
+りょうしん「両親」 - n. bố mẹ
+きょうだい「兄弟」 - n. anh chị em
+あに「兄」 - n. anh trai
+おにいさん「お兄さん」 - n. anh trai (dùng cho người khác)
+あね「姉」 - n. chị gái
+おねえさん「お姉さん」 - n. chị gái (dùng cho người khác)
+おとうと「弟」 - n. em trai
+おとうとさん「弟さん」 - n. em trai (dùng cho người khác)
+いもうと「妹」 - n. em gái
+いもうとさん「妹さん」 - n. em gái (dùng cho người khác)
+がいこく「外国」 - . nước ngoài
+ーじかん「ー時間」 - . - tiếng
+ーしゅうかん「ー週間」 - . - tuần
+ーかげつ「ーか月」 - . - tháng
+ーねん「ー年」 - . - năm
+〜ぐらい - . khoảng ~
+どのくらい - . bao lâu
+ぜんぶで「全部で」 - n. tổng cộng
+みんな - . tất cả
+〜だけ - . chỉ ~
+いらっしゃいませ。 - . Xin mời vào./ Xin chào quý khách. (lời chào của người bán hàng đối với khách hàng)
+いい（お）てんきですね。「いい（お）天気ですね。」 - . Trời đẹp nhỉ.
+おでかけですか。「お出かけですか。」 - q. Anh/Chị đi ra ngoài đấy à?
+ちょっと　〜まで。 - . Tôi đi ~ một chút
+いって　いらっしゃい。「行って　いらっしゃい。」 - . Anh/Chị đi nhé. (nguyên nghĩa: Anh/Chị đi rồi lại về nhé.)
+いって　まいります。「行って　まいります。」 - . Tôi đi đây. (nguyên nghĩa: Tôi đi rồi sẽ về.)
+それから - . sau đó, tiếp nữa
+メニュー - n. thực đơn
+ていしょく「定食」 - n. cơm suất
+ランチ - n. cơm trưa
+てんどん「天どん」 - n. cơm và tôm chiên tẩm bột
+おやこどん「親子どん」 - n. cơm với thịt gà và trứng
+ぎゅうどん「牛どん」 - n. cơm với thịt bò
+やきにく「焼肉」 - n. thịt nướng
+やさいいため「野菜いため」 - n. rau xào
+つけもの「漬物」 - n. dưa muối
+みそしる「みそ汁」 - n. súp miso
+おにぎり - n. cơm nắm
+てんぷら - n. tôm chiên tẩm bột
+すし - n. sushi
+うどん - n. mì được làm từ bột lúa mạch
+そば - n. mì được làm từ bột kiều mạch
+ラーメン - n. mì Tàu
+やきそば「焼きそば」 - n. mì soba xào với rau và thịt
+おこのみやき「お好み焼き」 - n. okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn v.v.)
+カレーライス - n. cơm ca-ri
+ハンバーグ - n. bánh thịt rán
+コロッケ - n. khoai tây bột chiên
+えびフライ - n. tôm chiên
+フライドチキン - n. thịt gà chiên
+サラダ - n. sa-lát
+スープ - n. súp
+スパゲラィー - n. mì Ý
+ビザ - n. bánh pi-za
+ハンバーガー - n. bánh hăm-bơ-gơ
+サンドウィッチ - n. bánh san-uých
+トースト - n. bánh mì nướng
+コーヒー - n. cà-phê
+こうちゃ「紅茶」 - n. trà đen
+ココア - n. ca-cao
+ジュース - n. nước hoa quả
+コーラ - n. cô-ca cô-la
+
+Bài 12:
+かんたん（な）「簡単（な）」 - adj. đơn giản, dễ
+ちかい「近い」 - adj. gần
+とおい「遠い」 - adj. xa
+はやい「早い／速い」 - adj. nhanh, sớm
+おそい「遅い」 - adj. chậm, muộn
+ひとが　おおい「人が　多い」 - . nhiều (người)
+ひとが　すくない「人が　少ない」 - . ít (người)
+あたたかい「暖かい／温かい」 - adj. ẩm
+すずしい「涼しい」 - adj. mát
+あまい「甘い」 - adj. ngọt
+からい「辛い」 - adj. cay
+おもい「重い」 - adj. nặng
+かるい「軽い」 - adj. nhẹ
+コーヒーが　いい - v. thích, chọn, dùng (cà-phê)
+きせつ「季節」 - n. mùa
+はる「春」 - n. mùa xuân
+なつ「夏」 - n. mùa hè
+あき「秋」 - n. mùa thu
+ふゆ「冬」 - n. mùa đông
+てんき「天気」 - n. thời tiết
+あめ「雨」 - n. mưa
+ゆき「雪」 - n. tuyết
+くもり「曇り」 - n. có mây
+ホテル - n. khách sạn
+くうこう「空港」 - n. sân bay
+うみ「海」 - n. biển, đại dương
+せかい「世界」 - n. thế giới
+パーティー - n. tiệc (〜をします: tổ chức tiệc)
+（お）まつり「（お）祭り」 - n. lễ hội
+しけん「試験」 - n. kỳ thi, bài thi
+すきやき「すき焼き」 - n. Sukiyaki (món thịt bò nấu rau)
+さしみ「刺身」 - n. Sashimi (món gỏi cá sống)
+（お）すし - n. Sushi
+てんぷら - n. Tempura (món hải sản và rau chiên tẩm bột)
+いけばな「生け花」 - n. nghệ thuật cắm hoa (〜をします: cắm hoa)
+もみじ「紅葉」 - n. lá đỏ
+どちら - . cái nào
+どちらも - . cả hai
+ずっと - . (hơn) hẳn (dùng để nhấn mạnh sự khác biệt giữa hai đối tượng)
+はじめて「初めて」 - . lần đầu tiên
+ただいま。 - . Tôi đã về đây. (dùng để nói khi về đến nhà)
+おかえりなさい。「お帰りなさい。」 - . Anh/Chị đã về đấy à. (dùng để nói với ai đó mới về đến nhà)
+すごいですね。 - . Ghê quá nhỉ./ Hay quá nhỉ.
+でも - . nhưng
+つかれました。「疲れました。」 - . tôi mệt rồi
+ぎおんまつり「祇園祭」 - n. lễ hội Gi-ôn (lễ hội nổi tiếng nhất ở Kyoto)
+ホンコン「香港」 - n. Hồng Kông
+シンガポール - n. Singapore
+まいにちや「毎日屋」 - n. tên một siêu thị (giả tưởng)
+ABCスイア - n. tên một siêu thị (giả tưởng)
+ジャパン - n. tên một siêu thị (giả tưởng)
+まつりとめいしょ「祭りと名所」 - n. lễ hội và địa danh
+
+Bài 13:
+あそびます「遊びます」 - v. chơi
+およぎます「泳ぎます」 - v. bơi
+むかえます「迎えます」 - v. đón
+つかれます「疲れます」 - v. mệt
+てがみを　だします「手紙を　出します」 - v. gửi (thư)
+きっさてんに　はいります「喫茶店に　入ります」 - v. vào (quán giải khát)
+きっさてんを　でます「喫茶店を　出ます」 - v. ra, ra khỏi (quán giải khát)
+けっこんします「結婚します」 - v. kết hôn, lập gia đình, cưới
+かいものします「買い物します」 - v. mua hàng
+しょくじします「食事します」 - v. ăn cơm
+こうえんを　さんぽします「公園を　散歩します」 - v. đi dạo (ở công viên)
+たいへん（な）「大変（な）」 - adj. vất vả, khó khăn, khổ
+ほしい「欲しい」 - . muốn có
+さびしい「寂しい」 - adj. buồn, cô đơn
+ひろい「広い」 - adj. rộng
+せまい「狭い」 - adj. chật, hẹp
+しやくしょ「市役所」 - n. văn phòng hành chính quận, thành phố
+プール - n. bể bơi
+かわ「川」 - n. sông
+けいざい「経済」 - n. kinh tế
+びじゅつ「美術」 - n. mỹ thuật
+つり「釣り」 - n. việc câu cá (〜をします: câu cá)
+スキー - n. việc trượt tuyết (〜をします: trượt tuyết)
+かいぎ「会議」 - n. họp, cuộc họp (〜をします: họp, tổ chức cuộc họp)
+とうろく「登録」 - n. việc đăng ký (〜をします: đăng ký)
+しゅうまつ「週末」 - n. cuối tuần
+〜ごろ - . khoảng ~ (dùng cho thời gian)
+なにか「何か」 - . cái gì đó
+どこか - . đâu đó, chỗ nào đó
+おなかが　すきました。- . (Tôi) đói rồi
+おなかが　いっぱいです。- . (Tôi) no rồi
+のどが　かわきました。- . (Tôi) khát
+そうですね。- . Đúng thế. (câu nói khi muốn tỏ thái độ tán thành với người cùng nói chuyện)
+そう　しましょう。- . Nhất trí./ Chúng ta thống nhất như thế.
+ごちゅうもんは。「ご注文は。」 - q. Anh/Chị dùng món gì ạ? (cách hỏi khách của nhân viên nhà hàng)
+ていしょく「定食」 - n. cơm suất, cơm phần
+ぎゅうどん「牛どん」 - n. món cơm thịt bò
+（しょうしょう）おまちください。「（少々）お待ちください。」 - . Xin anh/chị vui lòng đợi (một chút)
+べつべつに「別々に」 - . riêng ra/ để riêng
+つるや - . tên một nhà hàng (giả tưởng)
+おはようテレビ - . tên một chương trình truyền hình (giả tưởng)
+まちのなか「町の中」 - n. trong khu phố
+はくぶつかん「博物館」 - n. bảo tàng
+びじゅつかん「美術館」 - n. bảo tàng mỹ thuật
+としょかん「図書館」 - n. thư viện
+えいがかん「映画館」 - n. rạp chiếu phim
+どうぶつえん「動物園」 - n. vườn bách thú
+しょくぶつえん「植物園」 - n. vườn bách thảo
+ゆうえんち「遊園地」 - n. công viên giải trí
+おてら「お寺」 - n. chùa
+じんじゃ「神社」 - n. đền thờ đạo Thần
+きょうかい「教会」 - n. nhà thờ
+モスク - n. đền thờ đạo Hồi
+たいいくかん「体育館」 - n. nhà tập thể dục thể thao
+プール - n. bể bơi
+こうえん「公園」 - n. công viên
+たいしかん「大使館」 - n. đại sứ quán
+にゅうこくかんりきょく「入国管理局」 - n. cục xuất nhập cảnh
+しやくしょ「市役所」 - n. văn phòng hành chính quận, thành phố
+けいさつしょ「警察署」 - n. đồn cảnh sát
+こうばん「交番」 - n. bốt cảnh sát
+しょうぼうしょ「消防署」 - n. trạm cứu hoả
+ちゅうしゃじょう「駐車場」 - n. bãi đỗ xe
+だいがく「大学」 - n. trường đại học
+こうこう「高校」 - n. trường phổ thông trung học
+ちゅうがっこう「中学校」 - n. trường phổ thông cơ sở
+しょうがっこう「小学校」 - n. trường tiểu học
+ようちえん「幼稚園」 - n. trường mẫu giáo
+にくや「肉屋」 - n. cửa hàng thịt
+パンや「パン屋」 - n. cửa hàng bánh mì
+さかなや「魚屋」 - n. cửa hàng cá
+さかや「酒屋」 - n. cửa hàng rượu
+やおや「八百屋」 - n. cửa hàng rau
+きっさてん「喫茶店」 - n. quán giải khát
+コンビニ - n. cửa hàng tiện lợi
+スーパー - n. siêu thị
+デパート - n. cửa hàng bách hoá
+
+Bài 14
+つけます - v. bật điện/máy điều hoà (Động từ loại II)
+けします「消しまし」 - v. tắt điện/máy điều hoà (Động từ loại I)
+あけます「開けます」 - v. mở cửa/cửa sổ (Động từ loại II)
+しめます「閉めます」 - v. đóng cửa/cửa sổ (Động từ loại II)
+いそぎます「急ぎます」 - v. vội, gấp (Động từ loại I)
+まちます「待ちます」 - v. đợi, chờ (Động từ loại I)
+とめます「止めます」 - v. dừng băng cát-xét/ô-tô ; đỗ ô-tô (Động từ loại II)
+みぎへ　まがります「右へ　曲がります」 - v. rẽ/quẹo phải (Động từ loại I)
+もちます「待ちます」 - v. mang, cầm (Động từ loại I)
+とります「取ります」 - v. lấy muối (Động từ loại I)
+てつだいます「手伝います」 - v. giúp làm việc (Động từ loại I)
+よびます「呼びます」 - v. gọi tắc-xi/tên (Động từ loại I)
+はなします「話します」 - v. nói, nói chuyện (Động từ loại I)
+みせます「見せます」 - v. cho xem, trình (Động từ loại II)
+じゅうしょを　おしえます「住所を　教えます」 - v. nói/cho biết địa chỉ (Động từ loại II)
+はじめます「始めます」 - v. bắt đầu (Động từ loại II)
+あめが　ふります「雨が　降ります」 - v. rơi mưa/tuyết ~ (Động từ loại I)
+コビーします - v. copy (Động từ loại III)
+エアコン - n. máy điều hoà
+パスポート - n. hộ chiếu
+なまえ「名前」 - n. tên
+じゅうしょ「住所」 - n. địa chỉ
+ちず「地図」 - n. bản đồ
+しお「塩」 - n. muối
+さとう「砂糖」 - n. đường
+よみかた「読み方」 - n. cách đọc
+〜かた「〜方」 - . cách ~
+ゆっくり - . chậm, thong thả, thoải mái
+すぐ - . ngay, lập tức
+また - . lại (~ đến)
+あとで - . sau
+もう　すこし「もう　少し」 - . thêm một chút nữa thôi
+もう　〜 - . thêm ~
+いいですよ。 - . Được chứ./ Được ạ.
+さあ - . thôi,/ nào, (dùng để thúc giục hoặc khuyến khích ai đó làm gì.)
+あれ。 - . Ô! (câu cảm thán khi phát hiện hoặc thấy cái gì đó lạ, hoặc bất ngờ)
+しんごうを　みぎへ　まがって　ください。「信号を　右へ　曲がって　ください。」 - . anh/chị rẽ phải ở chỗ đèn tín hiệu
+まっすぐ - . thằng
+これで　おねがいします「これで　お願いします」 - . gửi anh tiền này
+おつり「お釣り」 - n. tiền lẻ
+うめだ「梅田」 - . tên một địa phương ở Osaka
+えき「駅」 - n. ga
+きっぷうりば「切符売り場」 - n. chỗ bán vé
+じどうけんばいき「自動券売機」 - n. máy bán vé tự động
+せいさんき「精算機」 - n. máy thanh toán tiền thiếu
+かいさつぐち「改札口」 - n. cửa soát vé
+でぐち「出口」 - n. cửa ra
+いりぐち「入口」 - n. cửa vào
+ひがしぐち「東口」 - n. cửa Đông
+にしぐち「西口」 - n. cửa Tây
+みなみぐち「南口」 - n. cửa Nam
+きたぐち「北口」 - n. cửa Bắc
+ちゅうおうぐち「中央口」 - n. cửa Trung tâm
+（プラット）ホーム - n. sân ga
+ばいてん「売店」 - n. quầy bán hàng, ki-ốt
+コインロッカー - n. hòm khoá cho thuê dùng tiền xu
+タクシーのりば「タクシー乗り場」 - n. điểm lên xe tắc-xi
+バスターミナル - n. bến xe buýt
+バスてい「バス停」 - n. điểm lên xuống xe buýt
+とっきゅう「特急」 - . tốc hành đặc
+きゅうこう「急行」 - . tốc hành
+かいそく「快速」 - . nhanh
+じゅんきゅう「準急」 - . bán tốc hành
+ふつう「普通」 - . (tàu) thường, địa phương
+じこくひょう「時刻表」 - n. bảng giờ tàu chạy
+〜はつ「〜発」 - . xuất phát từ ~
+〜ちゃく「〜着」 - . đến ~
+（とうきょう）いき「（東京）行き」 - v. đi (Tokyo)
+ていきけん「定期券」 - n. vé tháng
+かいすうけん「回数券」 - n. vé giảm giá khi đi nhiều
+かたみち「片道」 - . một chiều
+おうふく「往復」 - . hai chiều, đi và về
+
+Bài 15
+たちます「立ちます」 - v. đứng (Động từ loại I)
+すわります「座ります」 - v. ngồi (Động từ loại I)
+つかいます「使います」 - v. dùng, sử dụng (Động từ loại I)
+おきます「置きます」 - v. đặt, để (Động từ loại I)
+つくります「作ります／造ります」 - v. làm, chế tạo, sản xuất (Động từ loại I)
+うります「売ります」 - v. bán (Động từ loại I)
+しります「知ります」 - v. biết (Động từ loại I)
+すみます「住みます」 - v. sống, ở (Động từ loại I)
+けんきゅうします「研究します」 - v. nghiên cứu (Động từ loại III)
+しって　います「知って　います」 - v. biết
+おおさかに　すんで　います「大阪に　住んで　います」 - v. sống (ở Osaka)
+しりょう「資料」 - n. tài liệu, tư liệu
+カタログ - n. ca-ta-lô
+じこくひょう「時刻表」 - n. bảng giờ tàu chạy
+ふく「服」 - n. quần áo
+せいひん「製品」 - n. sản phẩm
+ソフト - n. phần mềm
+せんもん「専門」 - n. chuyên môn
+はいしゃ「歯医者」 - n. nha sĩ
+とこや「床屋」 - n. hiệu cắt tóc
+プレイガイド - n. quầy bán vé (trong nhà hát)
+どくしん「独身」 - n. độc thân
+とくに「特に」 - . đặc biệt
+おもいだします「思い出します」 - v. nhớ lại, hồi tưởng lại (Động từ loại I)
+ごかぞく「ご家族」 - n. gia đình (dùng cho người khác)
+いらっしゃいます - v. thể kính trọng của「います」(Động từ loại I)
+こうこう「高校」 - n. trường trung học phổ thông
+にっぽんばし「日本橋」 - . tên một khu phố buôn bán ở Osaka
+しょくぎょう「職業」 - n. nghề nghiệp
+かいしゃいん「会社員」 - n. nhân viên công ty
+こうむいん「公務員」 - n. công chức
+えきいん「駅員」 - n. nhân viên nhà ga
+ぎんこういん「銀行員」 - n. nhân viên ngân hàng
+ゆうびんきょくいん「郵便局員」 - n. nhân viên bưu điện
+てんいん「店員」 - n. nhân viên cửa hàng, nhân viên nhà hàng
+ちょうりし「調理師」 - n. đầu bếp
+りようし「理容師」 - n. thợ cắt tóc
+びようし「美容師」 - n. mỹ viện gia
+きょうし「教師」 - n. giáo viên
+べんごし「弁護士」 - n. luật sư
+けんきゅうしゃ「研究者」 - n. nhà nghiên cứu
+いしゃ「医者」 - n. bác sĩ
+かんごふ「看護婦」 - n. y tá
+うんてんしゅ「運転手」 - n. tài xế
+けいさつかん「警察官」 - n. cảnh sát
+がいこうかん「外交官」 - n. nhà ngoại giao
+せいじか「政治家」 - n. chính khách, nhà chính trị
+がか「画家」 - n. hoạ sĩ
+さっか「作家」 - n. nhà văn
+おんがくか「音楽家」 - n. nhạc sĩ
+けんちくか「建築家」 - n. kiến trúc sư
+エンジニア - n. kỹ sư
+デザイナー - n. nhà thiết kế
+ジャーナリスト - n. nhà báo
+かしゅ「歌手」 - n. ca sĩ
+はいゆう「俳優」 - n. diễn viên
+スポーツせんしゅ「スポーツ選手」 - n. vận động viên
+
+Bài 16
+（でんしゃに）のります「（電車に　乗ります）」 - v. đi/lên tàu (Động từ loại I)
+（でんしゃを）おります「（電車を　降ります）」 - v. xuống tàu (Động từ loại II)
+のりかえます「乗り換えます」 - v. chuyển/đổi tàu (Động từ loại II)
+（シャワーを）あびます「（シャワーを）浴びます」 - v. tắm vòi hoa sen (Động từ loại II)
+いれます「入れます」 - v. cho vào/bỏ vào (Động từ loại II)
+だします「出します」 - v. lấy ra/rút tiền (Động từ loại I)
+（だいがくに）はいります「（大学に）入ります」 -  v. vào/nhập học đại học (Động từ loại I)
+（だいがくを）でます「（大学を）出ます」 - v. ra/tốt nghiệp đại học (Động từ loại II)
+（かいしゃを）やめます「（会社を）やめます」 - v. bỏ/thôi việc công ty (Động từ loại II)
+おします「押します」 - v. bấm/ấn nút (Động từ loại I)
+わかい「若い」 - adj. trẻ
+ながい「長い」 - adj. dài
+みじかい「短い」 - adj. ngắn
+あかるい「明るい」 - adj. sáng
+くらい「暗い」 - adj. tối
+せが　たかい「背が　高い」 - adj. cao (dùng cho người)
+せが　ひくい「背が　低い」 - adj. thấp (dùng cho người)
+あたまが　いい「頭が　いい」 - adj. thông minh
+からだ「体」 - n. người, cơ thể
+あたま「頭」 - n. đầu
+かみ「髪」 - n. tóc
+かお「顔」 - n. mặt
+め「目」 - n. mắt
+みみ「耳」 - n. tai
+くち「口」 - n. miệng
+は「歯」 - n. răng
+おなか - n. bụng
+あし「足」 - n. chân
+サービス - n. dịch vụ
+ジョギング - n. việc chạy bộ（〜をします: chạy bộ）
+シャワー - n. vòi hoa sen
+みどり「緑」 - n. màu xanh lá cây
+（お）てら「（お）寺」 - n. chùa
+じんじゃ「神社」 - n. đền thờ đạo Thần
+りゅうがくせい「留学生」 - n. lưu học sinh, du học sinh
+ーばん「ー番」 - . số -
+どうやって - . làm thế nào ~
+どの〜 - . cái nào ~ (dùng đối với trường hợp từ ba thử trở lên)
+（いいえ、）まだまだです。 - . (Không,) tôi còn kém lắm. (cách nói khiêm nhường khi được ai đó khen)
+おひきだしですか。「あ引き出しですか。」 - q. Anh/Chị rút tiền ạ?
+まず - . trướt hết, đầu tiên
+キャッシュカード - n. thẻ ngân hàng, thẻ ATM
+あんしょうばんごう「暗証番号」 - n. mã số bí mật (mật )
+つぎに「次に」 - . tiếp theo
+きんがく「金額」 - n. số tiền, khoản tiền
+かくにん「確認」 - n. sự xác nhận, sự kiểm tra (~します: xác nhận)
+ボタン - n. nút
+JR - n. công ty Đường sắt Nhật Bản
+アジア - n. châu Á
+バンドン - n. Bandung (ở Indonesia)
+ベラクルス - n. Veracruz (ở Mexico)
+フランケン - n. Franken (ở Đức)
+ベトナム - n. Việt Nam
+フエ - n. Huế
+だいがくまえ「大学前」 - . tên một điểm dừng xe buýt (giả tưởng)
+ATMのつかいかた「ATMの使い方」 - n. cách sử dụng máy rút tiền tự động
+おあずけいれ「お預け入れ」 - v. gửi tiền vào tài khoản
+おふりこみ「お振り込み」 - v. chuyển tiền vào tài khoản người khác
+おふりかえ「お振り替え」 - v. chuyển khoản
+おひきだし「お引き出し」 - v. rút tiền
+つうちょうきにゅう「通帳記入」 - v. ghi sổ
+ざんだかしょうかい「残高照会」 - v. kiểm tra số tiền hiện có
+
+Bài 17
+おぼえます「覚えます」 - v. nhớ (Động từ loại )
+わすれます「忘れます」 - v. quên (Động từ loại II)
+なくします - v. mất, đánh mất (Động từ loại I)
+レポートを　だします「レポートを　出します」 - v. nộp bản/bài báo cáo (Động từ loại I)
+はらいます「払います」 - v. trả tiền (Động từ loại I)
+かえします「返します」 - v. trả lại (Động từ loại I)
+でかけます「出かけます」 - v. ra ngoài (Động từ loại II)
+ぬぎます「脱ぎます」 - v. cởi quần áo/giầy (Động từ loại I)
+もっていきます「持って行きます」 - v. mang đi, mang theo (Động từ loại I)
+もってきます「持って来ます」 - v. mang đến (Động từ loại III)
+しんぱいします「心配します」 - v. lo lắng (Động từ loại III)
+ざんぎょうします「残業します」 - v. làm thêm, làm quá giờ (Động từ loại III)
+しゅっちょうします「出張します」 - v. đi công tác (Động từ loại III)
+（くすりを）のみます「（薬を）飲みます」 - v. uống thuốc (Động từ loại I)
+（おふろに）はいります「（おふろに）入ります」 - v. tắm bồn vào bồn tắm (Động từ loại I)
+たいせつ（な）「大切（な）」 - adj. quan trọng, quý giá
+だいじょうぶ（な）「大丈夫（な）」 - . không sao, không có vấn đề gì
+あぶない「危ない」 - adj. nguy hiểm
+もんだい「問題」 - n. vấn đề
+こたえ「答え」 - n. câu trả lời
+きんえん「禁煙」 - n. cấm hút thuốc
+（けんこう）ほけんしょう「（健康）保険証」 - n. thẻ bảo hiểm (y tế)
+かぜ - n. cảm, cúm
+ねつ「熱」 - n. sốt
+びょうき「病気」 - n. ốm, bệnh
+くすり「薬」 - n. thuốc
+（お）ふろ - n. bồn tắm
+うわぎ「上着」 - n. áo khoác
+したぎ「下着」 - n. quần áo lót
+せんせい「先生」 - n. bác sĩ (cách gọi bác sĩ)
+２、３にち「２、３日」 - . vài ngày
+２、３〜 - . vài ~ ("~" là hậu tố chỉ cách đếm)
+〜までに - . trước ~ (chỉ thời hạn)
+ですから - . vì thế, vì vậy, do đó
+どうしましたか。 - q. Có vấn đề gì? / Anh/Chị bị làm sao? (cách bác sĩ hỏi bệnh nhân)
+（〜が）痛いです。「（〜が）痛いです。」 - . Tôi bị đau (~)
+のど - n. họng
+おだいじに。「お大事に。」 - . Anh/Chị nhớ giữ gìn sức khoẻ. (câu nói với người bị ốm hoặc bị bệnh)
+からだ（体） - n. cơ thể
+びょうき（病気） - n. các loại bệnh
+どう　しましたか。 - q. Anh/Chị bị làm sao?
+あたまがいたい「頭が痛い」 - n. đau đầu
+おなかがいたい「おなかが痛い」 - n. đau bụng
+はがいたい「歯が痛い」 - n. đau răng
+ねつがある「熱がある」 - n. bị sốt
+せきがでる「せきが出る」 - n. ho
+はなみずがでる「鼻水が出る」 - n. ra nước mũi, sổ mũi
+ちがでる「血が出る」 - n. chảy máu
+はきけがする「吐き気がする」 - n. buồn nôn
+さむけがする「寒気がする」 - n. gai người, ớn lạnh
+めまいがする - n. chóng mặt
+げりをする「下痢をする」 - n. ỉa chảy
+べんぴをする「便秘をする」 - n. táo bón
+けがをする - n. bị thương
+やけどをする - n. bị bỏng
+しょくよくがない「食欲がない」 - n. không muốn ăn
+かたがこる「肩がこる」 - n. đau vai
+からだがだるい「体がだるい」 - n. mỏi người
+かゆい - n. ngứa
+かぜ - n. cảm, cúm
+インフルエンザ - n. cúm (dịch)
+もうちょう「盲腸」 - n. ruột thừa
+ぎっくりごし「ぎっくり腰」 - n. trật đốt sống, trẹo hông
+ねんざ - n.  bong gân
+こっせつ「骨折」 - n. gẫy xương
+ふつかよい「二日酔い」 - n. dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu
+かお「顔」 - n. Diện mạo, khuôn mặt
+め「目」 - n. Mắt
+はな「鼻」 - n. Mũi
+くち「口」 - n. Miệng
+あご「顎」 - n. Cằm
+むね「胸」 - n. Ngực
+ゆび「指」 - n. Ngón tay
+つめ「爪」 - n. Móng
+ひざ「膝」 - n. Đầu gối
+おなか「お腹」 - n. Bụng
+みみ「耳」 - n. Tai
+のど「咽喉」 - n. Họng, Yết hầu
+かた「肩」 - n. Vai
+うで「腕」 - n. Cánh tay
+ひじ「肘」 - n. Khuỷu tay, cùi chỏ
+て「手」 - n. Bàn tay
+ほね「骨」 - n. Xương cốt
+あたま「頭」 - n. Đầu　
+かみ「髪」 - n. Tóc
+くび「首」 - n. Cổ
+せなか「背中」 - n. Lưng
+こし「腰」 - n. Hông, eo lưng
+しり「尻」 - n. Mông
+あし「足」 - n. Chân
+
+Bài 18
+できます - v. có thể (Động từ loại )
+あらいます「洗います」 - v. rửa (Động từ loại I)
+ひきます「弾きます」 - v. chơi nhạc cụ (Động từ loại I)
+うたいます「歌います」 - v. hát (Động từ loại I)
+あつめます「集めます」 - v. sưu tầm, thu thập (Động từ loại II)
+すてます「捨てます」 - v. vứt, bỏ đi (Động từ loại II)
+かえます「換えます」 - v. đổi (Động từ loại II)
+うんてんします「運転します」 - v. lái、lái xe (Động từ loại III)
+よやくします「予約します」 - v. đặt chỗ, đặt trước (Động từ loại III)
+けんがくします「見学します」 - v. thăm quan với mục đích học tập (Động từ loại III)
+ピアノ - n. đàn piano
+ーメートル - . - mét
+こくさい〜「国際〜」 - . ~ quốc tế
+げんきん「現金」 - n. tiền mặt
+しゅみ「趣味」 - n. sở thích, thú vui
+にっき「日記」 - n. nhật ký
+（お）いのり「（お）祈り」 - n. việc cầu nguyện (〜をします: cầu nguyện)
+かちょう「課長」 - n. tổ trưởng
+ぶちょう「部長」 - n. trưởng phòng
+しゃちょう「社長」 - n. giám đốc
+どうぶつ「動物」 - n. động vật
+うま「馬」 - n. ngựa
+へえ - . Thế à! (dùng để biểu thị sự ngạc nhiên hoặc quan tâm)
+それは　おもしろいですね。 - . Hay thật nhỉ
+なかなか - n. khó mà ~, không dễ, mãi mà (dùng với thể phủ định)
+ぼくじょう「牧場」 - n. trang trại chăn nuôi
+ほんとうですか。 - q. Thật không ạ?
+ぜひ - . nhất định, rất
+ビートルズ - . Beatles, một ban nhạc nổIIi tiếng nước Anh
+うごき「動き」 - v. destroy property or hinder normal operations
+とぶ「飛ぶ」 - v. bay
+とぶ「跳ぶ」 - v. nhảy
+のぼる「登る」 - v. leo
+はしる「走る」 - v. chạy
+およぐ「泳ぐ」 - v. bơi
+もぐる - v. lặn
+とびこむ「飛び込む」 - v. nhảy xuống
+さかだちする「坂立ちする」 - v. lộn ngược, trồng cây chuối
+はう - v. bò
+ける - v. đá
+ふる「振る」 - v. vẫy
+もちあげる「持ち上げる」 - v. nhâng, nhấc
+なげる「投げる」 - v. ném
+たたく - v. đấm, đập, vỗ
+ひく「引く」 - v. kéo
+おす「押す」 - v. đẩy
+まげる「曲げる」 - v. uốn, gập, bẻ cong
+のばす「伸ばす」 - v. duỗi thằng, kéo dài ra
+ころぶ「転ぶ」 - v. ngã
+ふりむく「振り向く」 - v. ngoảnh lại
+
+Bài 19
+（やまに）のぼります「（山に）登ります」 - v. leo núi (Động từ loại I)
+（ホテルに）とまります「（ホテルに）泊まります」 - v. trọ ở khách sạn (Động từ loại I)
+そうじします「掃除します」 - v. dọn vệ sinh (Động từ loại III)
+せんたくします「洗濯します」 - v. giặt (Động từ loại III)
+れんしゅうします「練習します」 - v. luyện tập, thực hành (Động từ loại III)
+なります - v. trở thành, trở nên (Động từ loại I)
+ねむい「眠い」 - adj. buồn ngủ
+つよい「強い」 - adj. mạnh
+よわい「弱い」 - adj. yếu
+ちょうしが　いい「調子が　いい」 - adj. trong tình trạng tốt
+ちょうしが　わるい「調子が　悪い」- adj. trong tình trạng xấu
+ちょうし「調子」- n. tình trạng, trạng thái
+ゴルフ - n. gôn (〜をします: chơi gôn)
+すもう「相撲」- n. vật Sumo
+パチンコ - n. trò chơi pachinko (〜をします: chơi trò chơi pachinko)
+おちゃ「お茶」- n. trà đạo
+ひ「日」- n. ngày
+いちど「一度」- . một lần
+いちども「一度も」- . chưa lần nào
+だんだん - . dần dần
+もうすぐ - . sắp
+おかげさまで - . cám ơn anh/chị (dùng để bày tỏ sự cám ơn khi nhận được sự giúp đỡ của ai đó)
+かんぱい「乾杯」- . Nâng cốc!/ Cạn chén!
+じつは「実は」- . thật ra là/ sự tình là
+ダイエット - n. việc ăn kiêng, chế độ giảm cân (〜をします: ăn kiêng)
+なんかいも「何回も」- . nhiều lần
+しかし - . nhưng, tuy nhiên
+むり（な）「無理（な）」- . không thể, quá sức
+からだに　いい「体に　いい」- . tốt cho sức khoẻ
+ケーキ - n. bánh ga-tô, bánh ngọt
+かつしか　ほくさい「葛飾　北斎」- . Katsushika Hokusai (1760-1849), một hoạ sĩ nổi tiếng thời Edo
+でんとうぶんか「伝統文化」- n. văn hoá truyền thống
+ごらく「娯楽」- n. giải trí
+さどう「茶道」- n. trà đạo
+かどう「華道」- n. nghệ thuật cắm hoa
+いけばな「生け花」- n. nghệ thuật cắm hoa
+しょどう「書道」- n. Thư pháp
+かぶき「歌舞伎」- n. kịch Kabuki
+のう「能」- n. kịch Nou
+ぶんらく「文楽」- n. nghệ thuật Bunraku
+すもう「相撲」- n. vật Sumo
+じゅうどう「柔道」- n. Judo
+けんどう「剣道」- n. Kiếm đạo
+からて「空手」- n. Karate
+まんざい「漫才」- n. hài
+らくご「落語」- n. nghệ thuật kể chuyện
+いご「囲碁」- n. Cờ vây
+しょうぎ「将棋」- n. Cờ tướng
+カラオケ - n. Karaoke
+ぼんおどり「盆踊り」- n. múa Bon
+
+Bài 20
+ビザが　いります「ビザが　要ります」- v. cần thị thực/visa (Động từ loại I)
+しらべます「調べます」- v. tìm hiểu, điều tra, xem (Động từ loại II)
+なおします「直します」- v. sửa, chữa (Động từ loại I)
+しゅうりします「修理します」- v. sửa chữa, tu sửa (Động từ loại III)
+でんわします「電話します」- v. gọi điện thoại (Động từ loại III)
+ぼく「僕」- . tớ (cách xưng thân mật của nam giới, cùng nghĩa với 「わたし」)
+きみ「君」- . cậu, bạn (cách gọi thân mật dùng cho nam giới, cùng nghĩa với 「あなた」)
+〜くん「〜君」- . anh ~, cậu ~ (cách gọi thân mật dùng cho nam giới, cũng nghĩa với 「〜さん」)
+うん - . ừ (cách nói thân mật của 「はい」)
+ううん - . không (cách nói thân mật của 「いいえ」)
+サラリーマン - n. người làm việc cho các công ty
+ことば - n. từ, tiếng
+ぶっか「物価」- n. giá cả, mức giá. vật giá
+きもの「着物」- n. kimono (trang phục truyền thống của Nhật Bản)
+ビザ - n. thị thực, visa
+はじめ「初め」- . ban đầu, đầu tiên
+おわり「終わり」- . kết thúc
+こっち - . phía này, chỗ này (cách nói thân mật của 「こちら」)
+そっち - . phía đó, chỗ đó (cách nói thân mật của 「そちら」)
+あっち - . phía kia, chỗ kia (cách nói thân mật của 「あちら」)
+どっち - . cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)
+このあいだ「この間」- . vừa rồi, hôm nọ
+みんなで - . moi người cùng
+〜けど - . ~, nhưng (cách nói thân mật của 「が」)
+くにへかえるの「国へ帰るの」。- q. Anh/Chị có về nước không?
+どうするの。- q. Anh/Chị tính sao? / Anh/Chị (sẽ) làm gì?
+どうしようかな。- . Tính sao đây nhỉ?/ Để tôi xem.
+よかったら - . nếu anh/chị thích thì
+いろいろ - . nhiều thứ
+ひとのよびかた「人の呼び方」- n. cách xưng hô
+
+Bài 21
+おもいます「思います」- v. nghĩ (Động từ loại I)
+いいます「言います」- v. nói (Động từ loại I)
+たります「足ります」- v. đủ (Động từ loại II)
+かちます「勝ちます」- v. thắng (Động từ loại I)
+まけます「負けます」- v. thua (Động từ loại II)
+おまつりが　あります「お祭りが　あります」- v. lễ hội được tổ chức, diễn ra, có (Động từ loại I)
+やくに　たちます「役に　立ちます」- v. giúp ích (Động từ loại I)
+むだ（な）- . lãng phí, vô ích
+ふべん（な）「不便（な）」- . bất tiện
+おなじ「同じ」- . giống nhau (về vật, tính cách)
+
+すごい - . ghê quá, giỏi quá (dùng để bày tỏ sự ngạc nhiên hoặc thán phục)
+だいとうりょう「大統領」- n. tổng thống
+せいじ「政治」- n. chính trị
+ニュース - n. tin tức, bản tin
+スピーチ - n. bài diễn thuyết, bài phát biểu (〜をします: diễn thuyết)
+しあい「試合」- n. trận đấu
+アルバイト - n. công việc làm thêm (〜をします: làm thêm)
+いけん「意見」- n. ý kiến
+（お）はなし「（お）話」- n. câu chuyện, bài nói chuyện (〜をします: nói chuyện)
+ユーモア - n. hài hước
+むだ - n. sự lãng phí
+デザイン - n. thiết kế
+こうつう「交通」- n. giao thông, đi lại
+ラッシュ - n. giờ cao điểm
+さいきん「最近」 - . gần đây
+たぶん - . chắc, có thể
+きっと - . chắc chắn, nhất định
+ほんとうに - . thật sự
+そんなに - . (không) ~ lắm
+〜に　ついて - . về ~
+しかたが　ありません。- . Không có cách nào khác./ Đành chịu vậy./ Chuyện đã rồi.
+しばらくですね。- . Lâu không gặp nhỉ.
+〜でも　のみませんか。「〜でも　飲みませんか。」- . Anh/Chị uống ~ (cà-phê, rượu hay cái gì đó) nhé.
+みないと...。- . Tôi phải xem
+もちろん - . tất nhiên
+カンガルー - n. con cănguru
+キャプテン.クック - . Thuyền trưởng Cook (James Cook 1728-79)
+やくしょくめい「役職名」- n. chức danh
+くに「国」- n. nhà nước, chính phủ
+とどうふけん「都道府県」- n. tỉnh, thành phố
+し「市」- n. thành phố (trong tỉnh)
+まち「町」- n. khu phố
+むら「村」- n. thôn
+しゅしょう「首相」- n. thủ tướng (nhà nước, chính phủ)
+ないかくそうりだいじん「内閣総理大臣」- n. thủ tướng (nhà nước, chính phủ)
+ちじ「知事」- n. tỉnh trưởng (tỉnh), thị trưởng (thành phố)
+しちょう「市長」- n. thị trưởng (thành phố trong tỉnh)
+ちょうちょう「町長」- n. trưởng khu phố
+そんちょう「村長」- n. trưởng thôn
+こうとうがっこう「高等学校」- n. trung học phổ thông
+ちゅうがっこう「中学校」- n. trung học cơ sở
+しょうがっこう「小学校」- n. tiểu học
+ようちえん「幼稚園」- n. mẫu giáo
+がくちょう「学長」- n. hiệu trưởng, giám đốc (đại học)
+こうちょう「校長」- n. hiệu trưởng (trung học phổ thông/ trung học cơ sở/ tiểu học)
+えんちょう「園長」- n. hiệu trưởng (mẫu giáo)
+かいちょう「会長」- n. chủ tịch công ty
+しゃちょう「社長」- n. giám đốc điều hành công ty
+じゅうやく「重役」- n. thành viên ban quản trị công ty
+ぶちょう「部長」- n. trưởng phòng công ty
+かちょう「課長」- n. tổ trưởng công ty
+とうどり「頭取」- n. giám đốc ngân hàng
+してんちょう「支店長」- n. trưởng chi nhành, giám đốc chi nhánh ngân hàng
+えきちょう「駅長」- n. trưởng nhà ga
+いんちょう「院長」- n. giám đốc bệnh viện
+ぶちょう「部長」- n. trưởng phòng, trưởng khoa bệnh viện
+ふちょう「婦長」- n. y tá trưởng bệnh viện
+けいさつ「警察」- n. cảnh sát
+しょちょう「署長」- n. cảnh sát trưởng, trưởng đồn cảnh sát
+
+Bài 22
+シャツを　きます「シャツを　着ます」- v. mặc áo sơ-mi/v.v. (Động từ loại II)
+くつを　はきます「靴を　はきます」- v. đi/mặc giầy/quần âu/v.v. (Động từ loại I)
+ぼうしを　かぶります「帽子を　かぶります」- v. đội mũ/v.v. (Động từ loại I)
+めがねを　かけます「眼鏡を　かけます」- v. đeo kính (Động từ loại II)
+うまれます「生まれます」- v. sinh ra (Động từ loại II)
+コート - n. áo khoác
+スーツ - n. com-lê
+セーター - n. áo len
+ぼうし「帽子」- n. mũ
+めがね「眼鏡」- n. kính
+よく - . thường, hay
+おめでとう　ございます。- . Chúc mừng. (dùng để  nói trong dịp sinh nhật, lễ cưới, năm mới v.v.)
+こちら - . cái này (cách nói lịch sự của 「これ」)
+やちん「家賃」- n. tiền thuê nhà
+うーん。- . Ừ ~./ Để tôi xem./ Thế nào nhỉ.
+ダイニングキチン - n. bếp kèm phòng ăn
+わしつ「和室」- n. phòng kiểu Nhật
+おしいれ「押し入れ」- n. chỗ để chăn gối trong một căn phòng kiểu Nhật
+ふとん「布団」- n. chăn, đệm
+アパート - n. nhà chung cư
+パリ - n. Pari
+ばんりのちょうじょう「万里の長城」- n. Vạn Lý Trường Thành
+よかかいはつセンター「余暇開発センター」- n. Trung tâm phát triển hoạt động giải trí cho người dân
+レジャーはくしょ「レジャー白書」- n. sách trắng về sử dụng thời gian rảnh rỗi
+いふく「衣服」- n. quần áo
+ワンピース - n. váy liền thân
+うわぎ「上着」- n. áo khoác
+ズボン／パンツ - n. quần âu
+ジーンズ - n. quần bò, quần Jeans
+スカート - n. váy ngắn
+ブラウス - n. áo bờ-lu-zông
+ワイシャツ - n. áo sơ-mi (trắng)
+セーター - n. áo len
+マフター - n. khăn
+てぶくろ「手袋」- n. găng tay
+したぎ「下着」- n. quần áo lót
+くつした - n. tất
+パンスト - n. quần tất
+オーバーコート - n. áo choàng
+レインコート - n. áo mưa
+ネクタイ - n. cà-vạt
+ベルト - n. thắt lưng
+ハイヒール - n. giầy cao gót
+ブーツ - n. ủng, giầy cao cổ
+うんどうぐつ「運動靴」- n. giầy thể thao
+きもの「着物」- n. kimono
+おび「帯」- n. đai (kimono)
+ぞうり - n. guốc (đi kèm với kimono)
+たび - n. tất (đi kèm với kimono)
+
+Bài 23
+せんせいに　ききます「先生に　聞きます」- v. hỏi giáo viên (Động từ loại )
+まわします「回します」- v. vặn núm (Động từ loại I)
+ひきます「引きます」- v. kéo (Động từ loại I)
+かえます「変えます」- v. đổi (Động từ loại II)
+ドアに　さわります「ドアに　触ります」- v. sờ/chạm vào cửa (Động từ loại I)
+おつりが　でます「お釣りが　出ます」- v. tiền thừa ra/đi ra (Động từ loại II)
+とけいが　うごきます「時計が　動きます」- v. đồng hồ chuyển động/chạy (Động từ loại I)
+みちを　あるきます「道を　歩きます」- v. đi bộ trên đường (Động từ loại I)
+はしを　わたります「橋を　渡ります」- v. qua/đi qua  cầu (Động từ loại I)
+くるまに　きをつけます「車に　気をつけます」- v. chú ý/cẩn thận với ô-tô (Động từ loại II)
+ひっこしします「引っ越しします」- v. chuyển nhà (Động từ loại III)
+でんきや「電器屋」- n. cửa hàng đồ điện
+〜や「〜屋」- n. cửa hàng ~
+サイズ - n. cỡ, kích thước
+おと「音」- n. âm thanh
+きかい「機械」- n. máy, máy móc
+つまみ - n. núm vặn
+こしょう「故障」- . hỏng (〜します: bị hỏng)
+みち「道」- n. đường
+こうさてん「交差点」- n. ngã tư
+しんごう「信号」- n. đèn tín hiệu
+かど「角」- n. góc đường
+はし「橋」- n. cầu
+ちゅうしゃじょう「駐車場」- n. bãi đỗ xe
+ーめ「ー目」- . thứ -, số - (biểu thị thứ tự)
+（お）しょうがつ「（お）正月」- . Tết (Dương lịch)
+ごちそうさま（でした）。- . Xin cám ơn anh/chị đã đãi tôi bữa cơm. (câu nói dùng khi ăn xong bữa cơm)
+たてもの「建物」- n. toà nhà
+がいこくじんとうろくしょう「外国人登録証」- n. thẻ đăng ký người nước ngoài, thẻ đăng ký ngoại kiều
+しょうとくたいし「聖徳太子」- . Thái tử Shotoku (574-622)
+ほうりゅうじ「法隆寺」- . Chùa Horyu-ji (một ngôi chùa ở Nara do Hoàng tử Shotoku xây vào thế kỷ thứ 7)
+げんきちゃ「元気茶」- . tên một loại trà (giả tưởng)
+ほんだえき「本田駅」- . tên một nhà ga (giả tưởng)
+としょかんまえ「図書館前」- . tên một bến xe buýt (giả tưởng)I
+どうろ「道路」- n. đường xá
+こうつう「交通」- n. giao thông
+ほどう「歩道」- n. đường cho người đi bộ
+しゃどう「車道」- n. đường cho xe ô-tô
+こうそくどうろ「高速道路」- n. đường cao tốc
+とおり「通り」- n. đường, phố
+こうさてん「交差点」- n. ngã tư
+おうだんほどう「横断歩道」- n. phần đường cho người đi bộ qua đường
+ほどうきょう「歩道橋」- n. cầu vượt cho người đi bộ
+しんごう「信号」- n. đèn tín hiệu
+さか「坂」- n. dốc
+ふみきり「踏切」- n. đường ngang
+ガソリンスタンド - n. trạm xăng
+とまれ「止まれ」- n. biển báo dừng lại
+しんにゅうきんし「進入禁止」- n. biển báo cấm đi vào
+いっぽうつうこう「一方通行」- n. biển báo đường một chiều
+ちゅうしゃきんし「駐車禁止」- n. biển báo cấm đỗ xe
+うせつきんし「右折禁止」- n. biển báo cấm rẽ phải.
+
+Bài 24
+くれます - v. cho/tặng tôi (Động từ loại II)
+つれていきます「連れて行きます」- v. dẫn đi (Động từ loại I)
+つれてきます「連れて来ます」- v. dẫn đến (Động từ loại III)
+ひとを　おくります「人を　送ります」- v. đưa đi, đưa đến, tiễn một ai đó (Động từ loại I)
+しょうかいします「紹介します」- v. giới thiệu (Động từ loại III)
+あんないします「案内します」- v. hướng dẫn, giới thiệu, dẫn đường (Động từ loại III)
+せつめいします「説明します」- v. giải thích, trình bày (Động từ loại III)
+コーヒーを　いれます - v. pha cà-phê (Động từ loại II)
+おじいさん／おじいちゃん - n. ông nội, ông ngoại, ông
+おばあさん／おばあちゃん - n. bà nội, bà ngoại, bà
+じゅんび「準備」- n. chuẩn bị (〜します: chuẩn bị)
+いみ「意味」- n. ý nghĩa
+（お）かし「（お）菓子」- n. bánh kẹo
+ぜんぶ「全部」- . toàn bộ, tất cả
+じぶんで「自分で」- . tự (mình)
+ほかに - . ngoài ra, bên cạnh đó
+ワゴンしゃ「ワゴン車」- n. xe ô-tô kiểu wagon (có thùng đóng kín)
+（お）べんとう「（お）弁当」- n. cơm hộp
+ははのひ「母の日」- n. Ngày mẹ
+ぞうとうのしゅうかん「贈答の習慣」- n. tập quán tặng quà
+おとしだま「お年玉」- n. tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày Tết
+にゅうがくいわい「入学祝い」- n. tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách
+そつぎょういわい「卒業祝い」- n. tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách
+けっこんいわい「結婚祝い」- n. tặng cho người lập gia đình, thường là tiền hoặc đồ vật dùng trong nhà
+しゅっさんいわい「出産祝い」- n. tặng cho người mới sinh con, thường là quần áo trẻ con, đồ chơi
+おちゅうげん「お中元」- n. [Tháng 7 hoặc tháng 8] tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thầy cô giáo, cấp trên, thường là đồ ăn
+おせいぼ「お歳暮」- n. [Tháng 12] tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thầy cô giáo, cấp trên, thường là đồ ăn
+おこうでん「お香典」- n. tiền cùng điếu cho gia đình có người qua đời
+おみまい「お見舞い」- n. tặng cho người bị bệnh, thường là hoa hoặc hoa quả
+のしぶくろ「熨斗袋」- n. một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác.
+
+Bài 25
+かんがえます「考えます」- v. nghĩ, suy nghĩ (Động từ loại II)
+えきに　つきます「駅に　着きます」- v. đến ga (Động từ loại I)
+りゅうがくします「留学します」- v. du học (Động từ loại III)
+としを　とります「年を　取ります」- v. thêm tuổi (Động từ loại I)
+いなか「田舎」- n. quê, nông thôn
+たいしかん「大使館」- n. đại sứ quán
+グループ - n. nhóm, đoàn
+チャンス - n. cơ hội
+おく「億」- . một trăm triệu
+もし（〜たら）- . nếu (~ thì)
+いくら（〜ても）- . cho dù, thế nào (~ đi nữa)
+てんきん「転勤」- n. việc chuyển địa điểm làm việc (〜します: chuyển địa điểm làm việc)
+こと - . việc (〜のこと: việc ~)
+いっぱい　のみましょう。「一杯　飲みましょう。」- . Chúng ta cùng uống nhé.
+（いろいろ）おせわに　なりました。「（いろいろ）お世話に　なりました。」- . Anh/Chị đã giúp tôi (nhiều).
+がんばります「頑張ります」- v. cố, cố gắng (Động từ loại I)
+どうぞ　おげんきで。「どうぞ　お元気で。」- . chúc anh/chị mạnh khoẻ (câu nói trước khi chia tay với ai đó mà có lẽ lâu nữa mới gặp lại)
+ひとのいっしょう「人の一生」- n. cuộc đời một con người
+さい「歳」- n. tuổi
+あかちゃん「赤ちゃん」- n. em bé
+うまれます「生まれます」- n. sinh ra
+ほいくえん「保育園」- n. nhà trẻ
+ようちえん「幼稚園」- n. mẫu giáo
+こども「子ども」- n. trẻ con
+がっこうにはいります「学校に入ります」- n. đi học
+せいねん「青年」- n. thanh niên
+しょうがっこう「小学校」- n. tiểu học (6 năm)
+ちゅうがっこう「中学校」- n. trung học cơ sở (3 năm)
+こうとうがっこう「高等学校」- n. trung học phổ thông (3 năm)
+だいがく「大学」- n. đại học (4 năm)
+たんだい「短大」- n. cao đẳng (2 năm)
+だいがくいん「大学院」- n. trên đại học/cao học (2~6 năm)
+せんもんがっこう「専門学校」- n. trung học chuyên nghiệp/dạy nghề (2 năm)
+がっこうをでます「学校を出ます」- n. tốt nghiệp
+そつぎょう「卒業」- n. sự tốt nghiệp
+しゅうしょくします「就職します」- n. đi làm
+けっこんします「結婚します」- n. lập gia đình
+ちゅうねん「中年」- n. trung niên
+りこんします「離婚します」- n. ly dị
+さいこんします「再婚します」- n. tái hôn
+こどもがうまれます「子どもが生まれます」- n. sinh con
+ろうじん「老人」- n. người già
+しごとをやめます「仕事をやめます」 - n. nghỉ hưu
+しにます「死にます」- n. chết
+ゼロ／れい - . 0
+いち「一」- . 1
+に「二」 - . 2
+さん「三」- . 3
+よん／し「四」- . 4
+ご「五」- . 5
+ろく「六」- . 6
+なな／しち「七」- . 7
+はち「八」- . 8
+きゅう／く「九」- . 9
+じゅう「十」- . 10
+じゅういち「十一」- . 11
+じゅうに「十二」- . 12
+じゅうさん「十三」- . 13
+じゅうよん／じゅうし「十四」- . 14
+じゅうご「十五」- . 15
+じゅうろく「十六」- . 16
+じゅうなな／じゅうしち「十七」- . 17
+じゅうはち「十八」- . 18
+じゅうきゅう／じゅうく「十九」- . 19
+にじゅう「二十」- . 20
+さんじゅう「三十」- . 30
+よんじゅう「四十」- . 40
+ごじゅう「五十」- . 50
+ろくじゅう「六十」- . 60
+ななじゅう／しちじゅう「七十」- . 70
+はちじゅう「八十」- . 80
+きゅうじゅう「九十」- . 90
+ひゃく「百」- . 100
+にひゃく「二百」- . 200
+さんびゃく「三百」- . 300
+よんひゃく「四百」- . 400
+ごひゃく「五百」- . 500
+ろっぴゃく「六百」- . 600
+ななひゃく「七百」- . 700
+はっぴゃく「八百」- . 800
+きゅうひゃく「九百」- . 900
+せん「千」- . 1,000
+にせん「二千」- . 2,000
+さんぜん「三千」- . 3,000
+よんせん「四千」- . 4,000
+ごせん「五千」- . 5,000
+ろくせん「六千」- . 6,000
+ななせん「七千」- . 7,000
+はっせん「八千」- . 8,000
+きゅうせん「九千」- . 9,000
+いちまん「一万」- . 10,000
+じゅうまん「十万」- . 100,000
+ひゃくまん「百万」- . 1,000,000
+せんまん「千万」- . 10,000,000
+いちおく「一億」- . 100,000,000
+じゅうななてんご - . 17.5
+れいてんはちさん - . 0.83
+にぶんのいち「二分の一」- . 1/2
+よんぶんのさん「四分の三」- . 3/4
+おととい - n. hôm kia
+きのう - n. hôm qua
+きょう - n. hôm nay
+あした - n. ngày mai
+あさって - n. ngày kia
+まいにち - n. hàng ngày
+おとといのあさ - n. sáng hôm kia
+きのうのあさ - n. sáng hôm qua
+けさ - n. sáng nay
+あしたのあさ - n. sáng ngày mai
+あさってのあさ - n. sáng ngày kia
+まいあさ - n. hàng sáng
+おとといのばん - n. tối hôm kia
+きのうのばん - n. tối hôm qua
+こんばん - n. tối nay
+あしたのばん - n. tối ngày mai
+あさってのばん - n. tối ngày kia
+まいばん「毎晩」- n. hàng tối
+せんせんしゅう/にしゅうかんまえ - n. tuần trước nữa
+せんしゅう - n. tuần trước
+こんしゅう - n. tuần này
+らいしゅう - n. tuần sau
+さらいしゅう - n. tuần sau nữa
+まいしゅう - n. hàng tuần
+せんせんげつ/にかげつまえ - n. tháng trước nữa
+せんげつ - n. tháng trước
+こんげつ - n. tháng này
+らいげつ - n. tháng sau
+さらいげつ - n. tháng sau nữa
+まいつき - n. hàng tháng
+おととし - n. năm kia
+きょねん - n. năm ngoái
+ことし - n. năm nay
+らいねん - n. sang năm, năm sau
+さらいねん - n. năm sau nữa
+まいとし／まいねん - n. hàng năm
+いちじ「一時」- n. 1 giờ
+にじ「二時」- n. 2 giờ
+さんじ「三時」- n. 3 giờ
+よんじ「四時」- n. 4 giờ
+ごじ「五時」- n. 5 giờ
+ろくじ「六時」- n. 6 giờ
+しちじ「七時」- n. 7 giờ
+はちじ「八時」- n. 8 giờ
+くじ「九時」- n. 9 giờ
+じゅうじ「十時」- n. 10 giờ
+じゅういちじ「十一時」- n. 11 giờ
+じゅうにじ「十二時」- n. 12 giờ
+なんじ「何時」- q. mấy giờ?
+いっぷん「一分」- n. 1 phút
+にふん「二分」- n. 2 phút
+さんぷん「三分」- n. 3 phút
+よんぷん「四分」- n. 4 phút
+ごふん「五分」- n. 5 phút
+ろっぷん「六分」- n. 6 phút
+ななふん／しちふん「七分」- n. 7 phút
+はっぷん「八分」- n. 8 phút
+きゅうふん「九分」- n. 9 phút
+じゅっぷん／じっぷん「十分」- n. 10 phút
+じゅうごふん「十五分」- n. 15 phút
+さんじゅっぷん／さんじっぷん／はん「三十分／半」- n. 30 phút
+なんぷん「何分」- q. mấy phút?
+にちようび「日曜日」- n. chủ nhật
+げつようび「月曜日」- n. thứ hai
+かようび「火曜日」- n. thứ ba
+すいようび「水曜日」- n. thứ tư
+もくようび「木曜日」- n. thứ năm
+きんようび「金曜日」- n. thứ sáu
+どようび「土曜日」- n. thứ bảy
+なんようび「何曜日」- q. thứ mấy?
+いちがつ「一月」- n. tháng 1
+にがつ「二月」- n. tháng 2
+さんがつ「三月」- n. tháng 3
+しがつ「四月」- n. tháng 4
+ごがつ「五月」- n. tháng 5
+ろくがつ「六月」- n. tháng 6
+しちがつ「七月」- n. tháng 7
+はちがつ「八月」- n. tháng 8
+くがつ「九月」- n. tháng 9
+じゅうがつ「十月」- n. tháng 10
+じゅういちがつ「十一月」- n. tháng 11
+じゅうにがつ「十二月」- n. tháng 12
+なんがつ「何月」- q. tháng mấy?
+ついたち「一日」- n. ngày 1
+ふつか「二日」- n. ngày 2
+みっか「三日」- n. ngày 3
+よっか「四日」- n. ngày 4
+いつか「五日」- n. ngày 5
+むいか「六日」- n. ngày 6
+なのか「七日」- n. ngày 7
+ようか「八日」- n. ngày 8
+ここのか「九日」- n. ngày 9
+とおか「十日」- n. ngày 10
+じゅういちにち「十一日」- n. ngày 11
+じゅうににち「十二日」- n. ngày 12
+じゅうさんにち「十三日」- n. ngày 13
+じゅうよっか「十四日」- n. ngày 14
+じゅうごにち「十五日」- n. ngày 15
+じゅうろくにち「十六日」- n. ngày 16
+じゅうしちにち「十七日」- n. ngày 17
+じゅうはちにち「十八日」- n. ngày 18
+じゅうくにち「十九日」- n. ngày 19
+はつか「二十日」- n. ngày 20
+にじゅういちにち「二十一日」- n. ngày 21
+にじゅうににち「二十二日」- n. ngày 22
+にじゅうさんにち「二十三日」- n. ngày 23
+にじゅうよっか「二十四日」- n. ngày 24
+にじゅうごにち「二十五日」- n. ngày 25
+にじゅうろくにち「二十六日」- n. ngày 26
+にじゅうしちにち「二十七日」- n. ngày 27
+にじゅうはちにち「二十八日」- n. ngày 28
+にじゅうくにち「二十九日」- n. ngày 29
+さんじゅうにち「三十日」- n. ngày 30
+さんじゅういちにち「三十一日」- n. ngày 31
+なんにち「何日」- q. ngày bao nhiêu?
+いちじかん「一時間」- n. 1 tiếng
+にじかん「二時間」- n. 2 tiếng
+さんじかん「三時間」- n. 3 tiếng
+よじかん「四時間」- n. 4 tiếng
+ごじかん「五時間」- n. 5 tiếng
+ろくじかん「六時間」- n. 6 tiếng
+ななじかん／しちじかん「七時間」- n. 7 tiếng
+はちじかん「八時間」- n. 8 tiếng
+くじかん「九時間」- n. 9 tiếng
+じゅうじかん「十時間」- n. 10 tiếng
+なんじかん「何時間」- q. mấy tiếng?
+いっぷん「一分」- n. 1 phút
+にふん「二分」- n. 2 phút
+さんぷん「三分」- n. 3 phút
+よんぷん「四分」- n. 4 phút
+ごふん「五分」- n. 5 phút
+ろっぷん「六分」- n. 6 phút
+ななふん／しちふん「七分」- n. 7 phút
+はっぷん「八分」- n. 8 phút
+きゅうふん「九分」- n. 9 phút
+じゅっぷん／じっぷん「十分」- n. 10 phút
+なんぷん「何分」- q. mấy phút?
+いちにち「一日」- n. 1 ngày
+ふつか「二日」- n. 2 ngày
+みっか「三日」- n. 3 ngày
+よっか「四日」- n. 4 ngày
+いつか「五日」- n. 5 ngày
+むいか「六日」- n. 6 ngày
+なのか「七日」- n. 7 ngày
+ようか「八日」- n. 8 ngày
+ここのか「九日」- n. 9 ngày
+とおか「十日」- n. 10 ngày
+なんにち「何日」- q. mấy ngày?
+いっしゅうかん「一週間」- n. 1 tuần
+にしゅうかん「二週間」- n. 2 tuần
+さんしゅうかん「三週間」- n. 3 tuần
+よんしゅうかん「四週間」- n. 4 tuần
+ごしゅうかん「五週間」- n. 5 tuần
+ろくしゅうかん「六週間」- n. 6 tuần
+ななしゅうかん／しちしゅうかん「七週間」- n. 7 tuần
+はっしゅうかん「八週間」- n. 8 tuần
+きゅうしゅうかん「九週間」- n. 9 tuần
+じゅっしゅうかん／じっしゅうかん「十週間」- n. 10 tuần
+なんしゅうかん「何週間」- q. mấy tuần?
+いっかげつ「一か月」- n. 1 tháng
+にかげつ「二か月」- n. 2 tháng
+さんかげつ「三か月」- n. 3 tháng
+よんかげつ「四か月」- n. 4 tháng
+ごかげつ「五か月」- n. 5 tháng
+ろっかげつ／はんとし「六か月」- n. 6 tháng
+ななかげつ／しちかげつ「七か月」- n. 7 tháng
+はちかげつ／はっかげつ「八か月」- n. 8 tháng
+きゅうかげつ「九か月」- n. 9 tháng
+じゅっかげつ／じっかげつ「十か月」- n. 10 tháng
+なんかげつ - q. mấy tháng?
+いちねん「一年」- n. 1 năm
+にねん「二年」- n. 2 năm
+さんねん「三年」- n. 3 năm
+よねん「四年」- n. 4 năm
+ごねん「五年」- n. 5 năm
+ろくねん「六年」- n. 6 năm
+ななねん／しちねん「七年」- n. 7 năm
+はちねん「八年」- n. 8 năm
+きゅうねん「九年」- n. 9 năm
+じゅうねん「十年」- n. 10 năm
+なんねん「何年」- q. mấy năm?
+ひとつ - n. (đếm đồ vật nói chung) 1
+ふたつ - n. (đếm đồ vật nói chung) 2
+みっつ - n. (đếm đồ vật nói chung) 3
+よっつ - n. (đếm đồ vật nói chung) 4
+いつつ - n. (đếm đồ vật nói chung) 5
+むっつ - n. (đếm đồ vật nói chung) 6
+ななつ - n. (đếm đồ vật nói chung) 7
+やっつ - n. (đếm đồ vật nói chung) 8
+ここのつ - n. (đếm đồ vật nói chung) 9
+とお - n. (đếm đồ vật nói chung) 10
+いくつ - q. (đếm đồ vật nói chung) bao nhiêu?
+ひとり「一人」- n. (đếm người) 1
+ふたり「二人」- n. (đếm người) 2
+さんにん「三人」- n. (đếm người) 3
+よにん「四人」- n. (đếm người) 4
+ごにん「五人」- n. (đếm người) 5
+ろくにん「六人」- n. (đếm người) 6
+ななにん／しちにん「七人」- n. (đếm người) 7
+はちにん「八人」- n. (đếm người) 8
+きゅうにん「九人」- n. (đếm người) 9
+じゅうにん「十人」- n. (đếm người) 10
+なんにん「何人」- q. (đếm người) bao nhiêu?
+いちばん「一番」- n. (đếm số thứ tự) đầu tiên
+にばん「二番」- n. (đếm số thứ tự)
+さんばん「三番」- n. (đếm số thứ tự) đầu tiên
+よんばん「四番」- n. (đếm số thứ tự) đầu tiên
+ごばん「五番」- n. (đếm số thứ tự) đầu tiên
+ろくばん「六番」- n. (đếm số thứ tự) đầu tiên
+ななばん「七番」- n. (đếm số thứ tự) đầu tiên
+はちばん「八番」- n. (đếm số thứ tự) đầu tiên
+きゅうばん「九番」- n. (đếm số thứ tự) đầu tiên
+じゅうばん「十番」- n. (đếm số thứ tự) đầu tiên
+なんばん「何番」- q. (đếm số thứ tự) thứ mấy?
+いちまい「一枚」- n. (đếm vật mỏng) 1
+にまい「二枚」- n. (đếm vật mỏng) 2
+さんまい「三枚」- n. (đếm vật mỏng) 3
+よんまい「四枚」- n. (đếm vật mỏng) 4
+ごまい「五枚」- n. (đếm vật mỏng) 5
+ろくまい「六枚」- n. (đếm vật mỏng) 6
+ななまい「七枚」- n. (đếm vật mỏng) 7
+はちまい「八枚」- n. (đếm vật mỏng) 8
+きゅうまい「九枚」- n. (đếm vật mỏng) 9
+じゅうまい「十枚」- n. (đếm vật mỏng) 10
+なんまい「何枚」- q. (đếm vật mỏng) bao nhiêu?
+いちだい「一台」- n. (đếm máy móc, xe) 1
+にだい「二台」- n. (đếm máy móc, xe) 2
+さんだい「三台」- n. (đếm máy móc, xe) 3
+よんだい「四台」- n. (đếm máy móc, xe) 4
+ごだい「五台」- n. (đếm máy móc, xe) 5
+ろくだい「六台」- n. (đếm máy móc, xe) 6
+ななだい「七台」- n. (đếm máy móc, xe) 7
+はちだい「八台」- n. (đếm máy móc, xe) 8
+きゅうだい「九台」- n. (đếm máy móc, xe) 9
+じゅうだい「十台」- n. (đếm máy móc, xe) 10
+なんだい「何台」- q. (đếm máy móc, xe) bao nhiêu?
+いっさい「一歳」- n. (đếm tuổi) 1
+にさい「二歳」- n. (đếm tuổi) 2
+さんさい「三歳」- n. (đếm tuổi) 3
+よんさい「四歳」- n. (đếm tuổi) 4
+ごさい「五歳」- n. (đếm tuổi) 5
+ろくさい「六歳」- n. (đếm tuổi) 6
+ななさい「七歳」- n. (đếm tuổi) 7
+はっさい「八歳」- n. (đếm tuổi) 8
+きゅうさい「九歳」- n. (đếm tuổi) 9
+じゅっさい／じっさい「十歳」- n. (đếm tuổi) 10
+なんさい「何歳」- q. (đếm tuổi) bao nhiêu?
+いっさつ「一冊」- n. (đếm sách, vở) 1
+にさつ「二冊」- n. (đếm sách, vở) 2
+さんさつ「三冊」- n. (đếm sách, vở) 3
+よんさつ「四冊」- n. (đếm sách, vở) 4
+ごさつ「五冊」- n. (đếm sách, vở) 5
+ろくさつ「六冊」- n. (đếm sách, vở) 6
+ななさつ「七冊」- n. (đếm sách, vở) 7
+はっさつ「八冊」- n. (đếm sách, vở) 8
+きゅうさつ「九冊」- n. (đếm sách, vở) 9
+じゅっさつ／じっさつ「十冊」- n. (đếm sách, vở) 10
+なんさつ「何冊」- q. (đếm sách, vở) bao nhiêu?
+いっちゃく「一着」- n. (đếm quần áo) 1
+にちゃく「二着」- n. (đếm quần áo) 2
+さんちゃく「三着」- n. (đếm quần áo) 3
+よんちゃく「四着」- n. (đếm quần áo) 4
+ごちゃく「五着」- n. (đếm quần áo) 5
+ろくちゃく「六着」- n. (đếm quần áo) 6
+ななちゃく「七着」- n. (đếm quần áo) 7
+はっちゃく「八着」- n. (đếm quần áo) 8
+きゅうちゃく「九着」- n. (đếm quần áo) 9
+じゅっちゃく／じっちゃく「十着」- n. (đếm quần áo) 10
+なんちゃく「何着」- q. (đếm quần áo) bao nhiêu?
+いっかい「一回」- n. (đếm lần) 1
+にかい「二回」- n. (đếm lần) 2
+さんかい「三回」- n. (đếm lần) 3
+よんかい「四回」- n. (đếm lần) 4
+ごかい「五回」- n. (đếm lần) 5
+ろっかい「六回」- n. (đếm lần) 6
+ななかい「七回」- n. (đếm lần) 7
+はっかい「八回」- n. (đếm lần) 8
+きゅうかい「九回」- n. (đếm lần) 9
+じゅっかい／じっかい「十回」- n. (đếm lần) 10
+なんかい「何回」- q. (đếm lần) bao nhiêu?
+いっこ「一個」- n. (đếm vật nhỏ) 1
+にこ「二個」- n. (đếm vật nhỏ) 2
+さんこ「三個」- n. (đếm vật nhỏ) 3
+よんこ「四個」- n. (đếm vật nhỏ) 4
+ごこ「五個」- n. (đếm vật nhỏ) 5
+ろっこ「六個」- n. (đếm vật nhỏ) 6
+ななこ「七個」- n. (đếm vật nhỏ) 7
+はっこ「八個」- n. (đếm vật nhỏ) 8
+きゅうこ「九個」- n. (đếm vật nhỏ) 9
+じゅっこ／じっこ「十個」- n. (đếm vật nhỏ) 10
+なんこ「何個」- q. (đếm vật nhỏ) bao nhiêu?
+いっそく「一足」- n. (đếm giầy, tất) 1
+にそく「二足」- n. (đếm giầy, tất) 2
+さんぞく「三足」- n. (đếm giầy, tất) 3
+よんそく「四足」- n. (đếm giầy, tất) 4
+ごそく「五足」- n. (đếm giầy, tất) 5
+ろくそく「六足」- n. (đếm giầy, tất) 6
+ななそく「七足」- n. (đếm giầy, tất) 7
+はっそく「八足」- n. (đếm giầy, tất) 8
+きゅうそく「九足」- n. (đếm giầy, tất) 9
+じゅっそく／じっそく「十足」- n. (đếm giầy, tất) 10
+なんぞく「何足」- q. (đếm giầy, tất) bao nhiêu?
+いっけん「一軒」- n. (đếm nhà) 1
+にけん「二軒」- n. (đếm nhà) 2
+さんげん「三軒」- n. (đếm nhà) 3
+よんけん「四軒」- n. (đếm nhà) 4
+ごけん「五軒」- n. (đếm nhà) 5
+ろっけん「六軒」- n. (đếm nhà) 6
+ななけん「七軒」- n. (đếm nhà) 7
+はっけん「八軒」- n. (đếm nhà) 8
+きゅうけん「九軒」- n. (đếm nhà) 9
+じゅっけん／じっけん「十軒」- n. (đếm nhà) 10
+なんげん「何軒」- q. (đếm nhà) bao nhiêu?
+いっかい「一階」- n. (đếm tầng của một căn nhà) 1
+にかい「二階」- n. (đếm tầng của một căn nhà) 2
+さんがい「三階」- n. (đếm tầng của một căn nhà) 3
+よんかい「四階」- n. (đếm tầng của một căn nhà) 4
+ごかい「五階」- n. (đếm tầng của một căn nhà) 5
+ろっかい「六階」- n. (đếm tầng của một căn nhà) 6
+ななかい「七階」- n. (đếm tầng của một căn nhà) 7
+はっかい「八階」- n. (đếm tầng của một căn nhà) 8
+きゅうかい「九階」- n. (đếm tầng của một căn nhà) 9
+じゅっかい／じっかい「十階」- n. (đếm tầng của một căn nhà) 10
+なんがい「何階」- q. (đếm tầng của một căn nhà) tầng thứ mấy?
+いっぽん「一本」- n. (đếm vật thon dài) 1
+にほん「二本」- n. (đếm vật thon dài) 2
+さんぼん「三本」- n. (đếm vật thon dài) 3
+よんほん「四本」- n. (đếm vật thon dài) 4
+ごほん「五本」- n. (đếm vật thon dài) 5
+ろっぽん「六本」- n. (đếm vật thon dài) 6
+ななほん「七本」- n. (đếm vật thon dài) 7
+はっぽん「八本」- n. (đếm vật thon dài) 8
+きゅうほん「九本」- n. (đếm vật thon dài) 9
+じゅっぽん／じっぽん「十本」- n. (đếm vật thon dài) 10
+なんぼん「何本」- q. (đếm vật thon dài) bao nhiêu?
+いっぱい「一杯」- n. (đếm đồ uống) 1
+にはい「二杯」- n. (đếm đồ uống) 2
+さんばい「三杯」- n. (đếm đồ uống) 3
+よんはい「四杯」- n. (đếm đồ uống) 4
+ごはい「五杯」- n. (đếm đồ uống) 5
+ろっぱい「六杯」- n. (đếm đồ uống) 6
+ななはい「七杯」- n. (đếm đồ uống) 7
+はっぱい「八杯」- n. (đếm đồ uống) 8
+きゅうはい「九杯」- n. (đếm đồ uống) 9
+じゅっぱい／じっぱい「十杯」- n. (đếm đồ uống) 10
+なんばい「何杯」- q. (đếm đồ uống) bao nhiêu?
+いっぴき「一匹」- n. (đếm động vật nhỏ, cá, côn trùng) 1
+にひき「二匹」- n. (đếm động vật nhỏ, cá, côn trùng) 2
+さんびき「三匹」- n. (đếm động vật nhỏ, cá, côn trùng) 3
+よんひき「四匹」- n. (đếm động vật nhỏ, cá, côn trùng) 4
+ごひき「五匹」- n. (đếm động vật nhỏ, cá, côn trùng) 5
+ろっぴき「六匹」- n. (đếm động vật nhỏ, cá, côn trùng) 6
+ななひき「七匹」- n. (đếm động vật nhỏ, cá, côn trùng) 7
+はっぴき「八匹」- n. (đếm động vật nhỏ, cá, côn trùng) 8
+きゅうひき「九匹」- n. (đếm động vật nhỏ, cá, côn trùng) 9
+じゅっぴき／じっぴき「十匹」- n. (đếm động vật nhỏ, cá, côn trùng) 10
+なんびき「何匹」- q. (đếm động vật nhỏ, cá, côn trùng) bao nhiêu?
+
+Bài 26
+みます「見ます／診ます」- v. xem, khám bệnh (Động từ loại II)
+さがします「探します／捜します」- v. tìm, tìm kiếm (Động từ loại I)
+じかんに　おくれます「時間に　遅れます」- v. chậm/muộn cuộc hẹn/v.v. (Động từ loại II)
+じかんに　まにあいます「時間に　間に合います」- v. kịp cuộc hẹn/v.v. (Động từ loại I)
+やります - v. làm (Động từ loại I)
+パーティーに　さんかします「パーティーに　参加します」- v. tham gia/dự buổi tiệc (Động từ loại III)
+もうしこみます「申し込みます」- v. đăng ký (Động từ loại I)
+つごうがいい「都合がいい」- adj. có thời gian, thuận tiện
+つごうがわるい「都合が悪い」- adj. không có thời gian, bận, không thuận tiện
+きぶんがいい「気分がいい」- adj. cảm thấy tốt, cảm thấy khoẻ
+きぶんがわるい「気分が悪い」- adj. cảm thấy không tốt, cảm thấy mệt
+しんぶんしゃ「新聞社」- n. công ty phát hành báo, toà soạn báo
+じゅうどう「柔道」- n. judo (nhu đạo)
+うんどうかい「運動会」- n. hội thi thể thao
+ばしょ「場所」- n. địa điểm
+ボランティア - n. tình nguyện viên
+〜べん「〜弁」- n. tiếng ~, giọng ~
+こんど「今度」- . lần tới
+ずいぶん - . khá, tương đối
+ちょくせつ「直接」- . trực tiếp
+いつでも - . lúc nào cũng
+どこでも - . ở đâu cũng
+だれでも - . ai cũng
+なんでも「何でも」- . cái gì cũng/ mọi thứ
+なんでもない「何でもない」- . Không có
+こんな〜 - . ~ như thế này (gần người nói)
+そんな〜 - . ~ như thế đó (gần người nghe)
+あんな〜 - . ~ như thế kia (xa cả người nói và người nghe)
+NHK - . Nippon Hoso Kyokai (Hãng phát thanh truyền hình)
+こどものひ「こどもの日」- n. Ngày trẻ em
+エドヤストア - n. tên một cửa hàng (giả tưởng)
+にもつが　かたづきます「荷物が　片づきます」- v. đồ đạc được dọn dẹp ngăn nắp, gọn gàng (Động từ loại I)
+ごみ - n. rác
+ごみを　だします「ごみを　出しまう」- v. đổ/để rác (Động từ loại I)
+ごみが　もえます「ごみが　燃えます」- v. rác cháy được (Động từ loại II)
+げつ.すい.きん「月.水.金」- n. thứ hai, thứ tư, thứ sáu
+おきば「置き場」- n. nơi để
+よこ「横」- . bên cạnh
+びん「瓶」- n. cái chai
+かん「缶」- n. cái lon, hộp kim loại
+（お）ゆ「（お）湯」- n. nước nóng
+ガス - n. ga
+〜がいしゃ「〜会社」- n. công ty ~
+れんらくします「連絡します」- v. liên lạc (Động từ loại III)
+こまったなあ。「困ったなあ。」- . Làm thế nào đây!/ Căng quá nhỉ!/ Gay quá!
+でんしメール「電子メール」- n. thư điện tử, e-mail
+うちゅう「宇宙」- n. vũ trụ
+こわい「怖い」- . sợ
+うちゅうせん「宇宙船」- n. tàu vũ trụ
+べつの「別の」- . khác
+うちゅうひこうし「宇宙飛行士」- n. nhà du hành vũ trụ
+どいたかお「土井隆雄」- . nhà du hành vũ trụ người Nhật (1954-)
+ごみしゅうしゅうびのおしらせ「ごみ収集日のお知らせ」- n. Thông báo về ngày thu gom rác
+かねんごみ「可燃込み」- n. Rác cháy được
+もえるごみ「燃えるごみ」- n. Rác cháy được
+しゅうしゅうび「収集日」- n. Ngày thu gom
+げつ.すい.きにょうび「月.水.金曜日」- n. Thứ hai, tư, sáu
+かみくず「紙くず」- n. Giấy vụn
+なまごみ「生ごみ」- n. Rác tươi
+ふねんごみ「不燃ごみ」- n. Rác không cháy được
+もえないごみ「燃えないごみ」- n. Rác không cháy được
+もくようび「木曜日」- n. Thứ năm
+ガラスせいひん「ガラス製品」- n. Đồ làm bằng thuỷ tinh
+プラスチックせいひん「プラスチック製品」- n. Đồ làm bằng nhựa
+きんぞくせいだいどころようひん「金属製台所用品」- n. Dụng cụ bếp bằng kim loại
+そだいごみ「粗大ごみ」- n. Rác khổ lớn
+だい３かようび「第３火曜日」- n. Ngày thứ ba thứ 3 của tháng
+かぐ「家具」- n. Đồ dùng nội thất
+かていでんかせいひん「家庭電化製品」- n. Đồ điện gia dụng
+じてんしゃ「自転車」- n. Xe đạp
+しげんごみ「資源ごみ」- n. Rác tái chế
+だい２、だい４かようぶ「第２、第４火曜日」 - n. Ngày thứ ba thứ 2 và 4 của tháng
+あきかん「空き缶」- n. Vỏ đồ hộp, lon kim loại
+あきびん「空きびん」- n. Chai lọ
+ふるしんぶん」「古新聞」- n. Báo cũ
+
+Bài 27
+かいます「飼います」- v. nuôi động vật (Động từ loại I)
+たてます「建てます」- v. xây, xây dựng (Động từ loại II)
+みちを　はしります「道を　走ります」- v. chạy trên đường (Động từ loại I)
+やすみを　とります「休みを　取ります」- v. xin nghỉ (Động từ loại I)
+やまが　みえます「山が　見えます」- v. nhìn thấy, có thể nhìn thấy núi (Động từ loại II)
+おとが　きこえます「音が　聞こえます」- v. nghe thấy, có thể nghe thấy âm thanh (Động từ loại II)
+くうこうが　できます「空港が　できます」- v. sân bay được xây dựng lên, hoàn thành (Động từ loại II)
+きょうしつを　ひらきます「教室を　開きます」- v. mở lớp học (Động từ loại I)
+ペット - n. động vật cảnh (pet)
+とり「鳥」- n. chim
+こえ「声」- n. tiếng nói, giọng nói
+なみ「波」- n. sóng
+はなび「花火」- n. pháo hoa
+けしき「景色」- n. phong cảnh
+ひるま「昼間」- . thời gian ban ngày
+むかし「昔」- . ngày xưa, trước đây
+どうぐ「道具」- n. dụng cụ, công cụ
+じどうはんばいき「自動販売機」- n. máy bán tự động
+つうしんはんばい「通信販売」- n. thương mại viễn thông (mua bán hàng qua các phương tiện truyền thông)
+クリーニング - n. giặt ủi
+マンション - n. nhà chung cư
+だいどころ「台所」- n. bếp
+〜きょうしつ「〜教室」- n. lớp học ~
+パーティールーム - n. phòng tiệc
+〜ご「〜後」- . ~ sau (khoảng thời gian)
+〜しか - . chỉ ~ (dùng với thể phủ định)
+ほかの - . khác
+はっきり - . rõ, rõ ràng
+ほとんど - . hầu hết, hầu như
+かんさいくうこう「関西空港」- . Sân bay (quốc tế) Kansai
+あきはばら「秋葉原」- . tên một khu phố bán đồ điện tử nổi tiếng ở Tokyo
+いず「伊豆」- . một bán đảo thuộc tỉnh Shizuoka
+にちようだいく「日曜大工」- . làm thợ mộc chủ nhật
+ほんだな「本棚」- n. giá sách
+ゆめ「夢」- n. giấc mơ, ước mơ (〜をみます: mơ, mơ ước)
+いつか - . một ngày nào đó, một lúc nào đó
+いえ「家」- n. nhà
+すばらしい - . tuyệt vời
+こどもたち「子どもたち」- n. trẻ em, trẻ con, con cái
+だいすき（な）「大好き（な）」- . rất thích
+まんが「漫画」- n. truyện tranh
+しゅじんこう「主人公」- n. nhân vật chính
+かたち「形」- n. hình, dạng
+ロボット - n. người máy, rô-bốt
+ふしぎ（な）「不思議（な）」- . bí ẩn, kỳ thú
+ポケット - n. túi áo, túi quần (pocket)
+たとえば「例えば」- n. ví dụ (như)
+つけます「付けます」- v. lắp, ghép thêm (Động từ loại II)
+じゆうに「自由に」- . tự do, tuỳ thích
+そら「空」- n. bầu trời
+とびます「飛びます」- v. bay (Động từ loại I)
+じぶん「自分」- . bản thân, mình
+しょうらい「将来」- . tương lai
+ドラえもん - . tên một nhân vật trong phim hoạt hình
+ちかくのみせ「近くの店」- n. cửa hàng ở gần nhà
+しゃしんや「写真屋」- n. cửa hàng ảnh
+げんぞう「現像」- . rửa ảnh
+プリント - . in
+やきまし「焼き増し」- . in thêm
+ひきのばし「引き伸ばし」- . phóng đại
+ネガ - n. phim, âm bản
+スライド - n. phim dương bản
+サービスサイズ - n. kích thước dịch vụ (kích thước thông thường)
+パメラマサイズ - n. kích thước tầm rộng (panorama)
+クリーニングや「クリーニング屋」- n. Hiệu giặt ủi
+ドライクリーニング - . giặt khô
+みずあらい「水洗い」- . giặt nước
+しみぬき「染み抜き」- . tẩy vết bẩn
+ぼうすいかこう「防水加工」- . gia công chống nước
+サイズなおし「サイズ直し」- . sửa cỡ
+ちぢむ「縮む」- . co lại
+のびる「伸びる」- . dãn ra
+コンビニ - n. Cửa hàng tiện lợi
+たくはいびんのうけつけ「宅配便の受付」- . nhận gửi đồ đến nhà
+しゃしんげんぞう「寫眞現像」- . rửa ảnh
+こうきょうりょうきんふりこみ「公共料金振り込み」- . trả tiền dịch vụ công cộng
+コピー、ファクス - . photocopy, fax
+はがき、きってのはんばい「はがき、切手の販売」- . bán bưu thiếp và tem
+コンサートチケットのはんばい「コンサートチケットの販売」- . bán vé hoà nhạc
+
+Bài 28
+パンが　うれます「パンが　売れます」- v. bánh mì bán chạy, được bán (Động từ loại II)
+おどります「踊ります」- v. nhảy, khiêu vũ (Động từ loại I)
+かみます - v. nhai (Động từ loại I)
+えらびます「選びます」- v. chọn (Động từ loại I)
+ちがいます「違います」- v. khác (Động từ loại I)
+だいがくに　かよいます「大学に　通います」- v. đi đi về về trường đại học (Động từ loại I)
+メモします - v. ghi chép (Động từ loại III)
+まじめ（な）- adj. nghiêm túc, nghiêm chỉnh
+ねっしん（な）「熱心（な）」- adj. nhiệt tâm, nhiệt tình, hết lòng
+やさしい「優しい」- adj. tình cảm, hiền lành
+えらい「偉い」- adj. vĩ đại, đáng kính, đáng khâm phục
+ちゅうど　いい - adj. vừa đủ, vừa đúng
+しゅうかん「習慣」- n. tập quán
+けいけん「経験」- n. kinh nghiệm
+ちから「力」- n. sức lực, năng lực
+にんき「人気」- n. sự hâm mô (がくせいに　があります: được sinh viên hâm mộ)
+かたち「形」- n. hình, hình dáng
+いろ「色」- n. màu
+あじ「味」- n. vị
+ガム - n. kẹo cao su
+しなもの「品物」- n. hàng hoá, mặt hàng
+ねだん「値段」- n. giá
+きゅうりょう「給料」- n. lương
+ボーナス - n. thưởng
+ばんぐみ「番組」- n. chương trình (phát thanh, truyền hình)
+ドラマ - n. kịch, phim truyền hình
+しょうせつ「小説」- n. tiểu thuyết
+しょうせつか「小説家」- n. tiểu thuyết gia, nhà văn
+かしゅ「歌手」- n. ca sĩ
+かんりにん「管理人」- n. người quản lý
+むすこ「息子」- . con trai (dùng cho mình)
+むすこさん「息子さん」- . con trai (dùng cho người khác)
+むすめ「娘」- . con cái (dùng cho mình)
+むすめさん「娘さん」- . con cái (dùng cho người khác)
+じぶん「自分」- . bản thân, mình
+しょうらい「将来」- . tương lai
+しばらく - . một khoảng thời gian ngắn, một lúc, một lát
+たいてい - . thường, thông thường
+それに - . thêm nữa là, thêm vào đó là
+それで - . thế thì, thế nên
+（ちょっと）おねがいが　あるんですが。「（ちょっと）お願いが　あるんですが。」- . Tôi có (chút) việc muốn nhờ anh/chị.
+ホームステイ - . homestay
+かいわ「会話」- n. hội thoại
+おしゃべりします - . nói chuyện, tán chuyện (Động từ loại III)
+おしらせ「お知らせ」- . thông báo
+ひにち「日にち」- . ngày
+ど「土」- . thứ bảy
+たいいくかん「体育館」- n. nhà tập, nhà thi đấu thể thao
+むりょう「無料」- . miễn phí
+うちをかりる「うちを借りる」- . thuê nhà
+ちゅうおうせん「中央線」- n. tuyến tàu
+にしおぎくぼえき「西荻窪駅」- n. ga gần nhất
+ほ５分「歩５分」- . đi bộ mất 5 phút
+アパート - n. nhà 1 hoặc 2 tầng, khung gỗ
+いっこだて「一戸建て」- n. nhà riêng
+マンション - n. nhà chung cư khung bê tông
+ちく3ねん「築3年」- . 3 năm tuổi (số năm từ khi khánh thành)
+やちん「家賃」- n. tiền thuê nhà
+しききん「敷金」- n. tiền đặt cọc (Tiền giao cho chủ nhà dưới hình thức đặt cọc. Khi chuyển nhà thì sẽ được trả lại một phần)
+れいきん「礼金」- n. tiền lễ (Khoản tiền biếu chủ nhà để đáp lại việc người đó cho thuê nhà)
+かんりひ「管理費」- n. phí quản lý
+みなみむき「南向き」- n. hướng nam
+10かいだての8かい「10階建ての8階」- . tầng thứ tám của toà nhà 10 tầng
+２LDK - n. căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng
+6じょう「6畳」 - . 6 chiếu (chiếu là đơn vị đo diện tích phòng ở của Nhật; 1 chiếu tương đương với diện tích của một mảnh chiếu có kích thước khoảng 180x90cm)
+やすいふどうさん「やすい不動産」- n. đại lý bất động sản (03-1234-5678)
+ドアが　あきます「ドアが　開きます」- v. cửa mở (Động từ loại I)
+ドアが　しまります「ドアが　閉まります」- v. cửa đóng (Động từ loại I)
+でんきが　つきます「電気が　つきます」- v. điện sáng (Động từ loại I)
+でんきが　きえます「電気が　消えます」- v. điện tắt (Động từ loại II)
+みちが　こみます「道が　込みます」- v. đường đông/tắc (Động từ loại I)
+みちが　すきます「道が　すきます」- v. đường vắng/thoáng (Động từ loại I)
+いすが　こわれます「いすが　壊れます」- v. cái ghế bị hỏng (Động từ loại II)
+コップが　われます「コップが　割れます」- v. cái cốc bị vỡ (Động từ loại II)
+きが　おれます「木が　折れます」- v. cái cây bị gãy (Động từ loại II)
+かみが　やぶれます「紙が　破れます」- v. tờ giấy bị rách (Động từ loại II)
+ふくが　よごれます「服が　汚れます」- v. quần ảo bị bẩn (Động từ loại II)
+ポケットが　つきます「ポケットが　付きます」- v. có/có gắn/có kèm theo túi (Động từ loại I)
+ボタンが　はずれます「ボタンが　外れます」- v. cái cúc bị tuột/bung (Động từ loại II)
+エレベーターが　とまります「エレベーターが　止まります」- v. thang máy dừng (Động từ loại I)
+まちがえます - v. nhầm, sai (Động từ loại II)
+おとします「落とします」- v. đánh rơi (Động từ loại I)
+かぎが　かかります「かぎが　掛かります」- v. chìa khoá khoá (Động từ loại I)
+（お）さら「（お）皿」- n. cái đĩa
+（お）ちゃわん - n. cái bát
+コップ - n. cái cốc
+ガラス - n. thuỷ tinh (glass)
+ふくろ「袋」- n. cái túi
+さいふ「財布」- n. cái ví
+えだ「枝」- n. cành cây
+えきいん「駅員」- n. nhân viên nhà ga
+このへん「この辺」- . xung quanh đây, gần đây
+〜へん「〜辺」- . xung quanh ~, chỗ ~
+このくらい - . khoảng ngần này, cỡ khoảng như thế này
+おさきに　どうぞ。「お先に　どうぞ。」- . Xin mời anh/chị đi trước
+（ああ、）よかった。- . Ồ, may quá
+いまのでんしゃ「今の電車」- . đoàn tàu vừa rồi
+わすれもの「忘れ物」- n. vật để quên
+〜がわ「〜側」- . phía ~, bên ~
+ポケット - n. túi áo, túi quần (pocket)
+おぼえていません。「覚えていません。」- . Tôi không nhớ.
+あみだな「網棚」- n. giá lưới, giá hành lý (trên tàu)
+たしか「確か」- . nếu không nhầm thì
+よつや「四ツ谷」- . tên một ga ở Tokyo
+じしん「地震」- n. động đất
+かべ「壁」- n. bức tường
+はり「針」- n. kim đồng hồ
+さします「指します」- v. chỉ (Động từ loại I)
+えきまえ「駅前」- n. khu vực trước ga
+たおれます「倒れます」- v. đổ (Động từ loại II)
+にし「西」- n. tây, phía tây
+ほう「方」- n. hướng, phương hướng
+さんのみや「三宮」- . tên một địa điểm ở Kobe
+じょうたい「状態」- n. trạng thái
+ようす「様子」- n. vẻ ngoài
+ふとっている「太っている」- adj. béo
+やせている - adj. gầy
+ふくらんでいる「膨らんでいる」- adj. phồng
+あながあいている「穴が開いている」- adj. thủng lỗ
+まがっている「曲がっている」- adj. cong
+ゆがんでいる - adj. méo
+へこんでいる - adj. lõm
+ねじれている - adj. xoắn
+かけている「欠けている」- adj. sứt
+ひびがはいっている「ひびが入っている」- adj. nứt
+くさっている「腐っている」- adj. thiu
+かわいている「乾いている」- adj. khô
+ぬれている - adj. ướt
+こおっている「凍っている」- adj. đóng băng
+
+Bài 30
+はります - v. dán, dán lên (Động từ loại I)
+かけます「掛けます」- v. treo (Động từ loại II)
+かざります「飾ります」- v. trang trí (Động từ loại I)
+ならべます「並べます」- v. xếp thành hàng (Động từ loại II)
+うえます「植えます」- v. trồng cây (Động từ loại II)
+もどします「戻します」- v. đưa về, trả về, để lại vị trí ban đầu (Động từ loại I)
+まとめます - v. nhóm lại, tóm tắt (Động từ loại II)
+かたづけます「片づけます」- v. dọn dẹp, sắp xếp (Động từ loại II)
+しまいます - v. cất vào, để vào (Động từ loại I)
+きめます「決めます」- v. quyết định (Động từ loại II)
+しらせます「知らせます」- v. thông báo, báo (Động từ loại II)
+そうだんします「相談します」- v. trao đổi, bàn bạc, tư vấn (Động từ loại III)
+そうだん「相談」- n. sự tư vấn
+よしゅうします「予習します」- v. chuẩn bị bài mới (Động từ loại III)
+ふくしゅうします「復習します」- v. ôn bài cũ (Động từ loại III)
+そのままにします - v. để nguyên như thế (Động từ loại III)
+おこさん「お子さん」- . con (dùng đối với người khác)
+じゅぎょう「授業」- n. giờ học
+こうぎ「講義」- n. bài giảng
+ミーティング - n. cuộc họp
+よてい「予定」- n. kế hoạch, dự định
+おしらせ「お知らせ」- n. bản thông báo
+あんないしょ「案内書」- n. sách/tài liệu hướng dẫn
+カレンダー - n. lịch, tờ lịch
+ポスター - n. tờ pa-nô, áp-phích, tờ quảng cáo
+ごみばこ「ごみ箱」- n. thùng rác
+にんぎょう「人形」- n. con búp-bê, con rối
+かびん「花瓶」- n. lọ hoa
+かがみ「鏡」- n. cái gương
+ひきだし「引き出し」- n. ngăn kéo
+げんかん「玄関」- n. cửa vào
+ろうか「廊下」- n. hành lang
+かべ「壁」- n. bức tường
+いけ「池」- n. cái ao
+こうばん「交番」- n. trạm/bốt cảnh sát
+もとのところ「元の所」- n. địa điểm ban đầu, địa điểm gốc
+まわり「周り」- . xung quanh
+まんなか「真ん中」- . giữa, trung tâm
+すみ「隅」- . góc
+まだ - . chưa
+〜ほど - . khoảng ~, chừng ~
+よていひょう「予定表」- n. lịch. thời khoá biểu
+ごくろうさま。「ご苦労さま。」- . Anh/Chị đã làm việc vất vả./ Cám ơn anh/chị. (Câu nói dùng để bày tỏ sự cảm ơn hoặc thông cảm với sự vất vả và khi ai đó đã làm xong một việc gì)
+きぼう「希望」- n. hi vọng, nguyện vọng
+なにか　ごきぼうが　ありますか。「何か　ご希望が　ありますか。」- . Anh/Chị có nguyện vọng gì không?/ Anh/Chị có yêu cầu gì không?
+ミュージカル - n. ca kịch
+それは　いいですね。- . Điều đó được đấy nhỉ./ Hay quá nhỉ.
+ブロードウェイ - . Broadway
+まるい「丸い」- adj. tròn
+つき「月」- n. mặt trăng, trăng
+ある〜 - . có ~, một ~
+ちきゅう「地球」- n. trái đất
+うれしい - adj. vui
+いや（な）「嫌（な）」- . chán, ghét, không chấp nhận được
+すると - . sau đó, tiếp đó, rồi, khi ~ như vậy thì
+めが　さめます「目が　覚めます」- v. tỉnh giấc, mở mắt (Động từ loại II)
+いち「位置」- n. vị trí
+うえから２だんめ「上から２段目」- . ngăn thứ 2 từ trên xuống
+おく「奥」- . phía trong, trong cùng
+てまえ「手前」- . phía trước
+まえから２れつめ「前から２列目」- . dãy thứ 2 từ trên xuống
+つくえのまわ「机の周り」- . xung quanh cái bàn
+テレビのよこ「テレビの横」- . bên cạnh cái ti-vi
+ななめまえ「斜め前」- . vị trí chếch trước mặt
+きょうしつの まんなか「教室の 真ん中」- . giữa lớp học
+ななめうしろ「斜め後ろ」- . vị trí chếch sau lưng
+ほんのそば「本のそば」- . bên cạnh quyển sách
+2ぎょうめ「2行目」- . dòng thứ 2
+
+Bài 31
+しきが　はじまります「式が　始まります」- v. buổi lễ bắt đầu (Động từ loại I)
+つづけます「続けます」- v. tiếp tục (Động từ loại II)
+みつけます「見つけます」- v. tìm, tìm thấy (Động từ loại II)
+しけんを　うけます「試験を　受けます」- v. thi kỳ thi (Động từ loại II)
+だいがくに　にゅうがくします「大学に　入学します」- v. nhập học, vào trường đại học (Động từ loại III)
+だいがくを　そつぎょうします「大学を　卒業します」- v. tốt nghiệp trường đại học (Động từ loại III)
+かいぎに　しゅっせきします「会議に　出席します」- v. tham dự, tham gia cuộc họp (Động từ loại III)
+きゅうけいします「休憩します」- v. nghỉ, giải lao (Động từ loại III)
+れんきゅう「連休」- n. ngày nghỉ liền nhau
+さくぶん「作文」- n. bài văn
+てんらんかい「展覧会」- n. triển lãm
+けっこんしき「結婚式」- n. lễ cưới, đám cưới
+（お）そうしき「（お）葬式」- n. lễ tang, đám tang
+しき「式」- n. lễ, đám
+ほんしゃ「本社」- n. trụ sở chính
+してん「支店」- n. chi nhánh
+きょうかい「教会」- n. nhà thờ
+だいがくいん「大学院」- n. cao học, cơ sở giáo dục trên đại học
+どうぶつえん「動物園」- n. vườn thú, vườn bách thú
+おんせん「温泉」- n. suối nước nóng
+おきゃく（さん）「お客（さん）」- n. khách hàng
+だれか - . ai đó
+〜の　ほう「〜の　方」- . phía ~, hướng ~
+ずっと - . suốt, liền
+ピカソ - . Pablo Picasso, danh hoạ người Tây Ban Nha (1881-1973)
+うえのこうえん「上野公園」- . Công viên Ueno (ở Tokyo)
+のこります「残ります」- v. ở lại (Động từ loại I)
+つきに「月に」- . một tháng
+ふつうの「普通の」- . thường, thông thường
+インターネット - n. Internet
+むら「村」- n. làng
+えいがかん「映画館」- n. rạp chiếu phim
+いや（な）「嫌（な）」- adj. chán, ghét, không chấp nhận được
+そら「空」- n. bầu trời
+とじます「閉じます」- v. đóng, nhắm (Động từ loại II)
+とかい「都会」- n. thành phố, nơi đô hội
+こどもたち「子どもたち」- n. trẻ em, trẻ con
+じゆうに「自由に」- . tự do
+せかいじゅう「世界中」- . khắp thế giới
+あつまります「集まります」- v. tập trung (Động từ loại I)
+うつくしい「美しい」- adj. đẹp
+しぜん「自然」- . tự nhiên, thiên nhiên
+すばらしさ - . tuyệt vời
+きが　つきます「気が　つきます」- v. để ý, nhận ra (Động từ loại I)
+せんもん「専門」- n. chuyên ngành học
+いがく「医学」- n. y học
+やくがく「薬学」- n. dược học
+かがく「化学」- n. hoá học
+せいかがく「生化学」- n. sinh hoá học
+せいぶつがく「生物学」- n. sinh vật học
+のうがく「農学」- n. nông học
+ちがく「地学」- n. địa chất học
+ちりがく「地理学」- n. địa lý học
+すうがく「数学」- n. toán học
+ぶつりがく「物理学」- n. vật lý học
+こうがく「工学」- n. kỹ thuật
+どぼくこうがく「土木工学」- n. kỹ thuật xây dựng
+でんしこうがく「電子工学」- n. kỹ thuật điện tử
+でんきこうがく「電気工学」- n. kỹ thuật điện
+きかいこうがく「機械工学」- n. kỹ thuật cơ khí
+コンビューターこうがく「コンビューター工学」- n. khoa học máy tính
+いでんしこうがく「遺伝子工学」- n. di truyền học
+けんちくがく「建築学」- n. kiến trúc học
+てんもんがく「天文学」- n. thiên văn học
+かんきょうかがく「環境科学」- n. khoa học môi trường
+せいじがく「政治学」- n. chính trị học
+こくさいかんけいがく「国際関係学」- n. quan hệ quốc tế
+ほうりつがく「法律学」- n. luật học
+けいざいがく「経済学」- n. kinh tế học
+けいえいがく「経営学」- n. kinh doanh
+しゃかいがく「社会学」- n. xã hội học
+きょういくがく「教育学」- n. giáo dục học
+ぶんがく「文学」- n. văn học
+げんごがく「言語学」- n. ngôn ngữ học
+しんりがく「心理学」- n. tâm lý học
+てつがく「哲学」- n. triết học
+しゅうきょうがく「宗教学」- n. tôn giáo học
+げいじゅつ「芸術」- n. nghệ thuật
+びじゅつ「美術」- n. mỹ thuật
+おんがく「音楽」- n. âm nhạc
+たいいくがく「体育学」- n. thể dục học
+
+Bài 32
+うんどうします「運動します」- v. vận động, tập thể thao (Động từ loại III)
+せいこうします「成功します」- v. thành công (Động từ loại III)
+しけんに　しっぱいします「試験に　失敗します」- v. thi thất bại/trượt (Động từ loại III)
+しけんに　ごうかくします「試験に　合格します」- v. thi đỗ (Động từ loại III)
+もどります「戻ります」- v. quay lại, trở lại (Động từ loại I)
+あめが　やみます「雨が　やみます」- v. mưa tạnh/ngừng (Động từ loại I)
+はれます「晴れます」- v. nắng, quang đãng (Động từ loại II)
+くもります「曇ります」- v. có mây, mây mù (Động từ loại I)
+かぜが　ふきます「風が　吹きます」- v. gió thổi (Động từ loại I)
+びょうきが　なおります「病気が　治ります／直ります」- v. khỏi cúm (Động từ loại I)
+こしょうが　なおります「故障が　治ります／直ります」- v. chỗ hỏng đã được sửa (Động từ loại I)
+ねつが　つづきます「熱が　続きます」- v. tiêp tục, tiếp diễn sốt (Động từ loại I)
+かぜを　ひきます - v. bị cảm (Động từ loại I)
+ひやします「冷やします」- v. làm lạnh (Động từ loại I)
+しんぱい（な）「心配（な）」- adj. lo lắng
+じゅうぶん（な）「十分（な）」- adj. đủ
+おかしい - . có vấn đề, không bình thường, buồn cười
+うるさい - . ồn ào, (âm thanh) to
+やけど - . bỏng (〜を　します: bị bỏng)
+けが - . thương (〜を　します: bị thương)
+せき - . ho (〜が　でます: bị ho)
+インフルエンザ - n. cúm dịch
+そら「空」- n. bầu trời
+たいよう「太陽」- n. mặt trời
+ほし「星」- n. sao, ngôi sao
+つき「月」- n. trăng, mặt trăng
+かぜ「風」- n. gió
+きた「北」- . bắc
+みなみ「南」- . nam
+にし「西」- . tây
+ひがし「東」- . đông
+すいどう「水道」- n. nước máy
+エンジン - n. động cơ
+チーム - n. đội
+こんや「今夜」- . tối nay, đêm nay
+ゆうがた「夕方」- . chiều tối
+まえ - . trước
+おそく「遅く」- . muộn, khuya
+こんなに - . như thế này (về vấn đề có quan hệ với người nói)
+そんなに - . như thế (về vấn đề có quan hệ với người nghe)
+あんなに - . như thế kia (về vấn đề không có quan hệ với người nói và người kia)
+もしかしたら - . có thể, biết đâu là, có khả năng
+それは　いけませんね。- . Thế thì thật không tốt
+オリンピック - . Olympic
+げんき「元気」- . khoẻ, khoẻ mạnh
+い「胃」- n. dạ dày
+はたらきすぎ「働きすぎ」- n. làm việc quá sức, làm việc nhiều quá
+ストレス - n. stress, căng thẳng tâm lý
+むりを　します「無理を　します」- v. làm quá sức, thị thường (Động từ loại III)
+ゆっくり　します - v. nghỉ ngơi, thư thái, dưỡng sức (Động từ loại III)
+ほしうらない「星占い」- n. bói sao
+おうしざ「牡牛座」- n. chòm sao Kim Ngưu
+こまります「困ります」- v. rắc rối, khó xử, có vấn đề (Động từ loại I)
+たからくじ「宝くじ」- n. xổ số
+たからくじが　あたります「宝くじが　当たります」- v. trúng xổ số (Động từ loại I)
+けんこう「健康」- n. sức khoẻ, khoẻ mạnh, an khang
+れんあい「恋愛」- n. tình yêu
+こいびと「恋人」- n. người yêu
+（お）かねもち「（お）金持ち」- n. người giàu có, người có nhiều tiền
+てんきよほう「天気予報」- n. dự báo thời tiết
+はれ「晴れ」- . nắng, quang đãng
+こうすいかくりつ「降水確率」- . xác suất mưa
+くもり「曇り」- . có mây
+さいこうきおん「最高気温」- n. nhiệt độ cao nhất
+あめ「雨」- . mưa
+さいていきおん「最低気温」- n. nhiệt độ thấp nhất
+ゆき「雪」- . tuyết
+はれのちくもり「晴れのち曇り」- . nắng sau đó chuyển mây
+くもりときどきいちじあめ「曇り時々一時雨」- . có mây, thỉnh thoảng có mưa
+くもりところによってあめ「曇り所によって雨」- . có mây, một vài nơi có mưa
+にわかあめ／ゆうだち「にわか雨／夕立」- n. mưa bất chợt, mưa rào
+かみなり「雷」- n. sấm
+たいふう「台風」- n. bão
+にじ「虹」- n. cầu vồng
+くも「雲」- n. mây
+しつど「湿度」- n. độ ẩm
+むしあつい「蒸し暑い」- adj. nóng ẩm, oi
+さわやか（な）- adj. thoáng, ráo
+ほっかいどうちほう「北海道池方」- . khu vực Hokkaido
+とうほくちほう「東北地方」- . khu vực Tohoku
+ちゅうぶちほう「中部地方」- . khu vực Chubu
+かんとうちほう「関東地方」- . khu vực Kanto
+きんきちほう「近畿地方」- . khu vực Kinki
+ちゅうごくちほう「中国地方」- . khu vực Chugoku
+きゅうしゅうちほう「九州池方」- . khu vực Kyushu
+しこくちほう「四国地方」- . khu vực Shikoku
+
+
+
+Bài 37
+ほめます「褒めます」- v. khen (Động từ loại I)
+しかります - v. mắng (Động từ loại I)
+さそいます「誘います」- v. mời, rủ (Động từ loại I)
+おこします「起こします」- v. đánh thức (Động từ loại I)
+しょうたいします「招待します」- v. mời (Động từ loại III)
+たのみます「頼みます」- v. nhờ (Động từ loại I)
+ちゅういします「注意します」- v. chú ý, nhắc nhở (Động từ loại III)
+とります - v. ăn trộm, lấy cắp (Động từ loại I)
+ふみます「踏みます」- v. giẫm, giẫm lên, giẫm vào (Động từ loại I)
+こわします「壊します」- v. phá, làm hỏng (Động từ loại I)
+よごします「汚します」- v. làm bẩn (Động từ loại I)
+おこないます「行います」- v. thực hiện, tiến hành (Động từ loại I)
+ゆしゅつします「輸出します」- v. xuất khẩu (Động từ loại III)
+ゆにゅうします「輸入します」- v. nhập khẩu (Động từ loại III)
+ほんやくします「翻訳します」- v. dịch sách/tài liệu (Động từ loại III)
+はつめいします「発明します」- v. phát minh (Động từ loại III)
+はっけんします「発見します」- v. phát kiến, tìm ra, tìm thấy (Động từ loại III)
+せっけいします「設計します」- v. thiết kế (Động từ loại III)
+こめ「米」- n. gạo
+むぎ「麦」- n. lúa mạch
+せきゆ「石油」- n. dầu mỏ
+げんりょう「原料」- n. nguyên liệu
+デート - n. cuộc hẹn hò (của nam nữ)
+どろぼう「泥棒」- n. kẻ trộm
+けいかん「警官」- n. cảnh sát
+けんちくか「建築家」- n. kiến trúc sư
+かがくしゃ「科学者」- n. nhà khoa học
+まんが「漫画」- n. truyện tranh
+せかいじゅう「世界中」- . khắp thế giới, toàn thế giới
+〜じゅう「〜中」- . khắp ~, toàn ~
+〜に　よって - . do ~
+よかったですね。- . May nhỉ./ May cho anh/chị nhỉ.
+ドミニカ - . Dominica, tên một quốc gia ở Trung Mỹ
+ライトきょうだい「ライト兄弟」- . anh em nhà Wright, hai anh em người Mỹ đi tiên phong trong ngành hàng không Wilbur Wright (1867-1912) và Orville Wright (1871-1948)
+げんじものがたり「源氏物語」- . "Chuyện Genji"
+むらさきしきぶ「紫式部」- . (973?-1014?) nữ tác giả viết "Chuyện Genji" sống trong thời Heian
+グラハム.ベル - . Alexander Graham Bell (1847-1922), nhà phát minh người Mỹ
+とうしょうぐう「東照宮」- . tên đền thờ Tokugawa leyasu ở Nikko, tỉnh Tochigi
+えどじだい「江戸時代」- . thời Edo (1603-1868)
+サウジアラビア - . Ả-rập Xê-út (Saudi Arabia)
+うめたてます「埋め立てます」- v. lấp biển (Động từ loại II)
+ぎじゅつ「技術」- n. kỹ thuật
+とち「土地」- n. đất, diện tích đất
+そうおん「騒音」- n. tiếng ồn
+りようします「利用します」- v. lợi dụng, sử dụng (Động từ loại III)
+アクセス - . nối, giao thông đi đến
+ーせいき「ー世紀」- . thế kỷ -
+ごうか（な）「豪華（な）」- adj. hào hoa, sang trọng
+ちょうこく「彫刻」- n. điêu khắc
+ねむります「眠ります」- v. ngủ (Động từ loại I)
+ほります「彫ります」- v. khắc (Động từ loại I)
+なかま「仲間」- n. bạn bè, đồng nghiệp
+そのあと - . sau đó
+いっしょうけんめい「一生懸命」- . (cố gắng) hết sức, chăm chỉ, miệt mài
+ねずみ - n. con chuột
+いっびきも　いません。「一匹も　いません。」- . Không có con nào cả.
+ねむりねこ「眠り猫」- . "Con mèo ngủ", tác phẩm điêu khắc của Jingoro ở Tosho-gu
+ひだりじんごろう「左甚五郎」- . tên một nhà điêu khắc nổi tiếng thời Edo (1594-1651)
+じこ「事故」- n. tai nạn
+じけん「事件」- n. vụ án
+ころす「殺す」- . giết
+うつ「撃つ」- . bắn
+さす「刺す」- . đâm
+かむ - . cắn
+ひく - . đè, nghiến
+はねる - . đâm phải, va chạm
+しょうとつする「衝突する」- . đâm nhau
+ついとつする「追突する」- . đâm phải đuôi, đâm từ phía sau
+ぬすむ「盗む」- . ăn trộm
+ゆうかいする「誘拐する」- . bắt cóc, tống tiền
+ハイジャックする - . không tặc, cướp máy bay
+ついらくする「墜落する」- . (máy bay) rơi
+はこぶ「運ぶ」- . chở, vận chuyển
+たすける「助ける」- . cứu, cứu giúp, cứu trợ
+ばくはつする「爆発する」- . nổ
+ちんぼつする「沈没する」- . chìm, đắm
+
+Bài 38
+そだてます「育てます」- v. nuôi, trồng (Động từ loại II)
+はこびます「運びます」- v. chở, vận chuyển (Động từ loại I)
+なくなります「亡くなります」- v. mất, qua đời [cách nói gián tiếp của しにます] (Động từ loại I)
+にゅういんします「入院します」- v. nhập viện (Động từ loại III)
+たいいんします「退院します」- v. xuất viện (Động từ loại III)
+でんげんを　いれます「電源を　入れます」- v. bật công tắc điện/nguồn điện (Động từ loại II)
+でんげんを　きります「電源を　切ります」- v. tắt công tắc điện/nguồn điện (Động từ loại I)
+かぎを　かけます「かぎを　掛けます」- v. khoá chìa khoá (Động từ loại II)
+きもちが　いい「気持ちが　いい」- adj. dễ chịu, thư giãn
+きもちが　わるい「気持ちが　悪い」- adj. khó chịu
+おおきな〜「大きな〜」- . ~ to, ~ lớn
+ちいさな〜「小さな〜」- . ~ nhỏ, ~ bé
+あかちゃん「赤ちゃん」- n. em bé
+ちょうがっこう「小学校」- n. trường tiểu học
+ちゅうがっこう「中学校」- n. trường trung học cơ sở
+えきまえ「駅前」- n. khu vực trước nhà ga
+かいがん「海岸」- n. bờ biển
+えそ - n. nói dối, lời nói dối
+しょるい「書類」- n. giấy tờ, tài liệu
+でんげん「電源」- n. nguồn điện, công tắc điện
+〜せい「〜製」- . sản xuất tại ~
+（お、）いけない。- . Ôi, hỏng mất rồi./ Ôi, trời ơi.
+おさきに　しつれいします。「お先に　失礼します。」- . Tôi xin phép về trước
+げんばくドーム「原爆ドーム」- . Nhà Vòm Bom nguyên tử, một di tích ở Hiroshima tưởng niệm nạn nhân bom nguyên tử
+かいらん「回覧」- . tập thông báo
+けんきゅうしつ「研究室」- n. phòng nghiên cứu
+きちんと- . nghiêm chỉnh, hẳn hoi, đứng đắn
+せいりします「整理します」- v. sắp xếp (Động từ loại III)
+〜と　いうほん「〜と　いう本」- . quyển sách có tên là ~
+ーさつ「ー冊」- . đơn vị đếm sách, v.v.
+はんこ - n. con dấu, dấu
+はんこを　おします「はんこを　押します」- v. đóng dấu (Động từ loại I)
+ふたご「双子」- n. cặp sinh đôi
+しまい「姉妹」- n. chị em
+5ねんせい「5年生」- n. học sinh năm thứ 5
+にて　います「似て　います」- v. giống về người (Động từ loại II)
+せいかく「性格」n. tính cách, tính tình
+おとなしい - adj. hiền lành, trầm
+せわを　します「世話を　します」- v. chăm sóc, giúp đỡ (Động từ loại III)
+じかんが　たちます「時間が　たちます」- v. thời gian trôi đi (Động từ loại I)
+だいすき（な）「大好き（な）」- adj. rất thích
+ーてん「ー点」- . - điểm
+クラス - n. lớp học, lớp
+けんかします - v. cãi nhau (Động từ loại III)
+ふしぎ（な）「不思議（な）」- adj. bí ẩn, kỳ thú, khó hiểu
+ねんちゅうぎょうじ「年中行事」- n. các sự kiện của năm
+おしょうがつ「お正月」- . Tết (1月1日〜3日): Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khoẻ và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết.
+ひなまつり「ひな祭り」- . Lễ hội búp-bê (３月3日): Những gia đình có con gái thì trang trí búp-bê (hina-ningyo)
+こどものひ「こどもの日」- . Ngày trẻ em (５月5日): Ngày mừng cho sự trưởng thành và sức khoẻ của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.
+たなばた「七夕」- . Ngày hội Ngưu Lang-Chức Nữ (7月7日): Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của sông Ngân hà, và một năm chỉ gặp nhau một lần vào ngày này.
+おぼん「お盆」- . Lễ hội Bon/ Lễ Vu lan (8月13日〜15日): Phong tục của đạo Phật, vào ngày này mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ.
+おつきみ「お月見」- . Hội ngắm trăng (9月15日ごろ): Mọi người vui ngắm trăng tròn và đẹp.
+おおみそか「大みそか」- . Đêm giao thừa（12月31日）: Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (món ăn ngày Tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 đêm thì chuông chùa sẽ nổi lên.
+
+Bài 39
+しつもんに　こたえます「質問に　答えます」- v. trả lời câu hỏi (Động từ loại II)
+ビルが　たおれます「ビルが　倒れます」- v. nhà cao tầng đổ (Động từ loại II)
+うちが　やけます「うちが　焼けます」- v. nhà cháy (Động từ loại II)
+パンが　やけます「パンが　焼けます」- v. bánh mì được nướng (Động từ loại II)
+にくが　やけます「肉が　焼けます」- v. thịt được nướng (Động từ loại II)
+みちを　とおります「道を　通ります」- v. đi qua đường (Động từ loại I)
+しにます「死にます」- v. chết (Động từ loại I)
+びっくりします - v. ngạc nhiên, giật mình (Động từ loại III)
+がっかりします - v. thất vọng (Động từ loại III)
+あんしんします「安心します」- v. yên tâm (Động từ loại III)
+ちこくします「遅刻します」- v. đến chậm, đến muộn (Động từ loại III)
+そうたいします「早退します」- v. về sớm, ra sớm việc làm hay trường học (Động từ loại III)
+けんかします - v. cãi nhau (Động từ loại III)
+りこんします「離婚します」- v. ly dị, ly hôn (Động từ loại III)
+ふくざつ（な）「複雑（な）」- adj. phức tạp
+じゃま（な）「邪魔（な）」- adj. cản trở, chiếm diện tích
+きたない「汚い」- adj. bẩn
+うれしい - adj. vui, mừng
+かなしい「悲しい」- adj. buồn, đau thương
+はずかしい「恥ずかしい」- adj. xấu hổ, thẹn, hổ thẹn
+じしん「地震」- n. động đất
+たいふう「台風」- n. bão
+かじ「火事」- n. hoả hoạn
+じこ「事故」- n. tai nạn, sự cố
+（お）みあい「（お）見合い」- n. nam nữ làm quen qua giới thiệu, làm mối
+でんわだい「電話代」- n. tiền điện thoại, phí điện thoại
+〜だい「〜代」- . tiền ~, phí ~
+フロント - n. bộ phận tiếp tân, bộ phận thường trực
+ーごうしつ「ー号室」- . phòng số -
+あせ「汗」- n. mồ hôi (〜を　かきます: ra mồ hôi)
+タオル - n. khăn lau, khăn tắm
+せっけん - n. xà phòng
+おおぜい「大勢」- . nhiểu người
+おつかれさまでした。「お疲れさまでした。」- . Chắc anh chị đã mệt vì làm việc. (câu chào dùng để nói với người đã làm xong một việc gì đó)
+うかがいます。「伺います。」- . Tôi đến thăm. (cách nói khiêm nhường của いきます)
+とちゅうで「途中で」- . giữa đường, dọc đường, giữa chừng
+トラック - n. xe tải
+ぶつかります - v. đâm, va chạm (Động từ loại I)
+ならびます「並びます」- v. xếp hàng (Động từ loại I)
+おとな「大人」- . người lớn
+ようふく「洋服」- n. quần áo kiểu Tây Âu
+せいようかします「西洋化します」- v. Tây Âu hoá (Động từ loại III)
+あいます「合います」- v. vừa, hợp (Động từ loại I)
+いまでは「今では」- . bây giờ thì
+せいじんしき「成人式」- n. Lễ trưởng thành, Lễ thành nhân
+うれしい - . vui, mừng
+たのしい「楽しい」- . vui vẻ
+さびしい「寂しい」- . buồn, cô đơn
+かなしい「悲しい」- . buồn, đau thương
+おもしろい - . thú vị
+うちやましい - . đáng ghen tị
+はずかしい「恥ずかしい」- . xấu hổ
+なつかしい「懐かしい」- . nhớ nhung, thương nhớ
+びっくりする - . ngạc nhiên, giật mình
+がっかりする - . thất vọng
+うっとりする - . mải mê, bị hút vào
+いらいらする - . nóng ruột, thiếu kiên nhẫn
+どきどきする - . hồi hộp, run
+はらはらする - . sợ, run
+わくわくする - . ngóng đợi, nóng lòng
+
+Bài 40
+かぞえます「数えます」- v. đếm (Động từ loại II)
+はかります「測ります/量ります」- v. đo, cân (Động từ loại I)
+たしかめます「確かめます」- v. xác nhận (Động từ loại II)
+サイズが　あいます「サイズが　合います」- v. khích thước vừa/hợp (Động từ loại I)
+しゅっぱつします「出発します」- v. xuất phát, khởi hành, đi (Động từ loại III)
+とうちゃくします「到著します」- v. đến, đến nơi (Động từ loại III)
+よいます「酔います」- v. say (Động từ loại I)
+きけん（な）「危険（な）」- adj. nguy hiểm
+ひつよう（な）「必要（な）」- adj. cần thiết
+うちゅう「宇宙」- n. vũ trụ
+ちきゅう「地球」- n. trái đất
+ぼうねんかい「忘年会」- n. tiệc tất niên
+しんねんかい「新年会」- n. tiệc tân niên
+にじかい「二次会」- n. bữa tiệc thứ hai, "tăng hai"
+たいかい「大会」- n. đại hội, cuộc thi
+マラソン - n. ma-ra-tông
+コンテスト - n. cuộc thi
+おもて「表」- . phía trước, mặt trước
+うら「裏」- . phía sau, mặt sau
+へんじ「返事」- . hồi âm, trả lời
+もうしこみ「申し込み」- . đăng ký
+ほんとう - . thật
+まちがい - . sai, lỗi
+きず「傷」- n. vết thương
+ズボン - n. cái quần
+ながさ「長さ」- n. chiều dài
+おもさ「重さ」- n. cân nặng, trọng lượng
+たかさ「高さ」- n. chiều cao
+おおきさ「大きさ」- n. cỡ, kích thước
+ーびん「ー便」- . chuyến bay -
+ーごう「ー号」- . số - (số hiệu đoàn tàu, cơn bão v.v.)
+ーこ「ー個」- . cái, cục, viên (đơn vị đếm vật nhỏ)
+ーほん／ぽん／ぼん「ー本」- . - cái (đơn vị đếm vật dài)
+ーはい／ぱい／ばい「ー杯」- . - chén, - cốc
+ーキロ - . - ki-lô, - cân
+ーグラム - . - gam
+ーセンチ - . - xăng-ti-mét
+ーミリ - . - mi-li-mét
+〜いじょう「〜以上」- . ~ trở lên, lên
+〜いか「〜以下」- . ~ trở xuống, dưới
+さあ - . À..., Ồ... (dùng khi không rõ về điều gì đó)
+ゴッホ - . Van-gốc (1853-1890), danh hoạ người Hà Lan
+ゆきまつり「雪祭り」- . Lễ hội tuyết (ở Sapporo)
+のぞみ - . tên một loại tàu Shinkansen
+JL - . Hãng hàng không Nhật Bản (Japan Airlines)
+どうでしょうか。- . Thế nào? (cách nói lịch sự của どうですか)
+クラス - n. lớp học
+テスト - n. bài kiểm tra, bài thi
+せいせき「成績」- n. kết quả, thành tích
+ところで - . nhân tiện đây
+いらっしゃいます - v. đến "tôn kính ngữ của きます" (Động từ loại I)
+ようす「様子」- . vẻ, tình hình
+じけん「事件」- n. vụ án
+オートバイ - n. xe máy
+ばくだん「爆弾」- n. bom
+つみます「積みます」- v. chuyển lên, xếp hàng lên (Động từ loại I)
+うんてんしゅ「運転手」- . lái xe
+はなれた「離れた」- . xa cách, xa
+が - . nhưng
+きゅうに「急に」- . gấp, đột nhiên
+うごかします「動かします」- v. khởi động, chạy (Động từ loại I)
+いっしょうけんめい「一生懸命」- . hết sức, chăm chỉ
+はんにん「犯人」- n. thủ phạm
+てに　いれます「手に　入れます」- v. có được, lấy được, đoạt được (Động từ loại II)
+いまでも「今でも」- . ngay cả bây giờ
+うわさします - v. đồn đại (Động từ loại III)
+たんい「単位」- n. đơn vị
+せん「線」- n. đường (vẽ)
+かたち「形」- n. hình
+もよう「模様」- n. hoa văn
+めんせき「面積」- n. diện tích
+へいほうセンチメートル「平方センチメートル」- . xăng-ti-mét vuông
+へいほうメートル「平方メートル」- . mét vuông
+へいほうキロメートル「平方キロメートル」- . ki-lô-mét vuông
+ながさ「長さ」- n. chiều dài
+ミリ（メートル）- . mi-li-mét
+センチ（メートル）- . xăng-ti-mét
+メートル - . mét
+キロ（メートル）- . ki-lô-mét
+たいせき「体積」- n. thể tích
+ようせき「容積」- n. dung tích
+りっぽうセンチメートル「立方センチメートル」- . xăng-ti-mét khối
+りっぽうメートル「立方メートル」- . mét khối
+ミリリットル - . mi-li-lít
+シーシー - . cc
+リットル - . lít
+おもさ「重さ」- n. trọng lượng
+ミリグラム - . mi-li-gam
+グラム - . gam
+キロ（グラム）- . ki-lô-gam
+トン - . tấn
+けいさん「計算」- n. tính toán
+たす - . (tính toán) cộng
+ひく - . (tính toán) trừ
+かける - . (tính toán) nhân
+わる - . (tính toán) chia
+は（イコール）- . (tính toán) bằng
+ちょくせん「直線」- n. đường thẳng
+きょくせん「曲線」- n. đường cong
+てんせん「点線」- n. đường kẻ chấm
+えんまる「円丸」- n. hình tròn
+さんかくけい「三角形」- n. hình tam giác
+しかくけい「四角形」- n. hình tứ giác
+たてじま「縦じま」- . (hoa văn) kẻ sọc
+よこじま「横じま」- . (hoa văn) kẻ ngang
+チェック - . (hoa văn) ca-rô
+みずたま「水玉」- . (hoa văn) chấm
+はながら「花柄」- . (hoa văn) in hoa
+むじ「無地」- . (hoa văn) không hoa văn
+
+Bài 41
+いただきます - v. nhận "khiêm nhường ngữ của もらいます" (Động từ loại I)
+くださいます - v. cho/tặng (tôi) "tôn kính ngữ của くれます" (Động từ loại I)
+やります - v. cho/tặng "dùng với người dưới hoặc bằng vai" (Động từ loại I)
+よびます「呼びます」- v. mời (Động từ loại I)
+とりかえます「取り替えます」- v. đổi, thay (Động từ loại II)
+しんせつに　します「親切に　します」- v. giúp đỡ, đối xử thân thiện (Động từ loại III)
+かわいい - adj. xinh, đáng yêu
+おいわい「お祝い」- n. mừng, quà mừng (〜を　します: mừng)
+おとしだま「お年玉」- n. tiền mừng tuổi
+（お）みまい「（お）見舞い」- . thăm người ốm
+きょうみ「興味」- n. sở thích, quan tâm ([コンビューターに]〜が　あります: quan tâm đến [máy tính])
+じょうほう「情報」- n. thông tin
+ぶんぽう「文法」- n. ngữ pháp
+はつおん「発音」- n. phát âm
+さる「猿」- n. con khỉ
+えさ - n. đồ ăn cho động vật, mồi
+おもちゃ - n. đồ chơi
+えほん「絵本」- n. quyển truyện tranh
+えはがき「絵はがき」- n. bưu ảnh
+ドライバー - n. cái tua-vít
+ハンカチ - n. khăn mùi xoa, khăn tay
+くつした「靴下」- n. cái tất
+てぶくろ「手袋」- n. cái găng tay
+ゆびわ「指輪」- n. cái nhẫn
+バッグ - n. cái túi (bag)
+そふ「祖父」- . ông (dùng với bản thân)
+そぼ「祖母」- . bà (dùng với bản thân)
+まご「孫」- . cháu
+おじ - . chú, cậu. bác (dùng với bản thân)
+おじさん - . chú, cậu, bác (dùng với người khác)
+おば - . cô, dì, bác (dùng với bản thân)
+おばさん - . cô, dì, bác (dùng với người khác)
+おととし - . năm kia
+はあ - . à, ồ
+もうしわけ　ありません。「申し訳　ありません。」- . Xin lỗi.
+あずかります「預かります」- v. giữ, giữ hộ, giữ cho (Động từ loại I)
+せんじつ「先日」- . hôm trước, mấy hôm trước
+たすかります「助かります」- v. may có anh/chị giúp (Động từ loại I)
+むかしばなし「昔話」- n. chuyện cổ tích
+ある〜 - . có ~, một ~
+おとこ「男」- n. người đàn ông, nam giới
+こどもたち「子どもたち」- n. trẻ em, trẻ con, bọn trẻ
+いじめます - v. bắt nạt (Động từ loại II)
+かめ - n. con rùa
+たすけます「助けます」- v. giúp, giúp đỡ (Động từ loại II)
+（お）しろ「（お）城」- n. lâu đài, thành
+おひめさま「お姫様」- n. công chúa
+たのしく「楽しく」- . vui
+くらします「暮らします」- v. sống, sinh hoạt (Động từ loại I)
+りく「陸」- n. đất liền, lục địa
+すると - . thế rồi, sau đó
+けむり「煙」- . khói
+まっしろ（な）「真っ白（な）」- adj. trắng toát, trắng ngần
+なかみ「中身」- . nội dung, cái ở bên trong
+べんりじょうほう「便利情報」- n. những thông tin bổ ích
+たくはいびんなら、ペンギンびん！「宅配便なら、ペンギン便！」- . Nếu muốn dùng dịch vụ chuyển đồ đến nhà, hãy gọi Penguin! (03-3812-5566)
+りょこうのにもつをいえからくうこうまではいたつします。「旅行の荷物を家から空港まで配達します。」- . Nhận chuyển hành lý từ nhà đến sân bay.
+がくせいやたんしんしゃのちいさいひっこしをします。「学生や単身者の小さい引っ越しをします。」- . Nhận chuyển nhà số lượng ít cho sinh viên, người độc thân v.v.
+とまりませんか「泊まりませんか」- . Hãy trọ ở chỗ chúng tôi (0585-214-1234)
+みんしゅく　みうら「民宿　三浦」- . Nhà nghỉ Miura
+やすい、しんせつ、かていてきなやど「安い、親切、家庭的な宿」- . chỗ nghỉ thân thiện, thoải mái như ở nhà với giá rẻ
+こうみんかんからのおしらせ「公民館からのお知らせ」. Thông báo của Trung tâm văn hoá (0798-72-2518)
+にほんりょうりこうしゅうかい「日本料理講習会」- . Lớp dạy món ăn Nhật
+いけばなスクール「生け花スクール」- . Lớp dạy cắm hoa
+にほんごきょうしつ「日本語教室」- . Lớp dạy tiếng Nhật
+バザー - n. chợ đồ cũ
+べんりや「便利屋」- . Dịch vụ giúp việc (0343-885-8854)
+なんでもします「何でもします」- . Chúng tôi nhận làm mọi việc
+いえのしゅうり、そうじ「家の修理、掃除」- . sửa nhà, dọn vệ sinh
+あかちゃん、こどものせわ「赤ちゃん、子どもの世話」- . trông trẻ
+いぬのさんぽ「犬の散歩」- . dẫn chó đi dạo
+はなしあいて「話し相手」- . làm bạn nói chuyện
+レンタルサービス - . dịch vụ cho thuê (0741-41-5151)
+なんでもかします「何でも貸します」- . Cho thuê mọi thứ
+ビデオカメラ - n. máy quay video
+けいたいでんわ「携帯電話」- n. điện thoại cầm tay
+ベビーようひん「ベビー用品」- n. đồ dùng cho trẻ em
+レジャーようひん「レジャー用品」- n. đồ dùng dã ngoại
+りょこうようひん「旅行用品」- n. đồ dùng du lịch
+おてらでたいけんできます「お寺で体験できます」- . Những thứ bạn có thể trải nghiệm ở chùa (0562-231-2010)
+ぜんができます「禅ができます」- . tập Thiền
+しょうじんりょうりがたべられます「精進料理が食べられます」- . ăn chay
+
+Bài 42
+つつみます「包みます」- v. bọc, gói (Động từ loại I)
+わかします「沸かします」- v. đun sôi (Động từ loại I)
+まぜます「混ぜます」- v. trộn, khuấy (Động từ loại II)
+けいさんします「計算します」- v. tính toán, làm tính (Động từ loại III)
+あつい「厚い」- adj. dày
+うすい「薄い」- adj. mỏng
+べんごし「弁護士」- n. luật sư
+おんがくか「音楽家」- n. nhạc sĩ
+こどもたち「子どもたち」- n. trẻ em, trẻ con, bọn trẻ
+ふたり「二人」- n. hai người, cặp, đôi
+きょういく「教育」- n. giáo dục, việc học hành
+れきし「歴史」- n. lịch sử
+ぶんか「文化」- n. văn hoá
+しゃかい「社会」- n. xã hội
+ほうりつ「法律」- n. pháp luật
+せんそう「戦争」- n. chiến tranh
+へいわ「平和」- n. hoà bình
+もくてき「目的」- n. mục đích
+あんぜん「安全」- n. an toàn
+ろんぶん「論文」- n. luận văn, bài báo học thuật
+かんけい「関係」- n. quan hệ
+ミキサー - n. máy trộn (mixer)
+やかん - n. cái ấm nước
+せんぬき「栓抜き」- n. cái mở nắp chai
+かんきり「缶切り」- n. cái mở đồ hộp
+かんづめ「缶詰」- n. đồ hộp
+ふろしき - n. tấm vải để gói đồ
+そろばん - n. bàn tính
+たいおんけい「体温計」- n. máy đo nhiệt độ cơ thể
+ざいりょう「材料」- n. nguyên liệu
+いし「石」- n. hòn đá, đá
+ピラミッド - n. kim tự tháp
+データ - n. số liệu, dữ liệu
+ファイル - n. cái kẹp tài liệu (file)
+ある〜 - . có ~, một ~
+いっしょうけんめい「一生懸命」- . hết sức, chăm chỉ
+なぜ - . tại sao
+こくれん「国連」- . Liên Hợp Quốc
+エリーゼの　ために - . Fur Elize, tên một bản nhạc của Bít-thô-ven
+ベートーベン - . Bít-thô-ven (1770-1827), nhà soạn người Đức
+ポーランド - . Ba Lan
+ローン - n. khoản vay trả góp, tiền vay trả góp
+セット - . bộ
+あと - . còn lại
+カップラーメン - n. mì ăn liền đựng trong cốc
+インスタントラーメン - n. mì ăn liền
+なべ - n. cái chảo, cái nồi
+どんぶり - n. cái bát tô
+しょくひん「食品」- n. thực phẩm, đồ ăn
+ちょうさ「調査」- n. việc điều tra, cuộc điều tra
+カップ - n. cốc (dùng để đựng đồ ăn)
+また - . và, thêm nữa
+〜の　かわりに「〜の　代わりに」- . thay ~, thay thế ~
+どこででも - . ở đâu cũng
+いまでは「今では」- . bây giờ (thì)
+じむようひん「事務用品」- n. đồ dùng văn phòng
+どうぐ「道具」- n. dụng cụ
+とじる - n. bấm
+ホッチキス - n. cái bấm ghim
+はさむ.とじる - n. kẹp
+クリップ - n. cái kẹp
+とめる「留める」- n. đóng
+がびょう「画びょう」/ おしピン「押しピン」- n. cái đinh bấm, đinh mũ
+きる「切る」- n. cắt
+カッター - n. cái dao rọc
+はさみ - n. cái kéo
+はる - n. dán, dính
+セロテープ - n. băng dính trong suốt
+ガムテープ - n. băng dính keo vải
+のり - n. hồ dán
+けずる「削る」- n. gọt
+えんぴつけずり「鉛筆削り」- n. cái gọt bút chì
+ファイルする - n. kẹp, đóng thành tập
+けす「消す」- n. tẩy, xoá
+けしゴム「消しゴム」- n. cái tẩy (bằng cao su)
+しゅうせいえき「修正液」- n. dung dịch xoá
+（あなを）あける「（穴を）あける」- n. đục (lỗ), bấm (lỗ)
+パンチ - n. cái bấm lỗ
+けいさんする「計算する」- n. tính toán
+でんたく「電卓」- n. máy tính
+（せんを）ひく「（線を）引く」- n. kẻ (đường)
+はかる「測る」- n. đo đạc
+じょうぎ「定規」／ものさし - n. cái thước
+のこぎり - n. cái cưa
+（くぎを）うつ「（くぎを）打つ」- n. đóng, gõ
+かなづち「金づち」- n. cái búa (bằng kim loại)
+はさむ「挟む」- n. kẹp
+まげる「曲げる」- n. bẻ cong, uốn cong
+ペンチ - n. cái kìm
+（ねじを）しめる「（ねじを）締める」- n. vặn vào, vặn chặt
+ゆるめる「緩める」- n. vặn ra, tháo ra
+ドライパー - n. cái tua-vít
+
+Bài 43
+ゆしゅつが　ふえます「輸出が　増えます」- v. xuất khẩu tăng/tăng lên (Động từ loại II)
+ゆしゅつが　へります「輸出が　減ります」- v. xuất khẩu giảm/giảm xuống (Động từ loại I)
+ねだんが　あがります「値段が　上がります」- v. giá tăng/tăng lên (Động từ loại I)
+ねだんが　さがります「値段が　下がります」- v. giá giảm/giảm xuống (Động từ loại I)
+ひもが　きれます「ひもが　切れます」- v. sợi dây bị đứt (Động từ loại II)
+ボタンが　とれます - v. cái cúc bị tuột (Động từ loại II)
+にもつが　おちます「荷物が　落ちます」- v. hành lý bị rơi (Động từ loại II)
+ガソリンが　なくなります - v. xăng bị mất, hết (Động từ loại I)
+じょうぶ（な）「丈夫（な）」- adj. chắc, bền
+へん（な）「変（な）」- adj. lạ, kỳ quặc
+しあわせ（な）「幸せ（な）」- adj. hạnh phúc
+うまい - adj. ngon
+まずい - adj. dở
+つまらない - adj. buồn tẻ, không hấp dẫn, không thú vị
+ガソリン - n. xăng
+ひ「火」- n. lửa
+だんぼう「暖房」- n. thiết bị làm ấm, lò sưởi, máy điều hoà
+れいぼう「冷房」- n. thiết bị làm mát, máy điều hoà
+センス - . có khiếu, có gu (「ふくの」〜が　あります: có gu [ăn mặc])
+いまにも「今にも」- . (có vẻ, sắp) ~ đến nơi
+わあ - . Ôi! (câu nói dùng khi ngạc nhiên hoặc cảm thán điều gì)
+かいいん「会員」- n. thành viên
+てきとう（な）「適当（な）」- adj. thích hợp, vừa phải
+ねんれい「年齢」- n. tuổi
+しゅうにゅう「収入」- n. thu nhập
+ぴったり - . vừa vặn, đúng
+そのうえ - . thêm vào đó, hơn thế
+〜と　いいます - . (tên) là ~, gọi là ~
+ばら - n. hoa hồng
+ドライブ - . lái xe (đi chơi)
+せいかく「性格」- n. tính cách
+せいしつ「性質」- n. tính chất
+あかるい「明るい」- adj. sáng, vui tươi
+くらい「暗い」- adj. tối, buồn tẻ
+やさしい「優しい」- adj. tốt bụng, hiền lành
+おとなしい - adj. hiền, trầm
+つめたい「冷たい」- adj. lạnh, lạnh lùng
+きびしい「厳しい」- adj. nghiêm, nghiêm khắc, khắt khe
+きがながい「気が長い」- adj. kiên nhẫn, biết chịu đựng
+きがみじかい「気が短い」- adj. thiếu kiên nhẫn, nóng tính
+きがつよい「気が強い」- adj. mạnh mẽ, cứng rắn
+きがよわい「気が弱い」- adj. yếu ớt, nhu nhược
+かっぱつ（な）「活発（な）」- adj. hoạt bát
+せいじつ（な）「誠実（な）」- adj. thành thật, trung thực
+わがまま（な）- adj. ích kỷ, tuỳ tiện
+まじめ（な）- adj. nghiêm túc, nghiêm chỉnh
+ふまじめ（な）- adj. không nghiêm túc, không đứng đắn
+がんこ（な）「頑固（な）」- adj. bảo thủ, không nghe người khác, ngoan cố
+すなお（な）「素直（な）」- adj. dễ bảo, ngoan ngoãn
+いじわる（な）「意地悪（な）」- adj. có ý xấu, đểu, không chơi đẹp
+かちき（な）「勝ち気（な）」- adj. hiếu thắng, không dễ thua
+しんけいしつ（な）「神経質（な）」- adj. nhạy cảm, dễ tổn thương
+
+Bài 44
+なきます「泣きます」- v. khóc (Động từ loại I)
+わらいます「笑います」- v. cười (Động từ loại I)
+かわきます「乾きます」- v. khô (Động từ loại I)
+ぬれます - v. ướt (Động từ loại II)
+すべります「滑ります」- v. trượt (Động từ loại I)
+じごが　おきます「事後が　起きます」- v. tai nạn xảy ra (Động từ loại II)
+ちょうせつします「調節します」- v. điều tiết, điều chỉnh (Động từ loại III)
+あんぜん（な）「安全（な）」- adj. an toàn
+ていねい（な）「丁寧（な）」- adj. lịch sự, cẩn thận
+こまかい「細かい」- adj. chi tiết, tỉ mỉ, nhỏ
+こい「濃い」- adj. nồng, đậm
+うすい「薄い」- adj. nhạt
+くうき「空気」- n. không khí
+なみだ「涙」- n. nước mắt
+わしょく「和食」- n. món ăn Nhật
+ようしょく「洋食」- n. món ăn Âu Mỹ
+おかず - n. thức ăn
+りょう「量」- n. lượng
+ーばい「ー倍」- . - lần
+はんぶん「半分」- . một nửa
+シングル - n. phòng đơn (1 giường)
+ツイン - n. phòng đôi (2 giường)
+たんす - n. tủ đựng quần áo
+せんたくもの「洗濯物」- n. quần áo giặt
+りゆう「理由」- n. lý do
+どう　なさいますか。- q. Anh/Chị định như thế nào?
+カット - . cắt tóc
+シャンプー - . gội đầu
+どういうふうに　なさいますか。- q. Anh/Chị định ~ như thế nào?
+ショート - . kiểu ngắn
+〜みたいに　して　ください。- . Hãy cắt như ~
+これで　よろしいでしょうか。- q. Thế này đã được chưa ạ?
+（どうも）おつかれさまでした。「（どうも）お疲れさまでした。」- . Cám ơn anh/chị.
+いやがります「嫌がります」- v. không thích, tỏ thái độ không thích (Động từ loại I)
+また - . thêm nữa
+じゅんじょ「順序」- n. thứ tự
+ひょうげん「表現」- n. cách nói, cách diễn đạt
+たとえば「例えば」- n. ví dụ
+わかれます「別れます」- v. chia tay, từ biệt (Động từ loại II)
+これら - . những cái này
+えんぎがわるい「縁起が悪い」- adj. không may, không lành
+びよういん「美容院」- n. hiệu làm đẹp
+りはつてん「理髪店」- n. hiệu cắt tóc
+カット - . cắt tóc
+パーマ - . uốn tóc
+セット - . làm đầu, tạo kiểu tóc "set"
+シャンプー - . dầu gội
+リンス - . dầu xả "rinse"
+トリートメント - . dầu dưỡng tóc
+ブロー - . sấy tóc
+ヘアダイ - . nhuộm tóc
+（ひげ）そる - . cạo râu
+かおをそる「顔を　そる」- . cạo mặt
+かみを　わける「髪を　分ける」- . rẽ ngôi tóc
+みみがみえるくらいに　きってください。「耳が見えるくらいに　切ってください。」- . Hãy cắt tóc cho tôi để hở tai
+かたにかかるくらいに　きってください。「肩にかかるくらいに　切ってください。」- . Hãy cắt tóc cho tôi đến cỡ ngang vai
+まゆがかくれれくらいに　きってください。「まゆが隠れるくらいに　切ってください。」- . Hãy cắt tóc cho tôi để che được lông mày
+1センチくらい　きってください。「1センチくらい　切ってください。」- . Hãy cắt tóc cho tôi khoảng 1 cm.
+このしゃしんみたいに　きってください。「この写真みたいに　切ってください。」- . Hãy cắt tóc cho tôi như kiểu trong tấm ảnh này
+いろいろなヘアスタイル - n. Các kiểu tóc
+ボブ - . (Kiểu tóc) mái bằng ngắn "bob"
+レイヤーカット - . (Kiểu tóc) mái đuổi "layered"
+ソバージュ - . (Kiểu tóc) xù "shaggy"
+おかっぱ - . (Kiểu tóc) duỗi "bobbed hair"
+みつあみ「三つ編み」- . (Kiểu tóc) búi đôi
+ポニーテール - . (Kiểu tóc) búi đằng sau, búi đuôi ngựa
+まるがり「丸刈り」- . (Kiểu tóc) đầu vuông "close-cropped"
+ちょうはつ「長髪」- . (Kiểu tóc) dài
+リーゼント - . (Kiểu tóc) đuôi vịt "ducktail"
+
+Bài 45
+あやまります「謝ります」- v. xin lỗi, tạ lỗi (Động từ loại I)
+じこに　あいます「事故に　あいます」- v. gặp tai nạn (Động từ loại I)
+しんじます「信じます」- v. tin, tin tưởng (Động từ loại II)
+よういします「用意します」- v. chuẩn bị (Động từ loại III)
+キャンセルします - v. huỷ, huỷ bỏ (Động từ loại III)
+うまく　いきます - v. tốt, thuận lợi (Động từ loại I)
+ほしょうしょ「保証書」- n. giấy bảo hành
+りょうしゅうしょ「領収書」- n. hoá đơn
+おくりもの「贈り物」- n. quà tặng (〜を　します: tặng quà)
+まちがいでんわ「まちがい電話」- n. điện thoại nhầm
+キャンプ - n. trại
+かかり「係」- n. nhân viên, người phụ trách
+ちゅうし「中止」- . dừng, đình chỉ
+てん「点」- . điểm
+レバー - n. tay bẻ, tay số, cần gạt
+（ーえん）さつ「（ー円）札」- n. tờ tiền giấy [- yên]
+しゃんと - . đúng, hẳn hỏi
+きゅうに「急に」- . gấp
+たのしみに　して　います「楽しみに　して　います」- . mong đợi, lấy làm vui
+いじょうです。「以上です。」- . Xin hết
+かかりいん「係員」- n. nhân viên
+コース - n. đường chạy (ma-ra-tông)
+スタート - . xuất phát
+ーい「ー位」- . thứ -, vị trí thứ -, giải -
+ゆうしょうします「優勝します」- v. vô địch, đoạt giải nhất (Động từ loại III)
+なやみ「悩み」- n. (điều/sự) lo nghĩ, trăn trở, phiền muộn
+めざまし（どけい）「目覚まし（時計）」- n. đồng hồ báo thức
+ねむります「眠ります」- v. ngủ (Động từ loại I)
+めが　さめます「目が　覚めます」- v. tỉnh giấc (Động từ loại II)
+だいがくせい「大学生」- n. sinh viên đại học
+かいとう「回答」- n. câu trả lời, lời giải
+なります「鳴ります」- v. reo, kêu (Động từ loại I)
+セットします - v. cài, đặt (Động từ loại III)
+それでも - . tuy thế, mặc dù thế
+ひじょうのばあい「非常の場合」- n. trường hợp khẩn cấp
+じしんのばあい「地震の場合」- n. trường hợp có động đất
+そなえがたいせつ「備えが大切」- . việc chuẩn bị là quan trọng
+かぐがたおれないようにしておく「家具が倒れないようにしておく」- . cố định đồ dùng nội thất để không bị đổ
+しょうかきをそなえる.みずをたくわえておく「消火器を備える.水を貯えておく」- . để sẵn bình cứu hoả và dự trũ nước
+ひじょうようもちだしぶくろをよういしておく「非常用持ち出し袋を用意しておく」- . chuẩn bị sẵn túi đựng đồ dùng cần thiết trong trường hợp khẩn cấp
+ちいきのひなんばしょをかくにんしておく「地域の避難場所を確認しておく」- . xác nhận nơi lánh nạn ở khu vực mình sống
+かぞく、ちじん、ゆうじんと、もしものばあいのれんらくさきをきめておく「家族、知人、友人と、もしもの場合の連絡先を決めておく」- . chọn địa chỉ liên lạc của gia đình, bạn bè, người quen trong trường hợp bất trắc
+まんいちじしんがおきたばあい「万一地震が起きた場合」- . trường hợp xảy ra động đất
+すばやくひのしまつ「すばやく火の始末」- . tắt ngay tất cả các chỗ có lửa
+とをあけてでぐちのかくほ「戸を開けて出口の確保」- . mở cửa để giữ lối thoát
+あわててそとにとびださない「慌てて外に飛び出さない」- . không hoảng hốt hoặc chạy ra ngoài
+テーブルのしたにもぐる「テーブルの下にもぐる」- . chui xuống gầm bàn
+じしんがおさまったら「地震が收まったら」- . Khi hết động đất
+ただしいじょうほうをきく「正しい情報を聞く」- . Nghe thông tin chính xác
+やまくずれ「山崩れ」- n. núi lở
+がけくずれ「崖崩れ」- n. vách đá lở
+つなみ「津波」- n. sóng thần
+ちゅうい「注意」- . chú ý
+ひなんするばあいは「避難する場合は」- . trường hợp lánh nạn
+くるまをつかわず、かならずあるいて「車を使わず、必ず歩いて」- . Không dùng ô-tô mà phải đi bộ
+たいふうのばあい「台風の場合」- . Trường hợp có bão
+きしょうじょうほうをきく「気象情報を聞く」- . Nghe thông tin thời tiết
+いえのまわりのてんけん「家の周りの点検」- . Kiểm tra mọi thứ quanh nhà
+ラジオのでんちのそなえを「ラジオの電池の備えを」- . Chuẩn bị pin của đài thu thanh
+みず、きんきゅうしょくひんのじゅんび「水、緊急食品の準備」- . Chuẩn bị nước, thức ăn trong trường hợp khẩn cấp
+
+Bài 46
+やきます「焼きます」- v. nướng, rán (Động từ loại I)
+わたします「渡します」- v. đưa cho, giao cho (Động từ loại I)
+かえって　きます「帰って　来ます」- v. về, trở lại (Động từ loại III)
+バスが　でます「バスが　出ます」- v. xe buýt xuất phát/chạy (Động từ loại II)
+るす「留守」- n. đi vắng
+たくはいびん「宅配便」- n. dịch vụ chuyển đồ đến nhà
+げんいん「原因」- n. nguyên nhân
+ちゅうしゃ「注射」- n. tiêm
+しょくよく「食欲」- n. cảm giác muốn ăn, cảm giác ngon miệng
+パンフレット - n. tờ rơi, tờ quảng cáo
+ステレオ - n. stereo
+こちら - . đây, đằng này
+〜の　どころ「〜の　所」- . quanh ~, xung quanh ~
+ちゅうど - . vừa đúng
+たったいま「たった今」- . vừa mới rồi
+いま　いいでしょうか。「今　いいでしょうか。」- q. Bây giờ tôi làm phiền anh có được không ạ?
+ガスサーゼスセンター - n. trung tâm dịch vụ ga
+ガスレンジ - n. bếp ga
+ぐあい「具合」- n. trạng thái, tình hình
+どちらさまでしょうか。「どちら様でしょうか。」- q. Ai đấy ạ?
+むかいます「向かいます」- v. hướng đến, trên đường đến (Động từ loại I)
+おまたせしました。「お待たせ紙ました。」- . Xin lỗi vì để anh/chị phải đợi.
+ちしき「知識」- n. tri thức, kiến thức
+ほうこ「宝庫」- n. kho báu
+じょうほうが　てにはいります「情報が　手に入ります」- v. lấy được/thu thập được thông tin (Động từ loại I)
+システム - n. hệ thống
+たとえば「例えば」- . ví dụ, chẳng hạn
+キーワード - n. từ khoá
+いちぶぶん「一部分」- . một bộ phận
+にゅうりょくします「入力します」- v. nhập (Động từ loại III)
+びょう「秒」- . giây
+ほんが　でます「本が　出ます」- v. quyển sách được xuất bản (Động từ loại II)
+かたかなごのルーツ「かたかな語のルーツ」
+たべもの「食べ物」- n. đồ ăn
+のみもの「飲み物」- n. đồ uống
+ジャム - n. mứt, mứt dẻo (jam)
+ハム - n. giăm-bông, giò
+クッキー - n. bánh bích-quy
+チーズ - n. pho-mát
+コロッケ - n. món bánh bột khoai tây chiên
+オムレツ - n. món trứng ốp-lếp
+ピーマン - n. quả ớt tây, ớt ngọt
+フランクフルト（ソーセージ） - n. (xúc-xích) frankfurter
+ビール - n. bia
+コーヒー - n. cà-phê
+パン - n. bánh mì
+カステラ - n. bánh ngọt xốp (sponge cake, castella)
+マカロニ - n. mì ống
+スパゲッティ - n. spaghetti
+いふく「衣服」- n. quần áo
+エプロン - n. cái tạp-dề
+スカート - n. cái váy
+スーツ - n. bộ com-lê
+ズボン - n. cái quần
+ランジェリー - n. quần áo lót phụ nữ (lingerie)
+キュロット - n. quần cụt, quần soóc rộng (culotte)
+ズック - n. vải thô
+ホック - n. cái khuya móc (hook)
+ビロード - n. vải nhung (velvet)
+チョッキ - n. áo gi-nê (waistcoast, vest)
+びょうき「病気」- n. bệnh tật
+インフルエンザ - n. cúm dịch
+ストレス - n. stress, căng thẳng
+レントゲン - n. tia X, X-quang
+ノイローゼ - n. bệnh thần kinh
+アレルギー - n. dị ứng
+メス - n. con dao mổ
+ピンセット - n. cái nhíp
+げいじゅつ「芸術」- n. nghệ thuật
+ドラマ - n. kịch, phim kịch
+コーラス - n. dàn đồng ca (chorus)
+メロディー - n. giai điệu
+バレエ - n. múa ba-lê
+シャンソン - n. nhạc chanson
+アトリエ - n. trường quay, xưởng phim/ảnh
+メルヘン - n. chuyện cổ tích
+オペラ - n. nhạc kịch opera
+バルリーナ - n. nữ vũ công ba-lê
+そのた「その他」- n. những thứ khác
+スケジュール - n. thời khoá biểu, lịch làm việc
+ティッシュペーパー - n. giấy lau
+トラブル - n. điều rắc rối
+レジャー - n. thời gian/việc nghỉ ngơi giải trí
+アンケート - n. bản câu hỏi
+コンクール - n. cuộc thi
+ピエロ - n. anh hề
+アルバイト - n. làm thêm
+エネルギー - n. năng lượng
+ゲレンデ - n. bãi trượt tuyết
+テーマ - n. chủ đề, đề tài
+ゴム - n. cao su
+ペンキ - n. sơn
+ガラス - n. thuỷ tinh
+コック - n. đầu bếp
+カルタ - n. trò chơi carta
+
+Bài 47
+ひとが　あつまります「人が　集まります」- v. người tập trung/tập hợp (Động từ loại I)
+ひとが　わかれます「人が　別れます」- v. người chia/chia nhỏ/chia ra (Động từ loại II)
+ながいきします「長生きします」- v. sống lâu (Động từ loại III)
+おと／こえが　します「音／声が　します」- v. nghe thấy, có âm thanh/tiếng (Động từ loại III)
+あじが　します「味が　します」- v. có vị (Động từ loại III)
+においが　します - v. có mùi (Động từ loại III)
+かさを　さします「傘を　さします」- v. che ô (Động từ loại I)
+ひどい - adj. tồi tệ, xấu
+こわい「怖い」- adj. sợ, khiếp
+てんきよほう「天気予報」- n. dự báo thời tiết
+はっぴょう「発表」- n. phát biểu, báo cáo
+じっけん「実験」- n. thực nghiệm, thí nghiệm
+じんこう「人口」- n. dân số
+におい - . mùi
+かがく「科学」- n. khoa học
+いがく「医学」- n. y học
+ぶんがく「文学」- n. văn học
+パトカー - n. xe ô-tô cảnh sát
+きゅうきゅうしゃ「救急車」- n. xe cấp cứu
+さんせい「賛成」- . tán thành, đồng ý
+はんたい「反対」- . phản đối
+だんせい「男性」- . nam giới, nam
+じょせい「女性」- . nữ giới, nữ
+どうも - . có vẻ như là, có lẽ là
+〜に　よると - . theo ~ thì, căn cứ vào ~ thì
+バリ（とう）「バリ（島）」- . đảo Bali (ở Indonesia)
+イラン - . Iran
+カリフォルニア - . California (ở Mỹ)
+グアム - . Guam
+こいびと「恋人」- n. người yêu
+こんやくします「婚約します」- v. đính hôn (Động từ loại III)
+あいて「相手」- n. đối tác, đối phương, người kia, "nửa còn lại"
+しりあいます「知り合います」- v. gặp, gặp gỡ làm quen (Động từ loại I)
+へいきんじゅみょう「平均需要」- n. tuổi thọ trung bình
+だんせいと　くらべます「男性と　比べます」- v. so sánh với nam giới (Động từ loại II)
+はかせ「博士」- n. tiến sĩ
+のう「脳」- n. não
+ホルモン - n. hóc-môn
+けしょうひん「化粧品」- n. mỹ phẩm
+しらべ「調べ」- n. điều tra, tìm hiểu
+けしょう「化粧」- n. sự trang điểm (〜を　します: trang điểm)
+ぎおんご「擬音語」- n. từ tượng thanh
+ぎたいご「擬態語」- n. từ tượng hình
+ザーザー　ふる「ザーザー　降る」- . mưa ra rả/lộp bộp
+ピューピュー　ふく「ビュービュー　吹く」- . gió thổi vù vù
+ゴロゴロ　なる「ゴロゴロ　鳴る」- . sấm kêu ầm ầm/ì ùng
+ワンワン　ほえる - . chó sủa gâu gâu
+ニャーニャー　なく「ニャーニャー　鳴く」- . mèo kêu meo meo
+カーカー　なく「カーカー　鳴く」- . quạ kêu uạc uạc
+げらげら　わらう「げらげら　笑う」- . cười khúc khích
+しくしく　なく「しくしく　泣く」- . khóc thút thít
+きょろきょろ　みる「きょろきょろ　見る」- . nhìn mắt đảo lia lịa, nhìn quanh quẩn
+ぱくぱく　たべる「ぱくぱく　食べる」- . ăn ngon lành
+ぐうぐう　ねる「ぐうぐう　寝る」- . ngủ khò khò
+すらすら　よむ「すらすら　読む」- . đọc trôi chảy
+ざらざら　している - . cảm giác ram ráp
+べたべた　している - . cảm giác bên bết/dính
+つるつる　している - . cảm giác nhầy nhẫy/tuồn tuột/trơn
+
+Bài 48
+おろします「降ろします／下ろします」- v. cho xuống, hạ xuống (Động từ loại I)
+とどけます「届けます」- v. gửi đến, chuyển đến (Động từ loại II)
+せわを　します「世話を　します」- v. chăm sóc (Động từ loại III)
+いや（な）「嫌（な）」- adj. ngán, không thích
+きびしい「厳しい」- adj. nghiêm, nghiêm khắc, nghiêm ngặt
+じゅく「塾」- n. cơ sở học thêm
+スケジュール - n. thời khoá biểu, lịch làm việc
+せいと「生徒」- n. học sinh, học trò
+もの「者」- n. người (là người thân hoặc cấp dưới)
+にゅうかん「入館」- . Cục Quản lý nhập cảnh
+さいにゅうこくビザ「再入国ビザ」- n. thị thức tái nhập cảnh
+じゆうに「自由に」- n. tự do
+〜かん「〜間」- . trong ~ (dùng để chỉ khoảng thời gian)
+いい　ことですね。- . Hay nhỉ./ Được đấy nhỉ.
+おいそがしいですか。「お忙しいですか。」- q. Anh/Chị có bận không? (được dùng khi nói với người trên)
+ひさしぶり「久しぶり」- . lâu
+えいぎょう「営業」- n. kinh doanh, bán hàng
+それまでに - . trước thời điểm đó
+かまいません。- . Không sao./ Không có vấn đề gì.
+たのしみます「楽しみます」- v. vui, vui thích (Động từ loại I)
+もともと - . vốn dĩ
+ーせいき「ー世紀」- . thế kỷ -
+かわりを　します「代わりを　します」- v. thay thế (Động từ loại III)
+スピード - n. tốc độ
+きょうそうします「競走します」- v. chạy đua, thi chạy (Động từ loại III)
+サーカス - n. xiếc
+げい「芸」- n. trò diễn, tiết mục, tài năng
+うつくしい「美しい」- adj. đẹp
+すがた「姿」- n. dáng điệu, tư thế
+こころ「心」- n. trái tim, tấm lòng, cảm tình
+とらえます - v. giành được (Động từ loại II)
+〜に　とって　- . đối với ~
+しつける - n. dạy bảo
+きたえる「鍛える」- n. rèn giũa
+こどもになにをさせますか「子どもに何をさせますか」- q. bạn sẽ cho con bạn làm gì?
+しぜんおなかであそぶ「自然の中で遊ぶ」- . chơi ở môi trường thiên nhiên
+スポーツをする - . chơi thể thao
+ひとりでりょこうする「一人で旅行する」- . đi du lịch một mình
+いろいろなけいけんをする「いろいろな経験をする」- . trải nghiệm nhiều thứ
+いいほんをたくさんよむ「いい本をたくさん読む」- . đọc nhiều sách
+おとしよりのはなしをきく「お年寄りの話を聞く」- . nghe chuyện của người già
+ボランティアにさんかする「ボランティアに参加する」- . tham gia hoạt động tình nguyện
+うちのしごとをてつだう「うちの仕事を手伝う」- . giúp việc nhà
+おとうとやいもうと、おじいちゃん、おばあちゃんのせわをする「弟や妹、おじいちゃん、おばあちゃんの世話をする」- . chăm sóc em, ông, bà
+じぶんがやりたいことをやる「自分がやりたいことをやる」- . làm những gì mình thích
+じぶんのことはじぶんできめる「自分のことは自分で決める」- . tự lo liệu lấy việc của mình
+じしんをもつ「自信を持つ」- . tự tin vào mình
+せきにんをもつ「責任を持つ」- . chịu trách nhiệm
+がまんする「我慢する」- . chịu đựng
+じゅくへいく「塾へ行く」- . đi học thêm
+ピアノやえいごをならう「ピアのや英語を習う」- . học đàn piano, tiếng Anh v.v.
+
+Bài 49
+かいしゃに　つとめます「会社に　勤めます」- v. làm việc ở công ty (Động từ loại II)
+やすみます「休みます」- v. ngủ (Động từ loại I)
+いすに　かけます「いすに　掛けます」- v. ngồi ghế (Động từ loại II)
+すごします「過ごします」- v. tiêu thời gian, trải qua (Động từ loại I)
+ぎんこうに　よります「銀行に　寄ります」- v. ghé qua ngân hàng (Động từ loại I)
+いらっしゃいます - v. ở/có/đi/đến "tôn kính ngữ của います, いきます và きます" (Động từ loại I)
+めしあがります「召し上がります」- v. ăn/uống "tôn kính ngữ của たべます và のみます" (Động từ loại I)
+おっしゃいます - v. nói "tôn kính ngữ của いいます" (Động từ loại I)
+なさいます - v. làm "tôn kính ngữ của します" (Động từ loại I)
+ごらんに　なります「ご覧に　なります」- v. xem/nhìn "tôn kính ngữ của みます" (Động từ loại I)
+ごぞんじです「ご存じです」- . biết (tôn kính ngữ của しって　います)
+あいさつ - n. chào hỏi (〜を　します: chào hỏi)
+はいざら「灰皿」- n. cái gạt tàn
+りょかん「旅館」- n. khách sạn kiểu Nhật
+かいじょう「会場」- n. hội trường, địa điểm tổ chức
+バスてい「バス停」- n. bến xe buýt, điểm lên xuống xe buýt
+ぼうえき「貿易」- n. thương mại quốc tế, mậu dịch
+〜さま「〜様」- . ngài ~, ông ~, bà ~ (tôn kính ngữ của 〜さん)
+かえりに「帰りに」- . trên đường về
+たまに - . thỉnh thoảng (tần suất nhỏ hơn ときどき)
+ちっとも - . chẳng ~ tí nào, không hề
+えんりょなく「遠慮なく」- . không giữ ý, không làm khách
+ーねんーくみ「ー年ー組」- . lớp - năm thứ -
+では - . thế thì, vậy thì (thể lịch sự của じゃ)
+ねつを　だします「熱を　出します」- v. bị sốt (Động từ loại I)
+よろしく　おつたえ　ください。「よろしく　お伝え　ください。」- . Cho tôi gửi lời hỏi thăm./ Hãy nhắn lại với ~.
+しつれいいたします。「失礼いたします。」- . Xin phép anh/chị. (khiêm nhường ngữ của しつれいします)
+ひまわりしょうがっこう「ひまわり小学校」- . tên một trường tiểu học (giả tưởng)
+こうし「講師」- n. giảng viên, giáo viên
+おおくの〜「多くの〜」- . nhiều ~
+さくひん「作品」- n. tác phẩm
+じゅしょうします「受賞します」- v. nhận giải thưởng, được giải thưởng (Động từ loại III)
+せかいてきに「世界的に」- . tầm cỡ thế giới, mang tính thế giới
+さっか「作家」- n. nhà văn
+〜で　いらっしゃいます - . là ~ (tôn kính ngữ của です)
+ちょうなん「長男」- . trưởng nam
+しょうがい「障害」- . khuyết tật, tàn tật
+おもちです「お持ちです」- . có (cách nói tôn kính của もって　います)
+さっきょく「作曲」- n. sáng tác nhạc
+かつどう「活動」- n. hoạt động
+それでは - . bây giờ thì, đến đây
+おおえけんざぶろう」「大江健三郎」- . một nhà văn người Nhật (1935-)
+とうきょうだいがく「東京大学」- . Đại học Tokyo
+ノーベルぶんがくしょう「ノーベル文学賞」- . giải thưởng Nobel Văn học
+でんわのかけかた「電話のかけ方」- n. cách nói trên điện thoại
+もしもし、ーさんのおたくでいらっしゃいますか。「もしもし、ーさんのお宅でいらっしゃいますか。」- q. A-lô, xin hỏi có phải nhà anh/chị - đấy không ạ?
+はい、ーでございます。- . Vâng, tôi là -.
+わたくし、ーともうしますが「私、ーと申しますが」- . Tôi là -.
+ーさんはいらっしゃいますか。- . Làm ơn cho tôi gặp -.
+いいえ、ちがいます。「いいえ、違います。」- . Không, không phải.
+あ、しつれいしました。「あ、失礼しました。」- . Ồ, tôi xin lỗi.
+はい、ちょっとおまちください。「はい、ちょっとお待ちください。」- . Vâng, anh/chị đợi một chút.
+もしもし、ーですが... - . A-lô, - nghe đây ạ...
+ーはがいしゅつちゅうですが。「ーは外出中ですが。」- . - đi vắng.
+ああ、そうですか。- . Ồ, thế ạ.
+あのう、でんごんをおねがいできますか。「あのう、伝言をお願いできますか。」 - q. Nhờ anh/chị nhắn lại có được không ạ?
+はい、どうぞ。- . Vâng, xin mời.
+では、すみませんが、かいぎは10じに はじまるとおつたえください。「では、すみませんが、会議は10時に　始まるとお伝えください」- . Vâng, nhờ anh/chị nhắn lại là cuộc họp bắt đầu từ 10 giờ
+はい、わかりました。- . Vâng, được rồi.
+ーはでかけておりますが。「ーは出かけておりますが。」- . - đi vắng
+なんじごろおかえりになりますか。「何時ごろお帰りになりますか。」- q. Mấy giờ anh/chị ấy về ạ?
+10じごろになるとおもいますが。「10時ごろになると思いますが。」- . Tôi nghĩ khoảng 10 giờ.
+では、そのころまたおでんわします。「では、そのころまたお電話します。」- . Vậy thì lúc đó tôi sẽ gọi lại.
+そうですか。- . Thế à
+しつれいします。「失礼します。」- . Cám ơn anh/chị. Chào anh/chị.
+
+Bài 50
+まいります「参ります」- v. đi/đến "khiêm nhường ngữ của いきます và きます"　(Động từ loại I)
+おります - v. ở/có "khiêm nhường ngữ của います" (Động từ loại I)
+いただきます - v. ăn/uống/nhận "khiêm nhường ngữ của たべます, のみます và もらいます" (Động từ loại I)
+もうします「申します」- v. nói "khiêm nhường ngữ của いいます" (Động từ loại I)
+いたします - v. làm "khiêm nhường ngữ của します" (Động từ loại I)
+はいけんします「拝見します」- v. xem/nhìn "khiêm nhường ngữ của みます" (Động từ loại III)
+ぞんじます「存じます」- v. biết "khiêm nhường ngữ của しります" (Động từ loại II)
+うかがいます「伺います」- v. hỏi/nghe/đến thăm "khiêm nhường ngữ của きます và いきます" (Động từ loại I)
+おめに　かかります「お目に　かかります」- v. gặp "khiêm nhường ngữ của あいます" (Động từ loại I)
+ございます - v. có "thể lịch sự của あります" (Động từ loại I)
+〜で　ございます - . là (thể lịch sự của 〜です)
+わたくし「私」- . tôi (khiêm nhường ngữ của わたし)
+ガイド - n. người hướng dẫn, hướng dẫn viên
+おたく「お宅」- n. nhà (dùng cho người khác)
+こうがい「郊外」- n. ngoại ô
+アルベム - . an-bom
+さらいしゅう「さ来週」- . tuần sau nữa
+さらいげつ「さ来月」- . tháng sau nữa
+さらいねん「さ来年」- . năm sau nữa
+はんとし「半年」- . nửa năm
+さいしょに「最初に」- . đầu tiên, trước hết
+さいごに「最後に」- . cuối cùng
+ただいま「ただ今」- . bây giờ (thể lịch sự của いま)
+えどとうきょうはくぶつかん「江戸東京博物館」- . Bảo tàng Edo-Tokyo
+きんちょうします「緊張します」- v. căng thẳng, hồi hộp (Động từ loại III)
+ほうそうします「放送します」- v. phát thanh, truyền hình (Động từ loại III)
+ビデオに　とります「ビデオに　撮ります」- v. thu video, quay (Động từ loại I)
+しょうきん「賞金」- n. tiền thưởng
+しぜん「自然」- n. tự nhiên, thiên nhiên
+きりん - n. con hươu cao cổ
+ぞう「象」- n. con voi
+ころ - . hồi, thời
+ゆめが　かないます「夢が　かないます」- v. mơ ước thành hiện thực/được thực hiện (Động từ loại I)
+ひとこと　よろしいでしょうか。- q. Tôi xin phép nói vài lời có được không ạ?
+きょうりょくします「協力します」- v. hợp tác (Động từ loại III)
+こころから「心から」- . từ trái tim, từ đáy lòng
+かんしゃします「感謝します」- v. cám ơn, cảm tạ (Động từ loại III)
+（お）れい「（お）礼」- n. lời cám ơn, sự cám ơn
+はいけい「拝啓」- . kính gửi ~
+うつくしい「美しい」- adj. đẹp
+おげんきで　いらっしゃいますか。「お元気で　いらっしゃいますか。」- q. Anh/Chị có khoẻ không ạ? (tôn kính ngữ của おげんきですか)
+めいわくを　かけます「迷惑を　かけます」- v. làm phiền (Động từ loại II)
+いかします「生かします」- v. tận dụng, phát huy, dùng (Động từ loại I)
+（お）しろ「（お）城」- n. lâu đài
+けいぐ「敬具」- n. kính thư
+ミュンヘン - . Munich (ở Đức)
+ふうとう.はがきのあてなのかきかた「封筒.はがきのあて名の書き方」- . cách viết trên phong bì thư & bưu thiếp
+ふうとう「封筒」- n. phong bì thư
+はがき - n. bưu thiếp
+
+しんちょう「身長」- n. Chiều cao
+たいじゅう「体重」- n. Cân nặng
+みゃく「脈」- n. Mạch/ Nhịp đập (ở tay)
+のど「咽喉」- n. Cổ họng
+～むしば - n. sâu ở (răng)
+ホチミン - . Hồ Chí Minh
+ハノイ - . Hà Nội
+モダン（な） - adj.　Hiện đại
+つつじ「躑躅」- n. Cây đỗ quyên
+おしょうがつ「お正月」- n. Tết
+たいちょう「体調」- n. Tình trạng cơ thể
+きゅうかん「急患」- n. Bệnh cấp tính, cấp cứu
+かてい「家庭」- n. nhà
+しょち「処置」- n. điều trị
+
+
+
+
+
